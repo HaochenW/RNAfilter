@@ -1,300 +1,3000 @@
 >seq0
-UUCCGCUAUAGGGCCCGGGAGCCCGGGGUACCUAUAGCGGAAUGGAUUUAACCAAGCACAUUGCGCUGUCGGAACUACUCCGA
-((((((((((((((((.((...)).)))).))))))))))))(((......)))(((.......))).(((((.....))))) (-37.80)
+CCUAGACGAGCUCUCCUGCACCCAGGAAAAAUAUCGUCUAGGAAUGCGAGCCACACUAAAAAAAGUUGACUUUG
+(((((((((....(((((....)))))......))))))))).....(((.((.(((......))))).))).. (-21.80)
 >seq1
-GAAUUCAAAUUGAACCUCGCAGAGGACAGACAAUUUGAAUUCCCGAUAGCCGAUGUACGUGGACUUCUCCACGGAUCUGUCCGUGGA
-((((((((((((..((((...)))).....))))))))))))..((.(((((.......))).))))((((((((....)))))))) (-28.80)
+GUCGCUAAAGUCAAGGGAAUGCUUCCCCGGACACUUUAGCGACGUCUCGGGUAGAAUCCGGUUAAACAUGUUUAACC
+((((((((((((..(((((...)))))..)))..))))))))).....((((...))))(((((((....))))))) (-28.50)
 >seq2
-CUAGCGGGGAGGCUAUUAAUCUUAAUAUCGUCCCCGCUAGACGAGAUUGGCCCGCAAUAGGUACCUGCAUUUCGUAGCACAAAUGC
-((((((((((.(.(((((....))))).).))))))))))(((((((.((.((......))..))...))))))).(((....))) (-33.40)
+CAAGGGGCUUGAAAGGAGACCUUUCACACCCCCCCUUGAUGACCCGGUGUUUAACAGCACAGGGUCCUGUG
+(((((((..(((((((...))))))).....)))))))..(((((.(((((....))))).)))))..... (-31.20)
 >seq3
-CAAACCUGUGAUGUGCUUAAGUAAUCGCAUCACAGGUUUGGCCAGAAUGAGGAUUUACCUUUAACUAGAGAGUUUCCGUAAACUCG
-(((((((((((((((.((....)).)))))))))))))))...((...((((.....))))...))...((((((....)))))). (-29.80)
+CCCGAGAGAGAACGGCUACAGCCCCACUCUCUCUCGGGCAGAAGCCCUUUCUUUGCUUAAAAUAAUUUCAAUUUUAAC
+(((((((((((..(((....)))....)))))))))))...((((.........)))).................... (-24.90)
 >seq4
-CGCCUUGGGGAUAGCUUAUCCGAGGGAGGCGAGGGUUUCCAGUUGGGAAAACGAAUAGAAUCGGCCCAUAUGGGCCGAUUG
-((((((..(((((...)))))....)))))).(..(((((....)))))..)......(((((((((....))))))))). (-35.30)
+UUGGACAUGAGGUUCCUGGACUCCAACGGUCCACGUGACCUGUCUUCACGCGCUCGUGU
+..(((((...((((.(((((((.....)))))).).))))))))).((((....)))). (-17.80)
 >seq5
-AGAGCUUGACGUGACUCAGCCUGAGUAUUUAGUCAAGCUCUACCAAUCGCUGCCGCGCAGGCACGCUUAAGUAUUCCUAUACUUC
-((((((((((...(((((...))))).....)))))))))).......((((((.....)))).))..((((((....)))))). (-31.80)
+CAUAGGGGUACCCUGAGGGGGUCACCCUAUGCAGGGCCGGCCCAGGUGUGCUCGAACUAGUUCGAA
+.((((((..(((((...)))))..))))))(((..(((......))).)))(((((....))))). (-25.90)
 >seq6
-AUUUUAUAAUACUCAAGUGAGUAAAGUAUAAAAUAGUAUAUGACCGUGAGUGCACUUUGUAUACAACGUAUCUCCGUUGUAUC
-((((((((.(((((....)))))...))))))))...........(((....))).....((((((((......)))))))). (-17.10)
+UAUGUCAUGUGGGAAGCAAGCGUUUGCUUGGAAUGACAUGACAUAAUUACCCGCUAUGGAGUUACUGUGAUGACAGUAG
+((((((((((.(....(((((....)))))...).))))))))))...((((.....)).))((((((....)))))). (-27.70)
 >seq7
-GACAAAACAAUAGGCACGUGCCUAUACGCUUGUCAAGCGACGCCUCGUGCGACAGUGUAUGUGGCGCUUCGCCACG
-(((((....((((((....))))))....)))))..((((((((.(((((......))))).))))..)))).... (-30.20)
+GGUCUAGCCCCACGGAUAUGUAUCCUGAUGGGGCUAGACCCCACGAUCUGUUUAUCAGAGUCUCACGUUUUCUGAGC
+(((((((((((((((((....)))).).))))))))))))..............((((((.........)))))).. (-32.60)
 >seq8
-UUCGUUAGGGACGGAGUAGCUUCGUUGAAGCUACCGAACUCCCUAACGAAGCGUGGGACGCCCGCCGUCACAAAACGGAGGAAUGUGCGCGCUCACAUUCCUG
-(((((((((((..(.((((((((...)))))))))....)))))))))))..(((((...)))))(((......))).(((((((((......))))))))). (-46.20)
+AAUCCUGCCUGUUAAUUAUAACGGUGCUCAGGAUUGGUUCUUUACGAGUAGUGAGAGUUAGUACUCUG
+((((((((((((((....)))))).))..))))))..........(((((.(((...))).))))).. (-18.70)
 >seq9
-ACUAUAAAGCAACUUGGUUGCUAUUAUAUAGUGGGAAUCAUGGGCCACAGUCCGCACGAGCGCCCUCGA
-((((((.((((((...))))))....))))))(((..((.(((((....)))))...))...))).... (-17.40)
+GCCCAACCAGCUCCAGCGCUCAGCGCUAAGUGCUGGUUGGGCUCGGUUAGAUACGACAGUGUAUCUAACAGCCUGUUAGAUG
+(((((((((((...(((((...)))))....)))))))))))...(((((((((......)))))))))............. (-41.40)
 >seq10
-CACGGAUAUCCCGCCCGCAACUAUGCGGGGCGGGGGAUAUCCGUGGACGUAGGUGCUAGCCACAUAUUUUAUGAGACAAUCAUAG
-(((((((((((((((((((....))).))))..))))))))))))...((.(((....)))))......(((((.....))))). (-38.20)
+CUCCCACCUAAGAGCCUCCCUAAGGUAGGGAGGAAAGCCUUAGGUGGGAGAAUUAACUGAACUCCAAAUCUUCAACGGCAAUGCUCGCCGUUGAU
+((((((((((((..((((((((...)))))))).....)))))))))))).....................((((((((.......)))))))). (-47.50)
 >seq11
-UCAAGUCAGACCUUCCGCACGGAAGGUCCGUAUCACUUGAGACGAUCGCCGUGAGCAUCGAACUUUCUUACGGUGGACCGUAAGC
-(((((((.((((((((....)))))))).)....)))))).(((.((((((((((.(........)))))))))))..))).... (-32.10)
+AUGUUUGUCAAGCUUAAAUCAAUUCCACCUUGACAAACAUUUGUGCGUGUCAGAAACAUGUUUAGGCGCACAG
+((((((((((((................)))))))))))).(((((((.(.(((......)))).))))))). (-22.50)
 >seq12
-GAUAGUCCGAAUCGCGUAGCUGUACGAUCUAUUUCGGACUAUCGAGAGUUCUGCACAUGGCGAUCCUUACGUACUAGGGCAUGGCCCUAGUAC
-(((((((((((...((((....))))......)))))))))))(((.(.((.((.....)))).))))..((((((((((...)))))))))) (-38.70)
+GACCCCCGGCAUAUCUUCUAAAAGCACUACGCCGGGGGUCGGUUACGUCAACGGUCUUCUCUGCCGGUUAUUUCCGGCAGAC
+((((((((((.((.(((....)))...)).))))))))))...................((((((((......)))))))). (-38.70)
 >seq13
-AGCUACAUAUGUCGCUACGACAUGUUGAGUAGCUCAGCCUAAGGACUUUUCCGCCGCUUACAUGCCGUAA
-((((((((((((((...))))))))...)))))).(((....(((....)))...)))............ (-18.40)
+CCCUUUGGAGCUUAGUAGUCCGACCGGACUACACCAAGCUCCAAAGGGCGCUGGCCAAGAAGAACCGACUCCUGAUUCGC
+(((((((((((((.(((((((....)))))))...))))))))))))).................(((........))). (-33.80)
 >seq14
-GCGGAACUACACGCGGUUUCGCGUGUCGAGAUCCGCGAUGGCUACGUAUUGAUUACCCCGUGUUGCUCGCAUACGCGAGCAA
-(((((.(((((((((....)))))))..)).))))).((((....(((.....))).)))).((((((((....)))))))) (-35.20)
+AUCCACUGUCCUUGUCGCGGGCGAUUUGGACAGUGGAUACCACCCGUUGGACAAGAAGAUGACUGGUAAUACGACCAGUCAC
+(((((((((((..((((....))))..))))))))))).(((.....))).........((((((((......)))))))). (-36.50)
 >seq15
-GAGCUAUAUCGCAGCUGUGACAAAGUCACAGGGAAUGAUAUAGCUCAAGACGUUCAAACAUCUUUUCUCCUCUAUCUAAAUUUAGC
-(((((((((((...(((((((...)))))))....)))))))))))((((.((....)).))))...................... (-26.70)
+GUUCCAGAACAAUACAUUGAAAUGUAUGAUCCUGGAACCCAUAUCUGAUAACCUAAAUGAAGUCCGGUCGACUUCAG
+(((((((....((((((....))))))....)))))))...................(((((((.....))))))). (-22.00)
 >seq16
-AGGCUAUACAGAAGGUCUUCUGUGGAUAGCCUGUAGCCCAGUUGACCUGGCUGUUUCUUGGGGAAGAU
-(((((((((((((....))))))..))))))).(((((.((.....)))))))..((((....)))). (-21.50)
+AACCCUGUUGUCCGCGUGCGGACCGCACGCUAGAAACAACAGGGUUGUUUUACUUCAAGCUCCUCCCGAUAUGGCCAACAGCCAUAUC
+(((((((((((..(((((((...))))))).....))))))))))).....................((((((((.....)))))))) (-37.70)
 >seq17
-AGGGCAUCGUCGGAACUUACAAGUUAGGGCGAUGCCCUCUGGCUAAAUAUCUUUGUUCGACGUUGGUGCUACAACGCACCAACC
-(((((((((((..((((....))))..))))))))))).......................((((((((......)))))))). (-36.00)
+UGAGAUGAAUCUUCAAUUUGAAGAGGAAGAUCUCAUGCACAUAUAGUAAUCUCCACUUAUUAGUCAAAUAAGA
+((((((...((((((...)))))).....))))))....................((((((.....)))))). (-13.50)
 >seq18
-AAAGCCUGAGUCAGUACUACUGAUAACAAGGCUUUAGGGAUAACCCUUGACGGGCCUAGUUAUUGUAAGCGUUAUUACU
-(((((((..((((((...))))))....)))))))((((....))))((((.......))))..((((......)))). (-20.30)
+ACCUAGGCGGCAUGACUAUGCUAGGGCCUAGGUGUGCGUGCGGCUCUUCUGGCACCUUAACAAUAAAAGGUGCCA
+(((((((((((((....)))))...))))))))(.((.....)).)...(((((((((........))))))))) (-33.00)
 >seq19
-UCCCAGAUCGCCCGAGCUGGUGCUCGGUGGCGAGAUCUGGGACCAUUAGAGUAUAGCUGGUGAUCACGCUCACUAAAAGCGUGA
-(((((((((((((((((....)))))..)))))..))))))).((((((.......)))))).(((((((.......))))))) (-39.80)
+GUGACACCUCUCGACCUAGUACUUGUACUAGGUGAGAGAGGUGUCACGCCUCUUUAUGAAUGUGACACAAACCCGUUGGAGCGGGUUU
+((((((((((((.((((((((....))))))))..)))))))))))).....................((((((((....)))))))) (-44.20)
 >seq20
-AGACGGGGGUGAAAUUAACGUUAAUUUCAUAACUACCCGUCUGGUAAUCCGAGUGCUCGCCACGACGAUGGGCUGCUAACAGU
-(((((((.(((((((((....))))))))).....)))))))((....)).((((((((.(.....).))))).)))...... (-23.30)
+UCUCUACUUAAAAUGUGAUGUCACAUUUGCAGUAGAGAACACAAAUCGUCGACUGUAAAUAAAGAUGAAGAGCUUUAUUU
+((((((((..(((((((....)))))))..))))))))..................((((((((........)))))))) (-21.40)
 >seq21
-UGCACUCCUCGUUCACAAACGUGAGACCACGAGGAGUGCAGGUAAUGUGCGUGGGACACACUACGCAACCAGCUCCGUCUGAACGGAGCA
-((((((((((((((((....))))....))))))))))))(((....(((((((......)))))))))).(((((((....))))))). (-49.60)
+AAUACUGCUAAUUCUUAACCUUAAGAACUAGGACAGUAUUUGGGUCAUGUACCCGUCAUUUAUGUAAAAC
+((((((((((.((((((....)))))).)))..))))))).((((.....))))................ (-15.10)
 >seq22
-UGUAGCAUACUCCGAAUACGAUUUCGUAUGGGAGAGUAUGCUACAAAUUCACUAGGCUAGUCCUCAGAGUUUGGGCGGAAACGCCG
-.((((((((((((..(((((....)))))..).)))))))))))((((((...(((.....)))..)))))).((((....)))). (-34.40)
+CGUGUGGACAAUGGUACGGCUACAUACGGGUCCACACGAGGGGGUGCGCCAGUGUAAGAAUUCCAUUUCUC
+(((((((((....(((.(....).)))..))))))))).((.(...).))......((((......)))). (-20.80)
 >seq23
-GUUAUCUAGAGAAAGGUGUCAACCUUUCUGCCAUAAGAUAACUACGAAUGGUCGUGUCCGACGGUGCCCUUUAGGAUCGUAGACUCCUA
-(((((((..((((((((....))))))))......))))))).((((....))))(((..(((((.((.....))))))).)))..... (-26.50)
+GUCGCAGUGAGUCCCGCAUGGGCGAUUAGGACUCACUGCGACCUAUGAGGUGCAGCAAGCCAAGUCAUAAGACUC
+(((((((((((((((((....)))....))))))))))))))......(((.......))).((((....)))). (-35.10)
 >seq24
-AUCGGAUGUCGUAUCCUAAGAGAUUAGGAGACGAUCGACAUCCGAUUGAGCUAGUUAGACAGGUUCUGCUCCAAAUGGCAACAUGUGUUGCC
-(((((((((((..((((((....))))))......))))))))))).((((.((...........)))))).....((((((....)))))) (-35.10)
+UAGCAGAACAACGGGUCCAAGGUUCUUGGCGUCUGUUGUUCUGCUAGACGUCUGGUACUCUUGUCCUAGAGGGGUCUAA
+(((((((((((((((.(((((...)))))..)))))))))))))))..(.(((((.((....)).))))).)....... (-35.10)
 >seq25
-UCUAUAAGGCGCCAGCCGGCUGGCGUGUCUUAUAGAAUAGGGAAUUCACUUAGUAGAUCGGAUAUUGGUUCCGU
-(((((((((((((((....)))))))..)))))))).((((.......))))......((((.......)))). (-24.30)
+GUAUCUCCAUUACGAGAGUAAUGACAGGAGAUACGAAAGAACUACUAGUAGUGCACCUUUUCUUGAAAAAGGUU
+(((((((((((((....)))))....))))))))......((((....))))..(((((((.....))))))). (-20.20)
 >seq26
-UUUACUAGUUGCGUUCUCCCAUGAGAACCACCUACUAGUAAAUCCUGUAAAACAGUGCAUGCGACGGCGGCCGGACUCACGGCCA
-(((((((((((.((((((....))))))))...)))))))))..((((...)))).....((....))(((((......))))). (-29.90)
+GAGGUAUCACCCAAGGUCCACCUUACAUGUGAUACCUCUUGAUAGUUAAUAGCUGGCAUCCCUAGUGAUGCCGACUAGGG
+((((((((((..((((....))))....))))))))))...........(((.(((((((......))))))).)))... (-29.80)
 >seq27
-AAACGGGGGCUCUCCGACCGGAGAGCAAUACGUUUUUGGACACCUUCGGUCCGCGAAUAGAAGAUCUAGUAUCCCUAUACUAGU
-(((((...(((((((....)))))))....))))).(((((.......)))))............(((((((....))))))). (-26.80)
+AGGCCACCAGUCCCGCGGUCUCCGCGGCUUUCGGUGGCCUGCGGUCGUGUACGCAGAUCGCUAGUACGAUAGCGA
+((((((((....((((((...)))))).....))))))))(((........)))...((((((......)))))) (-37.80)
 >seq28
-UUCAAUAAUUGUUCUAGGCCUAGAUCAAGCAAUUAUUGAAUCGAAGUUGUCAAGCAAGGAGUACCAGCUCAUGGG
-((((((((((((((((....))))....)))))))))))).....(((....)))...((((....))))..... (-16.20)
+UAAGAUAUAUGUCGUGCGAAUCGCACGACUGGUAAUAUCUUAGGUCGGCACGCGUGACAGGUGCCGAUGGAGCACC
+((((((((..((((((((...)))))))).....)))))))).((((((((.(......)))))))))........ (-32.10)
 >seq29
-GGACACUUCGGAGGAGAAUUCUUCGACGAAGUGUCCAACAAGAAAGGGCCUCUCCCUAUUAGAGUUCAUUUUCGUUGAUGAACC
-((((((((((..((((....))))..))))))))))........((((.....))))......(((((((......))))))). (-34.70)
+AGGGGCACAGCUCUGGUCGGGCGACCAGAAUCGUGUGCCCCUGCUGUUAAAGACCGCCGUACUACUAAUGACAUUAGA
+(((((((((..(((((((....)))))))....)))))))))((.(((...))).)).......(((((...))))). (-30.70)
 >seq30
-UUUAGAUCUUACUAGACGCUGCCGCUCCGGCAGCGAGCGGGUAAGAUCUAAAUUUGAUAGACAGGCUCUCCAAACGAAGAUUCGUUCGG
-(((((((((((((...((((((((...))))))))....))))))))))))).................((.(((((....))))).)) (-35.90)
+UAGAGGAACGGAUUUUAAGGUUAAAAUUACGUUCCUCUAGGGCUACAUGAGUGGGUGGGGAGUGGCCCA
+(((((((((((((((((....))))))).))))))))))(((((((...............))))))). (-29.80)
 >seq31
-CUAAGUGACCCCGCCGAGUAAUACUUUACUCGGCUACUGGGGUCACUUAGCCCAAUCUUGAAAAUUUAUUUAAGAAAUAAAGCUAAUAAGCUC
-(((((((((((((((((((((....)))))))))....)))))))))))).....(((((((......))))))).....((((....)))). (-42.10)
+GCCCUGCGGUUGGAAUCGACCUUCGAUUCCUAUAACGCAGGGCAGCAGGAACACUAAACUCCCCAUCGGCACACCGCCGAC
+((((((((...((((((((...)))))))).....))))))))....(((.........)))...(((((.....))))). (-37.00)
 >seq32
-UGUAGAUAACUUGUUCUGGUAUGCCAGAAUUACGCGUUAUCUACAACGUCGUGGUUCGUACUGAAGGGCGAACUCCGAUAGGAUUCUAUCGGG
-((((((((((.((((((((....)))))...))).)))))))))).......(((((((........)))))))(((((((....))))))). (-37.30)
+CACCGCGAAUAUCUGCGCUCCGCGCUAGACAUUCGCGGUGUAAGACGCGAUCAGGAAAGGGGACUACGCUCAUUCGCGUAGUA
+((((((((((.(((((((...)))).))).))))))))))......................(((((((......))))))). (-35.70)
 >seq33
-AGUUAGCAAAUUGCAUUUGUCAGAACAAAUGAACUUAUUUGCUAACUGUCCCCCUAUUGUCUUGUACAGUGUCACCCGACGCCUGAGGCGUCGGU
-(((((((((((..(((((((....))))))).....))))))))))).......((((((.....))))))....((((((((...)))))))). (-34.80)
+CGAGAGAGAUGUAAACGUACAGACAUGCUCUCGUACCAGAUGGGUUACACCAUCCUAUUUGUCCUGAUAGG
+((((((..((((..........)))).)))))).....(((((......)))))(((((......))))). (-19.30)
 >seq34
-GCGAGAGGGAGUCGUUUAGAGCUGUCUAAAGCUAGAACUCCCUCUCGCACCAUCGCAGCCCUUGCAGCUAGAAGGUUGAAGGAGGCUCAACCG
-((((((((((((..(....((((......)))))..))))))))))))........(((((((.(((((....))))).))).))))...... (-40.40)
+AAAGUAACACAAGUUGCUUGUAGUCAACUUUUUUGUUCAGCAUCGGGUCUAGGGAGAAUAAUUCUCCCUU
+.(((((((....)))))))...((.(((......)))..)).........((((((((...)))))))). (-16.80)
 >seq35
-UGGUCUGUCCAGGUAUUACCUGGGCGUAAGACCACCUGAAAGUCACAGGUUGUGGAACAGCGCAUGGAAUCUUCCAUGCGC
-.(((((((((((((...))))))))...)))))(((((.......))))).........(((((((((....))))))))) (-39.10)
+ACUGGUUAGCCCUCCUGCCGCCGGCAGCUGAAGGCUAACCAGUAAUGAAAUACAUUGUCGUCUUUAAUUAAGAU
+(((((((((((.(((((((...)))))..)).)))))))))))................(((((.....))))) (-28.80)
 >seq36
-UAACGGCACUAAUGUUAGAGUCCGUUAUGCCAUAUGAUUCAUGCAAUUUUAUUGCCCUUCCUCUUCAGGAAGG
-((((((.(((........)))))))))...............(((((...)))))(((((((....))))))) (-19.40)
+GGUGACGGAAGUCAGCAUCGAUGGCGAUGCAUGCCACUUCCGUCACCUAGUCAAGUACAGUAUCGCGGUUGUCUCUCGACAAA
+((((((((((((((((((((....)))))).))..))))))))))))..(((.((.((((........))))..)).)))... (-35.20)
 >seq37
-UGAUGCGCUGCAUUUUGCAAAUAGAUGCGCAUCAGAAGCGACCUCGCCCGGACAACAUUCCAUGCAUUUGAGUUUGCAUGGC
-((((((((((((...)))).......))))))))...(((....)))............(((((((........))))))). (-26.80)
+UAAUAGGACUUUGGAUUCUAUCCCUUAAAGUCCUAUUAUGUUUAGAUAAGUUAAAGCUACUGUUCUUAAUCAUGAACAGA
+((((((((((((((((...))))...)))))))))))).....................((((((........)))))). (-23.20)
 >seq38
-GGCUUAAAUGUAUCUUUGAAGAUACUUAUAAGCCGACAGGCCGCGACCUGCACUACGGGAUCCCCUGCCGGGGAUCCA
-((((((...((((((....))))))...))))))..((((......)))).......((((((((....)))))))). (-34.90)
+GACCCUAUCAGGAGACUCACAGUCCUUGCUGAUAGGGUCUUCUAUAUAAGUCAUGACGGCAAUGAGGAAUUGCG
+(((((((((((.(((((...))))..).)))))))))))...................(((((.....))))). (-27.30)
 >seq39
-GUCUAGACCCAUUGUCCACACUAAGUCUAGACUCAAAAGGGUAUGUGACCCUAAGAUCCGGUGUGGUGGGCCACCGGU
-((((((((....((....))....)))))))).....(((((.....))))).....((((((.(.....))))))). (-26.70)
+CAUUGAUUGGCGAUUCCUUGCAGGACGUCUGCCAAUCAAUGCCUGAGAUCGUCGGUCAGCCAAAGCUCAACAAGCUUUGGU
+((((((((((((((((((...)))).))).))))))))))).((((.....))))...(((((((((.....))))))))) (-34.80)
 >seq40
-GCUCCCAUUAGCCUCCCCCGCCCGGCGGGGAUCCGCUAAUGGGAGCUCUUACAGGCCCGGCCUGGGCUAUGUGUUUUAACCGUGUUAAAAC
-((((((((((((...((((((...))))))....))))))))))))....((((((((.....))))).)))((((((((...)))))))) (-47.40)
+AAUAUAAACUUAUAACUUUUAAGUUAGCGUGUUUAUAUUAUAUAAGUCAUGUCUGAGCGUACCUUGAGGUACGCG
+(((((((((...(((((....)))))....))))))))).................(((((((....))))))). (-20.80)
 >seq41
-UAAAUACGCGGGCAGGAAGUUUUCCUGGAACGCGUAUUUACGAGCUUUGCUCGACAACAAGCGGUUAAUUUUUAAUAAUUAC
-((((((((((..((((((...))))))...))))))))))(((((...)))))............................. (-26.10)
+UUUGCAUACUCAAAAUGUAUUUUGUGGAAUGCAAAGAUUCGUGAAAUUCCGCCCCUGAAGGGU
+(((((((.(((((((....))))).)).)))))))...............((((.....)))) (-12.90)
 >seq42
-ACGAUAAUACUCUAUUCCGACUUCGGAAUAUCCUUAUUAUCGUGGCUGCCACGGCUGUUCAAGCCACCUCUCGCGAACAGCUACGCGAC
-(((((((((...(((((((....)))))))....)))))))))...(((...((((((((..((........))))))))))..))).. (-29.50)
+CCCUGAGCAAGGGUAUCCCUACCCUUUAUGCAUCAGGGCAGACCUAGCGUACCCUCAUCAUUAUAGGGGGCUAUAAC
+(((((((((((((((....))))))...))).))))))......((((...((((.........)))).)))).... (-27.20)
 >seq43
-GGCAUCAUCUCGUUUCCUGUUUCCAGGAAACGCGGUAGAUGAUGCCCUAAUCUAUACGUGAUAUUUCUGCUAGUGCUGGCACUAA
-(((((((((((((((((((....)))))))))....))))))))))...(((.......))).....(((((....))))).... (-32.20)
+GAUUCAUCUUUUUGGGCUGGUCUACCAGCCCUAUCAAAGAUGAAUCAGCCCCUAGCGGAGCUGACCUAGUAGUUUCAUCCGAAACUACU
+(((((((((((..(((((((....)))))))....)))))))))))(((.((....)).))).....(((((((((....))))))))) (-42.00)
 >seq44
-UAUAACGAAGGCUGCUACAUCCAAUGUAGCGCCAUCCUUCGUUAUAUCGCCGGCCUCGACGGCUUGACCUAUCAAAGUAUGAC
-(((((((((((.((((((((...))))))))....)))))))))))..((((.......))))((((....))))........ (-28.60)
+ACGAAAAGUUGUCAUACCCGCGGUUAAAUCAACUUUUCGUCCCUUUGAGAGGGGUAUGGUGACUCAGCACCG
+(((((((((((....(((...))).....)))))))))))(((((...)))))....((((......)))). (-24.80)
 >seq45
-CUUGCUCCCGGUGUAAAUCUACACGACAUGGGAGCAAGGCAUCCCCUACAAUUCGUACCUUAUAAGGACCAGGGGGUCCUC
-..(((((((((((((....)))))....))))))))(((.(((((((.......((.(((....))))).)))))))))). (-31.00)
+CCAAAAACGGCUCACGAGCAAUCUUUUGGGCCAAACUCUGGAACUCAUGUAAAACUACG
+(((.....((((((.(((....))).))))))......))).................. (-11.40)
 >seq46
-CAAACUAUAUUCCGGAUCGCUGGAUCACUGGCAUAUAGUUUGGGGACCUGGUAAAAAUGUUAGAACUACGCGAACCCAUGUUUAGAUGGGUUCC
-((((((((((.(((((((....))))..))).)))))))))).............................((((((((......)))))))). (-29.70)
+UGCCAACGCCAGCAUUACUAUCGAUAGUAGCAACUGGCGUUGGCAAGACCAAGAGUCUGGUUUCGCUACGGGUUUCCCGUAGCU
+((((((((((((..((((((....))))))...))))))))))))((((((......)))))).((((((((...)))))))). (-45.10)
 >seq47
-GGAAAUAGCGUAGUUACUUAGUAUUUCCCUCUGCCUGCCCUUGAGGCCCUUCCCACACUAAGAAUAGUGUGA
-(((((((..(........)..)))))))....((((.......))))......(((((((....))))))). (-18.50)
+CAGGGAAACCUGUGUCACACACAGGACUAAUCCCUGUCCAUACGUCAUAUCUACUAGGAGACGAAGGCGUCUU
+((((((..(((((((...))))))).....)))))).....................((((((....)))))) (-23.30)
 >seq48
-GCCCGGAUUUGGGCUGACUGAAGUCAGAUCCAAAUCCGGGCCGGCUGGGAGCACGACUCCACUCAAAACGCGAUGGGUUUAACCAUCGCC
-((((((((((((((((((....))))).)))))))))))))......((((.....)))).........(((((((......))))))). (-49.10)
+UCUGCCGUUCUGAACGUCAUCCUCGGCAGAUCCUUGGAGAGGGGUGUCUUACCCUUUUAUGCUCACUUAAAAGGGG
+.((((((...(((...)))....))))))((((((....))))))......((((((((........)))))))). (-26.10)
 >seq49
-GCAUAGAUAAGGCUAACCAGCCUCGGUUCUAUGCGUCCUCUUGACUUUCAGAGUACUUUAACGGACGUGCCUCCGUU
-(((((((..(((((....)))))....)))))))((.((((.((...)))))).))...((((((......)))))) (-25.20)
+UUGUGGACAUGGGCCACACUGGCUAACCGUCCACAAUAAUAAAUGAUAAAGCCUCCGAAGUGGAGCUUCGGAG
+((((((((...(((((...)))))....))))))))................(((((((((...))))))))) (-30.20)
 >seq50
-GUCCUAGGGAGUUCUCGGUAGCGAGCCGUCCUCCCUAGGACGCCCUUCCCACGCGUUGGGAUGAAUUUGGUUGUGGGAUGAACCG
-(((((((((((....((((.....))))..)))))))))))...(.(((((.....))))).).....((((........)))). (-36.80)
+GCGCCUAGCUCGGCCUGGACUAAGCCCUUAGUCCACUCCGAGCUAGGCGCACAUUCACGUAAAAAGUCGGACACAGCCCGAAAGGGGCUGUG
+(((((((((((((..((((((((....))))))))..)))))))))))))....((.((........))))((((((((.....)))))))) (-57.10)
 >seq51
-UUGAUAAAGAUUUCAGUAUAGAUACUGAAGAGUCUUUAUCAAAUACUAUACGGGCCCACCGGCAAGAUUAAUUACGUAUAUAAC
-((((((((((((((((((....)))))))..)))))))))))....((((((.(((....)))...........)))))).... (-22.60)
+GUCCAUCCGCUGCAUUGGAAUUGUCCGGAUGGACCCACUAUAUGUGACAAAGCGAAGGAUCUAUCUUACAGAUCCUA
+(((((((((..(((.......))).))))))))).(((.....))).........(((((((.......))))))). (-27.20)
 >seq52
-GUGGUGCGCUUCCCUGAAAGUUUCAUAGGGAAGCGCACCACCGAUCUCCGAGGUCCGGUUUUUCGCCCCCACUCCUUCGUGGGC
-((((((((((((((((.........))))))))))))))))(((...(((.....)))....)))..(((((......))))). (-42.80)
+UGGAACCGUCUACCAUGGUAGACGAGGUUCCAGGCAGCCCGUGUGGAGUAAAGCUGCCACCACUGGCAGA
+(((((((((((((....))))))..)))))))....(((.(((((((((...))).))).))).)))... (-30.40)
 >seq53
-CGGGUAUAACCGUUUAGCAUAAGCGCCGUUAUACCCGACGAUAUAGCCUGCCUAUUCUCUCAAACCUGGGCUCACAGGUC
-((((((((((((((((...))))))..))))))))))..((.((((.....))))))......(((((......))))). (-25.50)
+CAGGGGAUCGUCGGGUGCCGAUCACGAUCCCCUGGGUGGCCUGACCUCGUCUCGGGUUGCUCCGACGAGAGCAACCU
+((((((((((((((...))))...))))))))))(((......))).......(((((((((......))))))))) (-39.20)
 >seq54
-ACUCGGUAUCUUGGAUAAGUCCAUCGGCGAUACCGAGUCAUGCUCUUUGAUAGGCAGGGGAGUGUGAACUCU
-.(((((((((.(.(((......))).).)))))))))(((((((((((........)))))))))))..... (-28.50)
+GAUACAGCUGUUUACAGGUUGGUAUCAACCUUCUACAGACUGCGCAUACAUCUGUCCGAUGUAUGC
+....(((((((....((((((....))))))...)))).))).(((((((((.....))))))))) (-26.00)
 >seq55
-CGUAAGAAGUUGUAGAAUACAGCUGGUCUUACGUUGGAUUAAAGUGCUUUUCAUAGACGACCCGCUGUAAUCAUCCUUACAGCGGC
-((((((((((((((...)))))))..)))))))............................(((((((((......))))))))). (-26.30)
+GCUACAUAGAGCCCCCGUUAGGGGCUCUUUUCUAUGUAGCUGGUCUCGAUGAUAGCCGAUAUCCGAACGGCACGUUCGGAUC
+(((((((((((((((.....)))))))).....)))))))((((..........))))..(((((((((...))))))))). (-36.70)
 >seq56
-UCCGCCUCUCCGCUCCCUGGAGCUACAAGGCGGAACAAAUCGAGAAAAUCUCCUUUGCUAACGACCUCGUG
-(((((((....((((....))))....))))))).((((..((((...)))).))))...(((....))). (-21.60)
+CAAGGUGGACGAGUUUCGAACUAAUACCCACCUUGACAUGGCCUAUAAUUAGAGGUCUUCCAUUCUAAGACCUG
+((((((((...((((...)))).....)))))))).......(((....)))(((((((.......))))))). (-21.20)
 >seq57
-UCAGGUUGAUGAACACAUCGUCAUGUGUAUGUUGCAACCUGACGCGGGCUCCUGUAGCGAUAAAAAACGACAUUGGGUCGUG
-((((((((....((((((....))))))......))))))))(((..((....)).))).......(((((.....))))). (-25.20)
+UUUUAGUGGUGUUUCACGAAACCCCUCUAAAAUCCCCAUGAGGAUCCUUACUCGCAAUUGUAUGCG
+.(((((.((.((((....)))).)).)))))((((......)))).......((((......)))) (-12.60)
 >seq58
-AAUUUCCGCCCCUUCGGUGUAUACACCGAACGCCGCGGAAAUUAUGCAUCCCAGGUCCACCCUCGGAACGUUCUAAUAAUAGU
-(((((((((..((((((((....))))))).)..))))))))).....(((.(((.....))).)))................ (-26.80)
+GCUUCUAUUUAGAUAAGUUCAGAAGCAUAACACGUUUGCACACAGACCACAUAUCUGUGGUU
+((((((((((....))))..))))))..................(((((((....))))))) (-14.10)
 >seq59
-CAUAAGUCAUACUAGGGAGGGAUAAUCCCUCCAAGUUUAUGACUUAUGCCCCGGGUAGUCGAGCUAUUCGACCCUUCGAAGGCGAAGC
-(((((((((((((..(((((((...))))))).)))..))))))))))...((((((((...))))))))...(((((....))))). (-36.70)
+UUGGCCCCUAGCCGCGUCGGCGAACUGAUAGGGGCCAAGCACAUGUGGUUCGCGGCGAGGCCAGAAAUCUGGCA
+((((((((((((((...)))).......))))))))))...(.(((.(....).))).)(((((....))))). (-31.90)
 >seq60
-UCAAAUGAUGUACCCAGCUUUGGGUUUCCCAUCAUUUGAUAAGUCCUUAUAGCACUUAUCGAACUUGUGUAGAUAACUACACAG
-..((((((((.(((((....)))))....))))))))(((((((.((...)).))))))).....(((((((....))))))). (-26.70)
+CUUCCUUUUCGGCUCUCCGCUGAUCGGAAGCGCGCUGGACGCUAACCUUAGGCUAUUAAC
+(((((...(((((.....)))))..))))).(((.....))).................. (-13.70)
 >seq61
-CAUAAGAGUGUUCCAACUCCACUGGAGUUGCAGCCACUCUUAUGCGGCCUGGUAAUCCAGCAUAUUGACCCUGGAGAGGGAUCCG
-((((((((((((.(((((((...))))))).)).))))))))))..((.(((....))))).....((((((....)))).)).. (-33.10)
+CUUUGCCAUUUGGGGCAAAGUUGCCCCGCAAAUGGCAAAGGCUCUGUAGGAGGGGUGGUAAAGGACCCGGCUGGUCCUUUA
+(((((((((((((((((....))))))..)))))))))))(((((......)))))..(((((((((.....))))))))) (-41.20)
 >seq62
-AUUGGCCUUCGCUCCGUAACUACGGAGUCACAAGGCCAAUUUGUAUAUAUCGAUUAAGAAUUCUCUUGCCGAAGGCAAGAA
-(((((((((.(((((((....)))))))...))))))))).......................(((((((...))))))). (-31.90)
+ACUGAGGUAUCCUGUCCUACCGGACAACCGACUACCUCAGUACAGCUUCACGCAUAUCAGCGGACUGUGUCAGUCCU
+(((((((((((.(((((....)))))...)).)))))))))..........((......))((((((...)))))). (-29.50)
 >seq63
-GUCUUUGGCGAUGAUGAGUCAUACGGUACAAAGACCUUCGCCCCCAGGUAGGAAUCAGGGGCUUUUCUAGCG
-(((((((.((((((....)))).))...)))))))....(((((..(((....))).))))).......... (-20.40)
+AUCCGUGGCUCAAGGCUAGCCUUAUAACACGGAUGAGCUCGACGCGAUAACCAGGUAAUACUCAGUAUUACCU
+(((((((....((((....))))....)))))))..((.....)).......(((((((((...))))))))) (-22.80)
 >seq64
-AGUCAAUGAAGUCUGUUUGAGAGUCAAACAGUGACAUCAUUGACUGUCCAUGAGAUUCGGGAAAUGCCUUUAUCUGCACAAGGGCAGA
-(((((((((.((((((((((...)))))))..))).)))))))))((((.((((((..(((.....)))..)))).))...))))... (-31.50)
+GUAAGAGGACGUGUCAUAAACUUAUGACAGAUCCUCUUACUUGCCCAGAGCUUCUCGAGCCGGUCUAGCUA
+(((((((((..(((((((....)))))))..)))))))))........((((...(......)...)))). (-26.90)
 >seq65
-CAGUUCCGGCCUGCAUGACCAAUCAUGCACGACAUCGGAACUGUUCAACUUUCCAUAACGUCCAUCGCGUAAGGCACGCU
-(((((((((.((((((((....))))))).)...))))))))).......................((((.....)))). (-24.50)
+CGACUGACGGUGACCUGGGUCAUCGCGUCAGUCGCCGAUUUUAUAUGCCCAACCAAAAAGUCCUUUGACUUUG
+((((((((((((((....)))))..)))))))))......................((((((....)))))). (-23.10)
 >seq66
-UUAUCUAAAACUAAAAGUCCUAUGACUUUUAGAGUUAUUUAGAUAAAAAUGUCGUGGUCAAUCCAGUCGGAUCUACUUCUGCAAAUUACUGCAGAAGG
-(((((((((.(((((((((....))))))))).....)))))))))..............((((....))))...((((((((......)))))))). (-28.80)
+AUACGCUCGGUUUGUUUGCACGAUGCGUGCAAAUGCGGAACCGAGCGUAUAAACCCUAGAGGUCGGUAACUUGUAGUCCUAACAAG
+((((((((((((((((((((((...)))))))))...))))))))))))).....(((.((((.....)))).))).......... (-35.50)
 >seq67
-UCCUCCCGACAGUAUUAGGACUAAUCGAAUGUCGGGAGGAGUAACACAAGAGCGUUUUAUCGCCCGAAAUUGUGUAUUUCGU
-(((((((((((..((((....))))....)))))))))))...(((((((.(((......))).)....))))))....... (-28.40)
+CACCACAAAGCGGCUCUCCGCUUCCGAAUUGGUGAGCAUGAUCAAUGCGUAGGGUUCCGGCACCU
+(((((..((((((....))))))......))))).((((.....))))...((((......)))) (-17.60)
 >seq68
-UGCCUCCUUAGUCCCCAUUUAAAUGGGACGAAAGGAGGCAGAGGCUAGAUAGAUCAUCUCUAAUAGAGCCGUAUUGCGCAUUACGGCUU
-(((((((((.(((((.........)))))..)))))))))....(((..((((.....)))).)))(((((((........))))))). (-36.70)
+AGGAUCGUAUUUUGUCAGUGACGCACUGACAAUCUUAUACGAUCCUCUUUCCUGCAACCAGAAUACUGGUAGCUUAACCAGG
+((((((((((.(((((((((...)))))))))....)))))))))).......((.(((((....))))).))......... (-32.00)
 >seq69
-UCACCGUCGCCGGAUCCUUGAUGCUUUGCGACGGUGACUUCGUCCCAGCGCAUGAACGACGGGAAGAGUGCCCG
-((((((((((.(.(((...))).)...)))))))))).(((.((((..((......))..)))).)))...... (-28.90)
+GUGCCGGGUGUGCCUAAAUAGGCACAGGUGGGCACUAACUAUGUCAGUGCCGUCAACAAUUUUGG
+..(((...(((((((....)))))))))).((((((.((...)).)))))).............. (-21.90)
 >seq70
-GUUCAUCUGCCGGCUGCUACUCAGUAGCGCCUUGGCAGAUGAACUAGGUUAACAAGUCGUUGUUCACUACUAGCACGUAUAGUAG
-((((((((((((((.(((((...))))))))..)))))))))))..((.((((.....)))).)).((((((.......)))))) (-35.70)
+CUCCUAUGAACGAUAUGGUUAUGAUUUGCAUAGGAGGGGACUGGAGGUAGUCUCCAGUAUACCACUUACUGU
+((((((((....(((....)))......))))))))((.(((((((.....)))))))...))......... (-22.80)
 >seq71
-AUCUCAAUCGCUACGCCCUGGCGUUUAUAGAUUGAGAUCUUUAUACAGAACAUGUGACGGACUAGGUUUUUCCAGUAGAGAAAAACCG
-.((((((((...((((....)))).....))))))))(((...((((.....))))..)))...(((((((((....).)))))))). (-24.00)
+CACUAUACGUGUGCAUCCACACUUGCCCAUAGUGUAAUCCAGGUGAAUGGUUAAGCCGCCCCAGUAAACAUGGGGCGA
+...((((((((.(((........))).))).)))))..(((......)))......(((((((.......))))))). (-24.50)
 >seq72
-UGCCCUGACCGACCUUCGUUAGUGGGCAAGUAUUACCCUCGACGGGCAAUUUGUGCGACUGAGCGUCGCACG
-(((((((((........))))..))))).......(((.....)))......(((((((.....))))))). (-24.50)
+ACGUGACAAAGGUAAUGCGAACGCAUUACAGCUACUGUCACGUAACCUAGACGGAGAUAAGGAGGUGGUACCGCGUGCAGGGUACCACA
+((((((((...(((((((....)))))))......))))))))..(((...........)))..((((((((........)))))))). (-33.90)
 >seq73
-CUACCCUCUUGAGCUACGUUUGUAGGGGUCGCAAGAGGGUAGUUGAACAAACACGCUCGCCGUGGAGAUUGCGCUAGCGCAACACGCUAGCGC
-(((((((((((..((((....))))......))))))))))).........((((.....))))......(((((((((.....))))))))) (-40.20)
+ACCUCUUCGUGACUUUCGAGAAAGUCGGGGAAGAGGUCCUAGCUCAUAGGCCACUAAGCUCAAGGCUCGUGAGCUC
+((((((((.(((((((....)))))))..))))))))...(((((((.((((...........)))).))))))). (-32.90)
 >seq74
-AUGUCGAGGACCUUGGUCCGUGUCUGACAUAGCGCGCGCUAAGAGCGUUAACAAAGAGCCGUCGCUAAAUCCUAAUAGCGACGA
-.(((.((.(..((((((.(((((........))))).))))))..).)).)))......((((((((........)))))))). (-29.00)
+CUGGCGAGAGGCGGACCCCCCUUUGGAGGGGGGUAAGGACGCCUCUCGCCAGGGUGCUCUACGCAUACUCUAUACCGGUAGUCCGGUAU
+(((((((((((((.((((((((....)))))))).....))))))))))))).((((.....)))).....(((((((....))))))) (-55.50)
 >seq75
-UUGAUCCCGAGCUUCAGCCUCGUGAGGCUUAGAGCUCGGGAUCAAUAAUCCCGUGCCAAACUCUGGAGGUUGGCAUUAUUACAUAAAUAC
-((((((((((((((.(((((....)))))..)))))))))))))).......((((((..((....))..)))))).............. (-40.20)
+GGCCACGCCAGUCGAGGCACGAGUAAUAACUCGUGCGGGCCAACUGGCGUGGCCCCGACGGGAUCUCAGUGUCCCCAGGUAUGGAA
+((((((((((((.(..((((((((....))))))))....).))))))))))))((...(((((......)))))..))....... (-46.70)
 >seq76
-UAGGCUGCAGCCUUCUAAUGAGAAGGCUUUCGCGGCCUAUAUGGACCGCUUCAGGCUCCCAUAUAAUAUUUAAUGGUAUUU
-.(((((((((((((((....))))))))...)))))))((((((.((......))...))))))((((((....)))))). (-31.10)
+CUGGAGACAAUGUGUGUCUACGGACAUUCGCUAUUGUCUCCAGCGAUCCGGAAUCGACUAAACCGGCGGCGUGCCGGUUG
+((((((((((((((((((....))))..))).)))))))))))((((.....))))....(((((((.....))))))). (-37.50)
 >seq77
-CCAGCAGCGAAGCGAUCGGUCUGAAGACCGAUCGCGUUCGCUGCUGGUGGGUCGCGUAGUACUUACAGCUAAGUCUGCUUAAAUGUAAUAUUUAAGCU
-.((((((((((((((((((((....)))))))))).))))))))))(((((((.....).))))))..........(((((((((...))))))))). (-49.60)
+AGCCCUACAUAAGGUGCUUCGGGAAGCAUGCAAUGUAGGGCUCGAUAGAUCAUCCAGUGACACAGUAGGUAAUUACUC
+((((((((((...((((((....))))))...)))))))))).......((((...))))...(((((....))))). (-24.40)
 >seq78
-CUAAUAUUACAGAUAGUGCUAUUGUGAAUAUUAGAGUUCGCCGACCGGGCCGCAAACCACCUGCCCAUCAGGUGGC
-((((((((...((((....))))...)))))))).....(((.....)))......(((((((.....))))))). (-22.30)
+GACGUGGGAGGGAUAGGGACACUCCCUAUAAUCCCUCCCACGUCUACCACUUGGGCAAUCCCAGUAUACAAUUAUACC
+(((((((((((((((((((...))))))...))))))))))))).......((((....))))(((((....))))). (-40.50)
 >seq79
-GUGCCUUGAAUUUUAUGUAAGCCAUUCAAGGCACCGACUUGAGAAAGGUAUUCACAAGUGCGCUAGCAACAGCGU
-(((((((((((............)))))))))))..(((((.(((.....))).)))))(((((......))))) (-24.70)
+GGUGUCACUUGGAAAAUUGCCCGAGUUCGGGCAACGUACCAAGUGACACCACUUUCCACAAGAUAAAGUCAUCAGGCCAGCCUCCUGAU
+((((((((((((....(((((((....)))))))....))))))))))))....................((((((.......)))))) (-40.20)
 >seq80
-CCAGAGUCGUGUGCUCUGAGCUCUAACGACUCUGGCACUCGUCAGAACGUGCUUAAGACAGCUGCCUGAGCUGUA
-.(((((((((..(((...)))....)))))))))((((((....))..)))).....((((((.....)))))). (-29.50)
+CAGUGCAUUAGAGUAUCGAAAUACUCGUCUUUGCACUGCUUCCCCGGAGGAGGUGGCUUCUAAGUGGUGUCUUAU
+(((((((...((((((....)))))).....)))))))....(((..(((((....)))))..).))........ (-22.80)
 >seq81
-ACCGGCUGUACAGUCGAAAAUUCGACUGCCCUCAGCCGGUGAGCGCUUCUAUGCAUUAAACCGCAAGUUUCGCCUGGAUCGAAC
-((((((((..(((((((....)))))))....))))))))..(((...((.(((........)))))...)))........... (-31.00)
+AUUUGACUUCACGUGUAUUAUGAAAUACACGUCGAGAAGUCAAAUUCAAUCGGGCAUGCAACAUAGCUACUGCCAGGAGUAGCUAU
+(((((((((((((((((((....)))))))))...)))))))))).................(((((((((......))))))))) (-31.70)
 >seq82
-CAAAUUUCCAAAAUUAGAGUACUAAUUUUGGACCAAAAUUUGGUUAUAGCAUGUAGACCAUACCCUGUGACCCCCAAGAGGUA
-.......((((((((((....))))))))))(((.......((((((((...(((.....))).)))))))).......))). (-22.70)
+CGUACAGACCAGAUUGUAUCUGGCAGUCUGUACGGCAAGCUCAUUCGCCGUCUUUCGGCAAAAGA
+((((((((((((((...))))))...))))))))............((((.....))))...... (-23.90)
 >seq83
-AAUUGGCGCCAACACUCGUUGGAUUCGUCAAUUUCCGCUGCCAGUACCUGCUACAAAUCAAUAUUUGGGACAAAUCGUCCCAAG
-(((((((((((((....)))))...))))))))...((...........)).............(((((((.....))))))). (-23.00)
+ACGGACCGCGGUAUAGAGAAUCAAGAUUCUCGCAACCGCGGUCCGUACAUCAAAUCGAAUUCAGGAUGGCGCAUAACGCCAA
+((((((((((((...((((((....))))))...)))))))))))).......(((........)))((((.....)))).. (-38.50)
 >seq84
-UCGACUAGGAUGGAGUAGAGACUCUGUAGUCCUAGUCGAACGUCCUUCAAGAUAUGGACUACCGCUAGAACUGUUUUCUUCUA
-((((((((((((((((....)))))...)))))))))))..((((..........))))......(((((........))))) (-27.70)
+AGAGUGGCCUUCAGAAAUCUGAAACCAGAUUUCCCCGGAGGCCACUCUAGGGCUGAACGCGAAGAGCGCUAGACCCGUCUAGC
+((((((((((((.((((((((....))))))))...)))))))))))).((((((..(((.....))).))).)))....... (-41.60)
 >seq85
-AGUAUCUAACCUGAAUAUUCAGGCCGAGAUACUGGCCUGGGAUCUCGAACUGAGAAAGUUGGUAUUUAAGGCACGAUGCCUUAAAC
-(((((((..(((((....)))))...))))))).(((.....((((.....)))).....))).(((((((((...))))))))). (-29.00)
+CAUCUCCGCUUGGCGGCCCGCCGCCAAACGGAGAUGCUUACCGGAUAGUCUACCCGUAAUCGUAGGCGAUUC
+((((((((.(((((((....))))))).))))))))......((((.((((((........)))))).)))) (-34.10)
 >seq86
-UCGGGUAGUGUGAAACUCCGUUCACAUACUACCCGACGGUCAUGUUGCCCAAACAACGUCGGCAUGCAGCUCAGCGUGUAGCUGCAU
-((((((((((((.(((...)))..))))))))))))..(((((((((......)))))).)))((((((((((...)).)))))))) (-36.70)
+UAUUACCUCUCCAUGGAGCGGUUAAUACCAGGAGCACUUGCCUCACUUUUAGCAACGCUAAG
+(((((((.(((....))).)).))))).....(((..((((..........)))).)))... (-10.20)
 >seq87
-UAUUCAUAGUACCUUUUUGCCCAAAAAUGCUACUAUGAAUAAGACGAGUAUUGCUCAAAUGCAUUCUCAACGAUCUUGA
-(((((((((((.(.((((.....)))).).)))))))))))....(((.(.(((......))).))))........... (-18.20)
+GUGCGGAGUUCCACUUCGAGUGGAACAUGCGCGCACAAUAGAACGUAGGAACCCAAACCACCUCAGUAAAUAGGUGGA
+(((((.(((((((((...)))))))).).))))).......................((((((........)))))). (-29.00)
 >seq88
-GACGGACUCGACUAAGUCUAGAUAGACUCGACCGUCGAGUCCGUCUUCCUAUAGCAUUUACUGCCGCUAGGUAUUGAUGCGUUCUUCAAUACCU
-((((((((((((..(((((....))))).....))))))))))))......((((..........))))((((((((........)))))))). (-38.60)
+GCAUCCCAUGGGCCAGAGGCCCAUGUCACGAUGCUCGUGAUCAACUAGGGUGCAAUCGUCCAUUGCU
+((((((((((((((...))))))))((((((...)))))).......)))))).............. (-27.70)
 >seq89
-CGACCCAGAAAAAUGUAGACAUUUGAAUAAGGGUCGAUCAGGGUGCCAGGCGCCAAGUUAAAUCAUCGACUUGCAUGAUUG
-((((((....(((((....)))))......)))))).....(((((...)))))......((((((........)))))). (-21.20)
+AUUCUAUGAGGGACAUCAAUGUCCCCAUAUAGAAUCAGAAGUACAUUUCCCACAUGCGGUAAACGGUAACCUUUACCGCC
+((((((((.((((((....))))))..))))))))....................((((((((.((...)))))))))). (-25.70)
 >seq90
-GCUUUCUAGGUAAGCUACGCUAGCUUAAUUACAGAAAGCCAUAUAUAAAUUGACUUACGUGAUUUUAUUCUGUCAAUAAG
-(((((((...(((((((...))))))).....))))))).........((((((.................))))))... (-17.90)
+CGAUGACUAGGGGGGCCCCCCUGCAUCAUCGACUUCAGUUGGAGUCUGAGAGAAUCAUUGUGGUGAUUCU
+.(((((.((((((....))))))..)))))((((((....))))))....((((((((....)))))))) (-28.40)
 >seq91
-ACUUGCCACCCCUUAUGGGAACCAACGGUGGGGUGGCAAGUUUCCAGGCGACCGGCCGUUUAACUAAAACUUUAUCUUUUUAGG
-((((((((((((...((........))..)))))))))))).....(((.....)))......((((((........)))))). (-31.50)
+GAGAGCUGUGUGCAUCAACCGGUUGAAUGCCACACAGCUCUCAGCCCAGUUAGGCCCACAUACGUCUUCCUACGAGACGC
+((((((((((((((((((....))).))).)))))))))))).(((......))).......((((((.....)))))). (-35.00)
 >seq92
-UAGAGGCGCUGUAACCUCCGUGCCGGAGGUUUAGCGGCGCCUCUACGACGCGGUUAAGCCGAGUCAACGCGCUGCUCUACCGCUCAGAGCAGCC
-((((((((((((((((((((...))))))))..)))))))))))).(((.((((...)))).))).....((((((((.......)))))))). (-55.30)
+GGCGCCCGACUCGCCGGAUAAUUCCGUGGCGUGAGUCGGGCGCCCAGCUCUAGGCGUUCGUUUCAGGUUAUGUACCG
+((((((((((((((((((....))))....))))))))))))))..(((...)))..........(((.....))). (-38.50)
 >seq93
-GGCGGGUUCGAGAGAACUCCCUAGUACCCGCCCCAGUGCUCCGGUAGAUUUCCCAUAAACGUUCGCUUAUG
-(((((((...((........))...)))))))....(((....))).......(((((........))))) (-16.60)
+AUAGACCUCUCACGAAGGCCUUCAUAUGAGGUCUAUAUUCCGUUCAGGAAGGGGCCUGUUCUUUGUUCACCAAAGAACAG
+(((((((((....(((....)))....))))))))).((((.....)))).....((((((((((.....)))))))))) (-28.40)
 >seq94
-ACCGCGGGGUUCAUGCCUUGGAGCCAAGGCAUGAGAGAACCCCGCGGUCUGGAGCUCAGAUAGAGCUCCAUCCUGGGUUGGCCCCAGA
-((((((((((((((((((((....))))))))))....)))))))))).((((((((.....))))))))..(((((.....))))). (-57.70)
+UGUGACGGAAUGUGCCGCGGCAACUAUUCCGUCACACCUCCUCGUGAAAUAAGAUAGCCUAGUGGGCGCUAGGA
+(((((((((((((((....)))..)))))))))))).....................((((((....)))))). (-27.50)
 >seq95
-ACACCCGCUAUAACUAGGUCUCAAGGGAGACCUAUUACGUAUAGCGGGUGUGACGCGCUAGGGGCACUGGUCGGUCGGCAGGGUUGCGAAGCCCUGCCGC
-((((((((((((..((((((((....)))))))).....))))))))))))(((..(((((.....)))))..)))(((((((((....))))))))).. (-60.10)
+UCGCAAUUAGGCAAGGUCAAGACCUUUCGAGACUAAUUGCGAAAUUGCUAGUCAUAACUAGUGAAUUGGCAAGGACCCAAUUCU
+((((((((((..(((((....)))))......))))))))))....((((((....))))))(((((((.......))))))). (-27.30)
 >seq96
-CAUCUACAAUAAGGAACCCCGGUUCCUUUCUGAUGUAGAUGAGGUUGACCAUGAGUUCUCCAACUACGCCAUAGCGUAGUG
-((((((((..(((((((....))))))).....)))))))).((..(((.....)))..)).(((((((....))))))). (-29.00)
+CUGACCUGUUUACCGCGAUGUUCGCGGGUCAAACAGGUCAGGUUCUGUUCAAGUUUAGGGCCGGGCUUUCUUAGCCCGC
+(((((((((((.((((((...))))))...)))))))))))((((((........))))))((((((.....)))))). (-41.10)
 >seq97
-UGUCUCUGAGAUCACACGUCUGUGAUCCGGCUCGAGACAAUGUUUGGAGAACUUCGAGAGACACCGGUAAUAUUUACCGGUG
-.(((((((((((((((....)))))))...(((.((((...)))).)))....)).))))))((((((((...)))))))). (-31.10)
+AAGUUUUAGUCCGGAAAUCUUCCGUGACGAAAACUUUCCCUCUACGGCCCAAUUGCCUCAUAGGCAG
+(((((((.((((((((...))))).))).))))))).................(((((...))))). (-19.00)
 >seq98
-AGCUUACCGGCUGCCUCGAUCGAGGAAAAGCCGGUAAGCUCAAAACUGAUUUCAGAUCAUGUGUCUAUUCAAGAGAAGUAAUCUUGAU
-((((((((((((.((((....))))...))))))))))))....(((((((...))))).))......((((((.......)))))). (-34.30)
+GUGACGACUUAGUUAGGAGUCUCCUCCUAUUGAUAAGUCGUCACGCUGGGUCUCAUCACUCCGUGACUUGGUAGGUCCAAGUCAU
+(((((((((((..((((((....))))))....)))))))))))...((((......)))).(((((((((.....))))))))) (-39.00)
 >seq99
-UUGUCCAUCAGACCUUGGAAGGUCGGCCGGACAAAGAGGGCCCCUGGGCUAGGCAGUGCUGAGACUCCAAAUGAGUCUCU
-((((((....(((((....)))))....))))))....((((....)))).(((...)))(((((((.....))))))). (-29.30)
+CUCCCGAGGAGGGCCAUGAGUGGCCCAGGCAGCUCGGGAGAGGUGAGCAACUGCUCAUGCGGGUGGGCCGC
+((((((((..((((((....))))))......))))))))..((((((....))))))((((.....)))) (-38.50)
+>seq100
+AACGGCUCACAGAGGAGGUAUCCUCUGUGUUUAUCCGUUCCGUACACGAUAUGUGAUGUCAUGCAGCAGAUGA
+(((((..(((((((((....))))))))).....))))).(((.(((.....))))))((((.......)))) (-22.70)
+>seq101
+CGCUCAGAUGGACCGUGUCGGUCCUAGACUGAGCGAGAAGCGCUUUAGCCACUCUUCCGUCUGAAUGGAAGAG
+(((((((..((((((...))))))....)))))))....((......))..(((((((((....))))))))) (-33.60)
+>seq102
+AUCCGAUGGCCCCAACUAUUAAGCAAUAGUUAGGAGGGGCCAUCGGAUCAUCAGGUGGACUCGCCUUUAAUUUGGUACUACAAAUU
+((((((((((((((((((((....)))))))....)))))))))))))....(((((....)))))..((((((......)))))) (-38.10)
+>seq103
+UUCUCACGCGUGUACGUUCACGUACACCCUGGAUGAGAAACCGCGGCCGGCCGGUCAAAAUUUCCUACGAUGGGUUAGGAAAUU
+((((((..((((((((....)))))))...)..)))))).....((((....))))..((((((((((.....).))))))))) (-27.20)
+>seq104
+CAAGGGAAGGAGACACGAGACUGUUAAGUCUCGUAUGAACCCUUCCCUUGGCUCUUUAGGAUCUUCUCUACUGACGGAGGUCAGUCAGUU
+((((((((((....((((((((....))))))))......)))))))))).........(((((((((....)).)))))))........ (-37.80)
+>seq105
+ACUUUAGUCACACCUCGGUAACAACCGAAAAGAUGUGACUAAAGUGCCCAGGACAUGGUAUCGCAGGAAUUACGCCGUAAUUCCU
+(((((((((((((.(((((....)))))...).))))))))))))(((((.....)))....))(((((((((...))))))))) (-32.10)
+>seq106
+AUAACGCUGUAAGCUGCCACAGCUUACACCGGCGUUAUGUUAAAUUAUAAUUGUACGCUGGCUUACCAGCGU
+((((((((((((((((...))))))))...))))))))................(((((((....))))))) (-29.30)
+>seq107
+CUUGUGUUACCACCAGACCUGACGGUAACACAAGCUCGCAUCUAGCACUUGGAGGAUACUUGAGUAUCA
+(((((((((((..((....))..)))))))))))(((.((.........)))))(((((....))))). (-22.30)
+>seq108
+ACCGCGUCCUCGGAAUCGUGAUGGCUCGAGGACGCGGUUCUGAAAUCCAUAGUCUCGUUAUUGAGCAUAUAAA
+(((((((((((((...(......).)))))))))))))..........(((..((((....))))..)))... (-26.30)
+>seq109
+UAACCUACUGCGGUCGCCGCUAGUAUAGGUUACUCGCGAGCUGCUCGCGUAAUUACCACUUGUAGUUAGCCAAGUGGUU
+(((((((((((((...)))).)))..))))))..((((((...)))))).....((((((((........)))))))). (-30.70)
+>seq110
+AUAUAAAAUCUGCCGGCAUUAGUUAUAUUUCGAAGUGCGGUCUGAGUGGCUCAUCCACAUGAGCCA
+........((.((((.((((.(........)..))))))))..)).((((((((....)))))))) (-17.30)
+>seq111
+ACACGGUAGUCGUUGAUCAACGACCGGGCGUGUUUUUUUUAUAAUAUCAGGACAUUUCCCCCGUUAAAUGUCG
+(((((.(.((((((....))))))..).))))).................(((((((........))))))). (-18.50)
+>seq112
+CAGCUGUGUAUGGAACUAAUUUUAGUUGGCAUACACAGCUGAGGUGCCCGACACUCAGUCGACCCAAGUCGA
+((((((((((((.(((((....)))))..)))))))))))).((((.....))))...(((((....))))) (-29.90)
+>seq113
+CAACUCAAGCUAAGUUGUUAGCAACUUAUACUCCUGAGUUGGCUAUACAUUACUGCCGCUGUCUCGCACCUAUGCGAGACU
+.((((((((.(((((((....)))))))..))..))))))(((...........)))...((((((((....)))))))). (-26.70)
+>seq114
+AAUUCGGAUCGGUAUGCAUACCGAAACUCGAAUUCUUUGGCCCUCACAACUCCAGUCCAGUAAUAAGUCUGGA
+(((((((.((((((....))))))...))))))).....................(((((........))))) (-16.90)
+>seq115
+CUCAGAUCCAAGGAAGCGAACGUCUACGUUCGCUACUUUGGAUCUGAGAUAGUAAAGCUACGUCACCUUUCAGUCUAGCGACUGAAAU
+(((((((((((((.((((((((....)))))))).))))))))))))).((((...)))).......((((((((....)))))))). (-44.00)
+>seq116
+GCAUUCUUGAGCAUAUGGGGAUAUGCUCUGUGCGGAAUGCCGGUUUAUAUAAUAAGGCGUAUCUGAAUUCGUGCAGAUU
+(((((((.((((((((....)))))))).....)))))))((.(((((...))))).)).(((((........))))). (-23.40)
+>seq117
+CUGUUUCUGUCUGGUUUCUCAGAACCGGGGACAGAAACAGUCUCGCGGGUCGGCGACUGGUACGAAUAAAUGUUUCGUACCA
+(((((((((((((((((....)))))..))))))))))))..((((......)))).(((((((((.......))))))))) (-38.10)
+>seq118
+CCAUCUUUUAGUGAACUCUUCAGAUGGAUUUCGUACGGAAUGUGAGACAGUUGGUGGUCUAUCCAACUGU
+((((((...((......))..))))))(((((....))))).....((((((((........)))))))) (-19.00)
+>seq119
+UGAAUAGUGAGCGUAACCUUACGCACAUCUAUUCACGUCUCUAGGACGACUGAAGUUGGCUCUUACCAGCCAACC
+(((((((((.(((((....))))).)).)))))))(((((...)))))......(((((((......))))))). (-27.70)
+>seq120
+CGUGUAGGCAUUAUGCUCAGAGCAUCUACUGCCUACACGUUGGCUAUAUGCGCUUGUGCUUUUGUCGCGGGACAAA
+((((((((((..(((((...)))))....))))))))))...((.....))((....)).((((((....)))))) (-27.60)
+>seq121
+AGGGACGUAUCGUUAUCAGGGCUGAGGAAGAUACGUCCCUAUGGGCCUGUCCAACCCACCUCUCAUUCAUUAGAA
+(((((((((((....(((....)))....))))))))))).((((.........))))................. (-24.80)
+>seq122
+AAACGGCCCUGGGUAACUGAUUACCCACUGCAUCGUUUUCGUGACCAACAAGCAACGAGCGUCGUUAGUGGCUUAACGACGA
+(((((((..(((((((....)))))))..))..)))))((((............)))).(((((((((....))))))))). (-25.00)
+>seq123
+GACCAAUCGACGACUUUGCUGGCAAAGUCACUAGAUUGGUCGUCCCAUUUAGGGAUGGUUCCGACGCUACUCUCGCGUG
+((((((((...(((((((....)))))))....))))))))(((((.....))))).......((((.......)))). (-31.10)
+>seq124
+AAUCAAGGACUUCGAGCGCCCAGCGCUCGAUAACCCUUGAUUGGGUGCACGACGGUCAUCGUCGAACUGGCGACGG
+((((((((...((((((((...))))))))....)))))))).((((.((....))))))((((......)))).. (-31.90)
+>seq125
+CAGCACUAUACAACACGUUGAUCCUAUAGUGCUGUGUCGAGCAGACCCACAAAGAGACCGGUCUUG
+(((((((((((((....)))....))))))))))........(((((............))))).. (-16.20)
+>seq126
+GCUACAGUGCUGGUGGUCCAGGUGCCCUGUAGCAAGACUCGUUCAUGUUUUGCGUGGCAUGAUGCCUCAUGCCACGA
+(((((((..((((....)))).....)))))))(((((........))))).((((((((((....)))))))))). (-34.50)
+>seq127
+CUUCCAAUAAAUCUAAUUAAGUAAUUAGAACUAUUGGAAGAGAUGGUCAAUGACUCAGACUACGAUGCACUGCCGCAUCGUC
+(((((((((..(((((((....)))))))..)))))))))....((((.........))))(((((((......))))))). (-27.80)
+>seq128
+CGAUCGUAUGUUCGCCGAGCGAACUCCAUACGAUCGAUUCACAUGGAUGUGGGAGGACUUGCGGAUAAAGUCA
+(((((((((((((((...))))))...)))))))))..(((((....)))))...(((((.......))))). (-26.00)
+>seq129
+CCCCGAUGAUGCCCUCUAAGGGCAGCUUGAUCGGGGCUACACUUGGUACACACGGUCCCGACGAACGGACCA
+(((((((..((((((...)))))).....))))))).................(((((........))))). (-29.50)
+>seq130
+GACUUAAAUUGGUACGGAUCAAGUUGAUCCGUCUAUAAUUUAAGUCUCGCGCGCUGCAACAGGAAGCCAGCUGCUACUGGCUUU
+(((((((((((..((((((((...))))))))...)))))))))))..((.....)).....((((((((......)))))))) (-33.50)
+>seq131
+ACAAGUCUCGUGCAACGUGUCCUACAGGACACGUAACACGAGACUUGUAUUCAAGUCGAUAAUCGAUAACUUAUGUUA
+((((((((((((..((((((((....))))))))..))))))))))))......(((((...)))))........... (-36.80)
+>seq132
+UUAGGAUAGCAAGAGGGGUCGAAGACCCGGAUCUUGCUAUCCUAACAACGGUCCACGCCUAACUACUACACCAUUCCAAAGGUGUAGG
+((((((((((((((.(((((...)))))...))))))))))))))....(((....)))......(((((((........))))))). (-40.70)
+>seq133
+CCUCCAAGCCCACCGGGACUCGAGUCCAUCAGGGCUUGGAGGUCUCUGGAUGAGUGGUAGCCUUUGGGGGGGCC
+(((((((((((....((((....))))....))))))))))).(((.....))).....(((((....))))). (-35.10)
+>seq134
+CGCUUGUCGUCGAUAUAGAUUAUAUGAGGACGACAAGCGGUCGGAUCUCGAACUCACCUCUAUGGAAAGAGGA
+(((((((((((..((((.....))))..))))))))))).(((.....))).....(((((......))))). (-28.60)
+>seq135
+AACCUGCUCAAGUGCCGGCGCAUGCCCGCUACCUUGAGCAGGUUAUGAGUUCAUCAUGCCAGCCGUUAACACCUGUUAACGU
+((((((((((((.((.(((....))).))...))))))))))))((((.....))))......(((((((....))))))). (-35.20)
+>seq136
+AAUCUAGAACCCGGGGCCCCGCGUACUAGAUUAGUGACAUCCAACCUAAGGCGUGCAACACCCCACGCCC
+(((((((.((.(((....))).)).))))))).................((((((........)))))). (-21.80)
+>seq137
+UGGCCCCCCGUUGUAGCCUAGGCUACAAAGCUGGGCCAUGCACAUCUAGUCCUCUCCAUCCACUAUGAAGUGGAG
+((((((....(((((((....)))))))....))))))....................((((((....)))))). (-28.90)
+>seq138
+CGGUUCAAAGUAGAGCCUGGGCUCGGCUCCUUGAACCGACUUUAACUGAAUGUUCCUGGUACUCCCUAUGCUUAGGGAGUC
+(((((((((((.((((....)))).)))..))))))))(((..(((.....)))...)))((((((((....)))))))). (-31.20)
+>seq139
+UUUCUGUCUCUUACGACAUGUCGUGAUUGAGACAGAAAGUUCGCCUGCCGCAUGCCUCGGGAUGCAAAUCCCGAU
+((((((((((((((((....))))))..))))))))))....((.....)).....(((((((....))))))). (-29.70)
+>seq140
+AGCUUACAACGAAACUUAAAAGCUUAAGUCGGGUCGUUGUAAGCUAAGGGUAGAUCCCUCAUCCAAGACCUCGUGGUCUUGA
+((((((((((((.((((((....))))))....)))))))))))).((((.....))))....(((((((....))))))). (-35.10)
+>seq141
+CAUACGAGCUUAUGGUGCUACACCAUAAUCAACUCGUAUGCCAGUUAUAUACGUUUCGCCAUAGUUGGU
+((((((((.((((((((...))))))))....)))))))).................((((....)))) (-20.40)
+>seq142
+GGUGAGCCCCGAGCUCGGAACACUCACCACUUAUAUAUUAAGCUUCAAGCAUUCAGCAGAAUGCUUU
+((((((..(((....)))....)))))).((((.....))))....((((((((....)))))))). (-22.00)
+>seq143
+GACGCAUUAAAAUUUGAACCAAAUUAGAAUUGCGUCUAACUUCAUGUGAGGAUGUGCGUAUCCCGCU
+((((((((..((((((...))))))..)).)))))).........(((.(((((....)))))))). (-17.50)
+>seq144
+CGAUCAAUUCCCGGCAGCGCUGCCGCUUGCAAUUGAUCGAUAGAGCUCCUGUCCGACACACUCUCGAAUGCGAGAGC
+.(((((((((.(((((....)))))...).))))))))(((((.....))))).......((((((....)))))). (-26.80)
+>seq145
+UCUAACGUUACGAGACGCUCUCGAGUCAGUUAGAGCCCUCCAGUAGCGAGCCGAUCUCCUCCUACUUUUAGGAGGAU
+((((((....(((((...))))).....))))))..((((((((((.(((........))))))))....))))).. (-26.00)
+>seq146
+CAAGUUCGUUUAUCUGUAUUCGGUGAAUACGAUACUAAACGAACUUGGAGCGCAGGACGCUCCAGUAUCGAUCCUCCGCCAGGAUCG
+..((((((((((((.((((((...))))))))))...))))))))(((((((.....)))))))....(((((((.....))))))) (-34.80)
+>seq147
+UUGCUACUAACUGACGCGUCAGUACGUAGUAGCAAUAGAAUUCAGUUCGCCAAAUACGCGGCGUCGCG
+((((((((((((((....)))))...))))))))).........((.((((........))))..)). (-21.40)
+>seq148
+UAGAUAUGAAACGAAUUCUUUGAGAAUCUGAUUUCAUAUCUAGAGGUUAGAUACGCAACAGCAUUUCCCUUGGUCGGGAAG
+(((((((((((((.(((((...))))).)).)))))))))))............((....))..(((((......))))). (-21.60)
+>seq149
+CGAUGCACGGUGCUAGUAAUACUACGCUGCGUGCAUCGCUGGGUCCGCCUCUGAGACGCGGAGCAUCACCGCU
+(((((((((..((((((...)))).))..)))))))))...(.(((((.((...)).))))).)......... (-29.30)
+>seq150
+CUAUGCACCAACAGAGCUGGCUUUUGUGGUGCAUAGUAAAGGCCCGCUGAUGGUCGGCAAGUGAUCUUGCCGA
+((((((((((.(((((.....)))))))))))))))....((((.......))))((((((....)))))).. (-30.60)
+>seq151
+GGCUCAUCUGAGGGUUUAGGGACUCCUAAAUAGAGUCAGAUGAGCCAUGCAGCUCGCUAUGUCGGCUACAGCACCGUGUAGA
+(((((((((((..(((((((....)))))))....)))))))))))..........(((((.(((........)))))))). (-33.90)
+>seq152
+CAGGCGACGCUACUAGUAAGUACUGGUCCGCCUGGUGUAACUCACGUUCGAUCACGCCUCAGAGGCGUGAU
+((((((.....((((((....)))))).))))))(((.....))).....(((((((((...))))))))) (-28.60)
+>seq153
+GAUCACAGACAGCAGAUAAAAUAUCUGCAGAUGUCUGUGAUCUACUAGAUGAGCUUACCAGGCAGCAGGCCGGACCUGCUG
+((((((((((((((((((...)))))))...)))))))))))....................(((((((.....))))))) (-35.80)
+>seq154
+ACGUCAACUUAGCAAAUGCAAGAUUGACGUUGGACAGGCUCUGCCCUAUGUCGUCCGCACGACA
+((((((((((.((....))))).))))))).((.(((...))).))..((((((....)))))) (-19.20)
+>seq155
+GAUCAGUAUCAAGCCGAAUUCGGGCUUGAUACUGAUCUCCCGGCGCUCGCAGGGUGUCCUACUACGGAAGGG
+(((((((((((((((.......))))))))))))))).(((.((....)).)))...(((.(....).))). (-35.50)
+>seq156
+CGCCGUACGGUGAGCUGUCGUUUCGACAGUUUCACCGUACGGCGGUCAUUACAUAUCUGGCCCGUACGUCCGGUGGACGUACGG
+((((((((((((((((((((...)))))).))))))))))))))((((.........))))((((((((((...)))))))))) (-53.60)
+>seq157
+CACAGUCAUCGGACAGUCACUGUCCAAUGAGACUGUGGACGAAAUCCGACACUACCAUCCUUGUAUUGACAAGGAUC
+(((((((.((((((((...))))))...)))))))))...................((((((((....)))))))). (-27.70)
+>seq158
+UCAUCCAAAGUGAUUGACUAAUGCCGCGUUGGAUGAGGCGGCCCGCCCGAGGAGGGUCGGAUUUGUCCGACCG
+((((((((.(((............))).))))))))((((...)))).......(((((((....))))))). (-28.90)
+>seq159
+UCGAUAUCAUGUUCAGAUUUCUGAACGGACAUAUCGAUCCUGCUCUAGCGACCAUCACACUGCAGUGCCUUCUGCAGUU
+(((((((..(((((((....)))))))...)))))))...(((....)))........(((((((......))))))). (-25.90)
+>seq160
+GUAUGCGCACAUACGCUGUUAUUAACAGCCCUGUGUGCGCAUACGGUGUUGACCAAGUCUAUUCGUCCUGCUAAGGACGAAG
+(((((((((((((.((((((...))))))..)))))))))))))(((....))).......((((((((....)))))))). (-43.00)
+>seq161
+GGUGCGUACAUCUAAAUUUCUAAAUUUGUCCUGUACGCACCCCGUAAUUGACUAUCGCGCGAUGCGCUCCCAUCGCG
+((((((((((..((((((....))))))...))))))))))................(((((((......))))))) (-26.70)
+>seq162
+CCUAAAUCAGGAGAUCCUAUCUUACCCUGAUUUAGGUCGGUGCCCUACGACAGAACCAGCUACAGCGGCCUACAGCUGUAGCU
+.((((((((((((((...))))...))))))))))((((........))))......(((((((((........))))))))) (-34.40)
+>seq163
+GUCAUGCUUGCGGAGGUAUCUCCGCGACAGGCAUGACAAUUGUCGAGCACGCUGUGCAAGGGGCUAUGCCCCCUUA
+(((((((((((((((....)))))))...)))))))).........((((...))))..(((((...))))).... (-36.50)
+>seq164
+GCUUGACUGUCCUCUCUUCGCGGUGCGAAGGUAUGGACAGUCAAGCGUAGGCGCACUCACCGUUUAAACUGGUUGUUUAAC
+((((((((((((..(((((((...)))))))...))))))))))))...((........))..((((((.....)))))). (-34.30)
+>seq165
+CCUUGUCAGUGGAGAUCUCCUAAAACAAGGCCCCAAAUUGUGCAGCCCAACCUUCACUGGUGAAA
+..((((((((((((..........((((.........))))..........)))))))))))).. (-12.10)
+>seq166
+UCGACUCCUGGCUCGGAACAGUGCUGUUCCGGUGGCCAGGAGUCGAAGGGCACAUGGCGUCCUGUCCUUAAUGGCUACCCAUUAA
+((((((((((((((((((((....)))))))..)))))))))))))((((((...((...))))))))((((((....)))))). (-45.60)
+>seq167
+CGCUAUCACUCUCGAUAAAUCGAGAGCAACUAGCGUCGACACGUUCUCGCAAUUUGCGUGAGGUUAUCACGCAC
+(((((...(((((((....)))))))....)))))...................(((((((.....))))))). (-25.00)
+>seq168
+GAGAAUGGCCAUGUGUCUAUCAGACAACCCAUGGCCAUUCUCCGAUAGAGCUUACAACAGCACACGGUUUCGCUAAACCGUGC
+((((((((((((((((((...)))))...))))))))))))).......(((......))).((((((((....)))))))). (-37.50)
+>seq169
+GUCAAGGCUUGCUGACGGAGCGUCAGCAGCGAAUUGACGGCGCGAGACGUGCUUUCUAUUGACCGUGCUACGUCAC
+(((((..((((((((((...))))))))).)..)))))((((((...))))))......((((........)))). (-29.00)
+>seq170
+UAUUUCUAGGAACGUUCUUAGUAGAACGGAUCGUCCUAGAAAUAUGUGAUGUAGUCUAUGCUUUCCUAUGCGCUGGAUCGUGCGCAUAC
+(((((((((((.((((((....)))))).....)))))))))))......(((.....))).....(((((((........))))))). (-28.80)
+>seq171
+UACAGAGGAAAUCAACUGAUCCCUCCUCUGUAUUGUAAAGUAUAGCAGCAAAGUACCCUUAAUUACUUU
+(((((((((.(((....)))...)))))))))((((........)))).((((((........)))))) (-15.90)
+>seq172
+UCAGCUAUUAUAACAUGGGUUACCGAACCCUCAAACUAUAAUAGCUGAGGGAAUUUCUCGCGCUAUUGAAGCCGGCUCUUCA
+((((((((((((....(((((....)))))......))))))))))))..(((....(((.(((.....))))))...))). (-24.50)
+>seq173
+AACAGUGCUCCAACCAGCCAUGGUACCGCGGAGCACUGUUAGACCACGUAGGGGAGGUUGUAAGUUUACGCGCAAACUA
+(((((((((((.((((....)))).....))))))))))).((((.(......).))))...(((((......))))). (-25.50)
+>seq174
+AAGGUGACGUGCGGUUAAGUAACGAAGCACGUCACCUUUGUGACGUGCUCUGUACUACUAAUGGCUACGGGCCAUUAU
+..(((..(((((.((((((((.((.((((((((((....)))))))))).))))))..)))).)).))).)))..... (-32.70)
+>seq175
+GCUAACAUAGGUGAGGUGUUCCUCACCUUCAUCGGUUAGCCCCCCCUCGCGGUCUCCCCCAGCACGUUAAGUGCUGGC
+((((((..((((((((....))))))))......))))))....((....))......(((((((.....))))))). (-32.80)
+>seq176
+AGUACGUAGUCUACGGGUACUACCCGUAGGUCUACGUACUAUGGAGGCCGUCUCCCUUCGUACUGCACUCAGUAU
+((((((((((((((((((...))))))))).)))))))))..((((.....))))....((((((....)))))) (-35.30)
+>seq177
+UCAGACAAAUGGUGACCACCAUACCCGUCUGAUUGCAGAUAGCGAGGUGUACGGCCGCUAGCUGGAGCGGCC
+((((((..(((((....)))))....))))))((((.....)))).......(((((((......))))))) (-26.30)
+>seq178
+GAAAGGGCCAGUGCUUAAAAGCACGAAUCCCUUUCAAAGGACCUCUGAGAAGUUUAUUUCAUAAAG
+(((((((...(((((....)))))....)))))))..........(((((......)))))..... (-18.90)
+>seq179
+CUAAAUUUCUUAGCCGCUUUGGAGCGUGCGAGAAGAAAUUUAGGUGGCCCGUCCAAGUUGGGCGGGAAAUAUAUGAUUUCCU
+(((((((((((.((((((....)))).))...)))))))))))((..((((((((...))))))))..))............ (-32.00)
+>seq180
+GCUGGUCCUUGUGAGGCCUCAUAAGGGACCAGCAGUUUGGACUAAUGCGUGAUUUUGCAAGGAUAUCAUCCUUGCAC
+((((((((((((((....)))))).))))))))......................(((((((((...))))))))). (-33.20)
+>seq181
+GCGAUUUCGCGACCCCGCGGGUCGUGCGGAAAUCGCUUCUUGGAUAGGGAAUGGGUGCUCGCAACAAGGAGUUGCGAGG
+(((((((((((((((...)))))))...))))))))(((((.....)))))......((((((((.....)))))))). (-35.80)
+>seq182
+UAGGAUCGCCGGCACCCCGGUUACCGUCCUACCGAUAAAUUCUAUUGGCCGCAGAGGGAUUUAGAGCCCUCUA
+((((((.(((((....)))))....))))))((((((.....))))))....((((((........)))))). (-25.50)
+>seq183
+CACAUGGACAAUCCUUAUUGGCCAUUCAUGUGUCGCGCUCGGCCAGAAAAUCUUCUGGAGCUCAGUCUCCAGAG
+((((((((....((.....))...))))))))..((.....))..........(((((((......))))))). (-20.50)
+>seq184
+AGGCGACUUCCAGCGGUUUAAACCGCUCACGGGAGUCGCCUUGGACGUGCUCGAGUCCCACUAGGGCAAGCCUG
+(((((((((((((((((....))))))...))))))))))).((.(.(((((.(((...))).))))).))).. (-37.10)
+>seq185
+AAUCGAAUCUAUUGCGACUGUUAGUCGCAAGCUACUUCGAUUACCUGCUAGUCACCUCUGUGACCUGAUAUUGAUUAUCAGA
+(((((((....((((((((...)))))))).....)))))))........(((((....)))))((((((.....)))))). (-27.60)
+>seq186
+CGACUUUCCAUAGCUGGGGUCCCCCGGACAUGGAAAGUCGGUUCAUUAAUUGGCAAACCGCGCGCUAACUCGCGG
+(((((((((((..(((((....)))))..))))))))))).................(((((.(....).))))) (-33.90)
+>seq187
+GUGCAGGGUUAUGAGUGAGCACUUAGAAACCCUGCACGAUCUGUAUGAUUUCCUCCGGUGAGUGGCGGC
+((((((((((.(((((....)))))..))))))))))((((.....)))).((.(((.....))).)). (-27.20)
+>seq188
+AUGACCGCUAUAGCUCCCCACCGGGGAGCUUAGGUAGCGGUCAUGUCGCAGUUGGCACCACAGGCUGUCGGAGCCUACAGCCU
+(((((((((((((((((((...))))))))...)))))))))))(((......))).....(((((((.(....).))))))) (-43.50)
+>seq189
+CUAAUUAUUCUAGUCAAGGGGUUGCCCUUGAGCUAUUAAUAAUUAGGUCAAGCGCAUUCCCUUUUUCGAGUCGUCGU
+...............((((((.(((.(((((.(((........))).))))).))).))))))...(((....))). (-24.00)
+>seq190
+AAUCUAGUGCCCCAUUACCUGUAAUGGGUCUCACUAGAUUGACCCGCGCGGAGUUUCUCAAGUCUACCUUGAU
+(((((((((.(((((((....)))))))...)))))))))(((((....)).)))..(((((.....))))). (-23.90)
+>seq191
+UUUCCCUUCAAAUAGCGCAAGUUGCUGCGAUUUGAAGGGAAACUAGCGCGACUGCCUCGGGGCAAGAUCUUUCUUGCCCC
+(((((((((((((.(((((...))).)).)))))))))))))..((.((....)))).(((((((((....))))))))) (-39.20)
+>seq192
+UCAUCCCUUCUUAUUUGAAAAUACACGGGGAUGAUCCACAUGCUGCUCUUACUGCUCAUCUAGCUGAGCAGA
+((((((((...((((....))))...)))))))).................(((((((......))))))). (-21.50)
+>seq193
+UCGUGAGAGUAUUCGUCUCUACAGACGAAACAAUUCUCACGAAGUCAAGUGGACCUAUUGCCUGGGGCAUUUCACUGCCCCU
+((((((((((.(((((((....)))))))...)))))))))).(((.....))).........((((((......)))))). (-34.30)
+>seq194
+CUACACACUCCCUCUAACGAUAGAGGGAUCAUUUGUGUAGGGGUACGUAACGAGAAGUCACACAUCGUGAA
+(((((((.((((((((....)))))))).....))))))).................((((.....)))). (-21.90)
+>seq195
+GGCGGAUUGGGUGAAGCGACUCCGCUUCCGACUUAAUCCGCCCCUGAGGACUUCAAGUCGGGCGUGCGGUCCGUGCAACCGCACGC
+((((((((((((((((((....))))))..))))))))))))......((((...))))..(((((((((.......))))))))) (-45.20)
+>seq196
+AGCAUCUAUUUAAGGCAAUGCCUUAUCACGUAGAUGCUAUGUUCAGGCAAGGGAAGAAGCACCAGUGUGCA
+(((((((((.((((((...))))))....))))))))).(.(((........))).).((((....)))). (-21.10)
+>seq197
+ACGCGUUCUUAGUGUAAUGAUAAGUAUCAUUACUGCUAAGAACGCGUUAAGCCAGGAGCCUACACUCUCCAAUUGUUGAAACAACAAUUGA
+(((((((((((((((((((((....)))))))).))))))))))))).......((((......)))).(((((((((...))))))))). (-38.70)
+>seq198
+UGUGGUAUGGCAUUUCACAAGUGAACCGGGCCAUACCACAACUCAACAUCUGGGGGGGCAUCCUCUCCAGGAUGA
+(((((((((((..((((....))))....)))))))))))......((((((((((((...)))))))).)))). (-35.70)
+>seq199
+GGCUGUGGAAAUGGGUCACCGCAGUCGGUGACCGUCUCAUCCACAGCCUUAAGUCCGUUUAGUAGGACCUCAUCGUGAAUGAG
+(((((((((....((((((((....))))))))......)))))))))....((((........))))(((((.....))))) (-39.70)
+>seq200
+GUACCCGGGGCCAGAGAUCUCUGGGGGCCCGGGUACUGCAGGCCCACUCCUAGCCUUAUUGCUAUAUAC
+(((((((((.((..((....))..)).))))))))).((((((.........)))....)))....... (-29.20)
+>seq201
+UUAGGCGUUGCCAAAAUUUUUUGGCAACGCCUAAAACAAGCUAUGUCGGCUGCGUUAGCACGCA
+(((((((((((((((....)))))))))))))))....((((.....))))((((....)))). (-31.20)
+>seq202
+CACUUGCUCGCCCGUGGGGCGAUGGAAAGUGGACAUCACGAAUCACACCCUGAGCCGGAGGAAUUUCUCCGGCU
+(((((.(((((((...)))))).)..))))).....................(((((((((....))))))))) (-29.70)
+>seq203
+GGCCACAAUCCCAGAGGCUCCCUUUAGAGGGAUUGUGGCCGAGACUCGUUCCUUCGACGUUGCAAGAAGCAACGU
+(((((((((((((((((...)))))...)))))))))))).....(((......)))((((((.....)))))). (-36.40)
+>seq204
+ACAACAAUUUGUGACUGAUCAGUCCUCAAAUUGUUGUGCGACAGGUUCAUGGAUCACUAAGGCCAAUUCCUUAGC
+(((((((((((.((((....))))..)))))))))))......((((....)))).((((((......)))))). (-21.70)
+>seq205
+AGUGACGUUGAGUAAAUACUCAGCAGUGGUCACUCGUGAUCUCCAUCCUCCUCCUUUCCGAUACAGAGCGAUCGGAAA
+(((((((((((((....)))))))....)))))).....................(((((((........))))))). (-21.60)
+>seq206
+UUAACUCAACUGCUAAACCGUUUAGCGCCUCUUGAGUUAACUCUGCAAGCCAUCCUUCCGCAGGGUGACUGG
+.((((((((.(((((((...)))))))....))))))))(((((((.............)))))))...... (-20.00)
+>seq207
+AUAGUGUAUAGUCACGGGAAAGUCCCGAGCAUUAUACACUAUGUACGCACGCCGCCGUUUAACACCACUCCGGGUGC
+(((((((((((((.(((((...))))).).))))))))))))....((((.(((..((........))..))))))) (-28.90)
+>seq208
+CAGCAGGGGAUCCUUUGCCCCAAAGGAUCUAGUCCUGCUGACUCCGCGAGAAAACUGCAAAUUCAACCUUUGAAC
+(((((((((((((((((...))))))))))...))))))).....(((.......)))...(((((...))))). (-25.70)
+>seq209
+CACACCUCUGCUGUUAGCCUUGGGUGUGUCGGGCUCACCAGAGGGAGCGCGCACCUCGCGC
+....((((((.((..(((((.((.....))))))))).))))))..(((((.....))))) (-23.20)
+>seq210
+ACGACACUAACAAUUCGGAUCCGAAUUGACCAAAUGUCGUGACAAUCUCUGCUUCGGAGUCUACAUAAGAACUUAUGUAG
+((((((....(((((((....)))))))......))))))......(((((...))))).((((((((....)))))))) (-22.10)
+>seq211
+GAUGUACUCCAAUGCCCCCCGUGGGGAAUUUUUGGAGUACAUCAUCCGCCGGUCGUCCCCCUUACAGAUCGGUCAUCUA
+((((((((((((..((((....)))).....))))))))))))....(((((((............)))))))...... (-34.90)
+>seq212
+ACUGCUACCACGUUAGAUGAAUCUGUCGCGUGGUAGCAGUGAGUCUAGUACACGGUGAUAGCAGCGGACCGUCGGUCCGCUGA
+(((((((((((((((((....))))..))))))))))))).....................(((((((((...))))))))). (-41.40)
+>seq213
+CGAUGAAGGUGCUAACCCGCGAGGGUAUUGCGCACCUUCAUCGAGUCGCUUGACGUUAUCGUGAUUGGCUGAACCAAUG
+((((((((((((((((((....))))..)).))))))))))))(((((..(.(((....))).).)))))......... (-33.00)
+>seq214
+ACCUAGGCAUUACAUUGUCGUGCGACAAUGCAAAAUGCCUAGGUUCGUUUAGAUAACGAAUCAAGCAUGGAUUUCAUGCUUC
+(((((((((((.(((((((....)))))))...)))))))))))(((((.....)))))...(((((((.....))))))). (-36.30)
+>seq215
+UGCAGGUUAAAUCGGUGCCGAUUUUUAACCUGCAGGCUUCUAGCAAUCUCACAGUGCCGGCAGCAUCCGGG
+((((((((((((((....))))..)))))))))).(((...)))............((((......)))). (-23.10)
+>seq216
+AGUCACGGGUUGGUACGUAAGUUACUUACGUCUUAUCAACCCGUGACUUGUGUGAGCAACGCUGGCAGCUGACCUGUGCAGC
+(((((((((((((((((((((...)))))))...))))))))))))))(((....)))..((((((((.....)))).)))) (-35.40)
+>seq217
+GUGCGCCAAAAAUGCCCAACAUUUGUUGGGCGUGGUUGGCGCACUAUAGGACCUCUAACAGACGCUCGGGCGCCCCCCGAGU
+(((((((((..(((((((((....)))))))))..)))))))))...................(((((((.....))))))) (-44.50)
+>seq218
+CACAUAGACAGCCCCACCCUUGAAAAGGGCAAUGGCUGUCUAUGUGGGAGUAUGUCACCGUGAUCACGGUACCGCCGUGG
+(((((((((((((...(((((...)))))....)))))))))))))..................((((((...)))))). (-36.80)
+>seq219
+CUCCCCACGUUGAAUGUAUGAACAUCAUACAACACCCAACGUGGGGAGGGAAGUUCACCUUAUAAGCCGCGGCCUGCCUAGGCCGCG
+((((((((((((..(((((((...))))))).....))))))))))))...................((((((((....)))))))) (-43.60)
+>seq220
+GCGGACAGAUAGCACUAAAGUGGUCUCUGUCCGCAGUAUGCAGUAGAGAAUUGGUUAGUACCAG
+(((((((((.(.(((....))).).))))))))).................((((....)))). (-24.60)
+>seq221
+CCUAAGAAUACUGCCUCUUUUGAAGAGGCAGCGAGUUCUUAGGACGUGUUCUACAAUUCCGGCUACAGCCAUAGG
+(((((((((.(((((((((...)))))))))...))))))))).................(((....)))..... (-28.60)
+>seq222
+CAGUUAGAUGGAUAGGUACGUACCUUGCAGUCAUCUAACUGCAAGACUAGAUCGGAGGGCGUCUGGCCAGCCCAGACGG
+(((((((((((..((((....)))).....)))))))))))..................(((((((.....))))))). (-27.50)
+>seq223
+AGAAACCCUCAGGAACUGACGUUCUUUCUUUCCGACCUCCGUAGAAAGUAGACCACACCCUGGUCUA
+..........((((((....)))))).(((((..((....)).)))))(((((((.....))))))) (-14.50)
+>seq224
+GUGUAUUAAACCUAUGCUGCAUAGGUUGUUGAUACACGGUGUCCGGAACUAGAGCAGGCACUCUAGGCCUU
+((((((((((((((((...)))))))..))))))))).......((..((((((......)))))).)).. (-26.00)
+>seq225
+UGAUCAGACGUCACUAGUGACGUCGGAUCAAGGGUAAGUAACGUCAUUUAUAUGACUAUAG
+(((((.(((((((....))))))).)))))............(((((....)))))..... (-20.50)
+>seq226
+GGAUUCCGUCUACGACGUCUCGUUGAUGGACGGAAUCCUUAAUAUAGUUCACAGCACACACAAGAAAGGUGUGUU
+(((((((((((((((((...))))).))))))))))))..............(((((((.(......)))))))) (-32.10)
+>seq227
+CGGGAUGGUGUUUCCGGUUCAACCGAUUACACACCAUCCCGUAACUAUGUCAGCCUAACAAUAGCGUGGUCGCUAU
+(((((((((((...((((...)))).....)))))))))))...................((((((....)))))) (-28.90)
+>seq228
+UCACGCUGCCAUAUAAUGCGGGUGCGUGAUGUGAUGUCCAGAAGAAUACCGGAUAUCACGGUAA
+((((((.(((..........))))))))).(((((((((...........)))))))))..... (-23.20)
+>seq229
+GAAGCAGCCUACAAGUCGAAGACUUGUACCGGUCUGCUUCUUCUAACUUAUAUGGGGUCUCAGACAAACACUGAGU
+(((((((((((((((((...))))))))..)).)))))))..................(((((.......))))). (-26.10)
+>seq230
+GAAAUGCAGUCGCAAAAUUGCACAGUGCAUUUCGUGAACAUGCUUGAUUCCCCGAGUGGCGGCUGCACU
+....(((((((((.....((((...))))............(((((......))))).))))))))).. (-20.10)
+>seq231
+UUCGGUAUAUCGUAGCCAUCCUUGGAUGGCUAUCUUGGAUACCGAACCUCGUAGAGCGUAUGAGGACUCCGGAGUUCAGACCGGAGUCG
+((((((((...(((((((((....))))))))).....)))))))).((((((.....))))))((((((((........)))))))). (-42.80)
+>seq232
+ACUUAGGAUGCAGGUUAAGCACUUAACCCAUGCAUCCUAAGUUGAAGUGCUUUUCAUCCUGAAAGGAGACUGUUUU
+((((((((((((((((((....))))))..))))))))))))...(((.(((((((...)))))))..)))..... (-28.90)
+>seq233
+AACACGGGACUAUUCAUGAAUGUAGUCCCGUGUUUGAUACUUGAUAAAACACGAGUCUCCGUGAGAU
+(((((((((((((........))))))))))))).((.(((((........))))).))........ (-24.70)
+>seq234
+UGUUACGAAAGCUACAAUAGGUGUAUUGUUUAACUUUCGUAACACGCAAUGCAUUUUAUACCACUAUAGCCUGGUCGGCUAUAA
+(((((((((((..((((((....))))))....)))))))))))....................(((((((.....))))))). (-25.90)
+>seq235
+UUGUAAGACGGAUGAGGUCAUUAUGUCUUACAAUAGCGUACAUCGCUGUCCUGUAGCUCCGUUAGAGCC
+.(((((((((((((....)))).)))))))))((((((.....))))))......((((.....)))). (-22.80)
+>seq236
+ACCUGCGUUCAUGCUAUUUUGAAUAGCUGGCAACGCAGGUACCUCGGGCAGAGACAGUACUUGUAUUAAGUAG
+((((((((((..((((((...))))))..).)))))))))..(((.....)))....((((((...)))))). (-25.30)
+>seq237
+CGAACAUUAUGCUGAGAAUUCAGUAGGUUUAAUGUUCGAAACGAACUGCGCUAGCCAACUACGGGUGCGUG
+(((((((((((((((....))))))....))))))))).........((((.(.((......)).))))). (-22.50)
+>seq238
+CGAACUAGGUAAUGGACGUGAACGUCCAUACAGAGCCUAGUUCGAAAAAGAUCUUCUCGGAUCGUUGUGGUACACAU
+((((((((((.(((((((....))))))).....)))))))))).....(((((....)))))..((((...)))). (-28.70)
+>seq239
+UACGCGACCGUCUGUCGCGCGACAGAGUUUCGCGUAGUGCGAACGGCUUGAGGUUUCAUGUACGGGGGACAUGAAAU
+(((((((...((((((....))))))...)))))))..((.....)).....(((((((((.(....)))))))))) (-28.80)
+>seq240
+GCGAGCGCCAGCCUACAGGCUGGACCAACUCGCCAGCCGGCCUGGCUUUUGCUACCUCUCCAACAAGAGAGGUU
+(((((.(((((((....((((((.(......))))))))).))))).))))).(((((((......))))))). (-36.70)
+>seq241
+GCGGAUAAUGACGCCCGUCAUAAAUAUCCGCAUCUGUGAAUCACGUUACCUACGUGAUUUAACUAGUAAAUCACC
+((((((((((((....)))))...))))))).....((((((((((.....)))))))))).............. (-26.20)
+>seq242
+UGGGCUGCAACUAGACGGGUCUGGAAUGCAGCCCAUGCCUCGGGCAGGUUCUGUGUGAUACCUCUUUAGUUGAGGUAUC
+(((((((((.(((((....)))))..)))))))))((((...))))..........((((((((.......)))))))) (-35.60)
+>seq243
+CUGCAAUCGAGACAGUUACAACUGUCUAAGCUGCAGAAUUUAACUCAAUGUGGGUCCUGCACGAGGGAGUGCAGGAU
+(((((....(((((((....)))))))....)))))......(((((...)))))(((((((......))))))).. (-31.40)
+>seq244
+CGGUAGUACAUGGUUGUGUACAAGACCAUGUACUACCGAGUGAUUGAUUCGCCAGUACUAUCGACCCACCGAA
+(((((((((((((((........))))))))))))))).((((.....))))........(((......))). (-29.60)
+>seq245
+GAAACCUACACGGGUUUUUUGCGCAAAAAGCCACGUGUAGGUUUCGUGUGCUCAACCGUUUCUAUCGGUCCACUUGACCGAA
+((((((((((((((((((((....)))))))).))))))))))))...................((((((.....)))))). (-36.00)
+>seq246
+GCGAACUUCUAGAUAGUAAUAUACUGGCCCCUAGAAGUUCGCGCUCCUUGUGACUGUGUUUUUCGACCGCUGAAG
+((((((((((((.(((((...)))))....)))))))))))).......(((...((........)))))..... (-20.20)
+>seq247
+AGUUGUUACUAGGAUCAAGUUCCUUGAUCCAGGUGAACAACUUAUGGUCCACCCUUACUCCGUUGAAAAUUACUUUUUCC
+((((((((((.((((((((...)))))))).)))).)))))).((((............)))).(((((.....))))). (-21.00)
+>seq248
+UUAGGAGAAGGAGCGUAUAUACACUGCUUCUCCUAACCUUCUUUAUGACAGACACUCUCACUGUUAUGCGUGAGAGG
+((((((((((.((.((....)).)).))))))))))..................(((((((........))))))). (-29.10)
+>seq249
+UGGCUUAGUCGAAAUGUAAUUUCCUGUCAAGCCAUUUCGGCCAGAGAAGACGAGUAGUUCUUAGAAGAACUU
+...(((.(((((((((................)))))))))..))).........((((((....)))))). (-13.80)
+>seq250
+UUUUAUACACAUCAUCGGAGCGAGGGCGUGUGUAUAAAACCUGGGGACACCUCAAAGAAGUUAAGGGAACAUAACUUG
+((((((((((((..(((...)))....))))))))))))..(((((...)))))...((((((.(....).)))))). (-20.10)
+>seq251
+UUGUUAAGAUACGGUAAGAGAAACUCUUACCGAGCGAUCUUAACAACGACCGCGAGUAGGUACUAGCAACUGCCGAUAUACAGUUU
+((((((((((.(((((((((...)))))))))....)))))))))).....((.(((....))).))(((((........))))). (-26.40)
+>seq252
+GUAAAGCGUGCCCUCCUACAGCUAGGUGACAUCACGCUUUACGCUCCAUCUAGGGGUGGUUGAGACUUAAGUUCUU
+((((((((((..(.((((....)))).)....))))))))))(((((.....)))))................... (-22.90)
+>seq253
+UAGCAGGCGGCUGUGCCAGCAGGACCUGCUACACUAGUUAAGGUACGUACGGAGACCGCACACUCCGUG
+((((((((.((((...))))..).)))))))................(((((((........))))))) (-23.70)
+>seq254
+AACUGCGAAUCUAUUAUCUCCGAGAUAAUGAAGGAUUCGCAGUUGGGGAGCGCGUCGCCAUUUAGUUGGUCGGGACUAA
+(((((((((((((((((((...)))))))...))))))))))))((.((.....)).))..((((((......)))))) (-29.00)
+>seq255
+UUGUACUAAAGACACGCUCAAGCGGACAUUUAGUACAAAACUUGAACGAAAUCCGGGUAAUCUUGCAAGAAGAUUACG
+((((((((((....(((....)))....))))))))))..................((((((((.....)))))))). (-22.70)
+>seq256
+UAGUUGGCGAAAAUUUAGCAAAUUAACGUCGCCAACUAAGGUAAGUAACACGGGACAGUUCACAAGACCCAUGUUGUGAACG
+((((((((((....(((......)))..))))))))))...................((((((((........)))))))). (-23.70)
+>seq257
+UGUUAAACCCAAGCAAGGCAUUGCUCCGUCCGGUUUAACAAAAUGCGGGUCAACGUGACCAACGUUCGGGUUA
+(((((((((..(((((....)))))......))))))))).((((..(((((...)))))..))))....... (-21.50)
+>seq258
+AAGUUUCCGCGCGAUAGCGCACCCGCGAAACUUCUCUGCCCUAGCGCUGAAACAGUAUUACGCUACUGG
+((((((((((((....))))....).))))))).((.((......)).))..(((((......))))). (-16.60)
+>seq259
+UUACCAGUCGUGAACGCAAUACUUGCGUUCCCGACGACUGGUAAGGAUUUCGAGAAUACGCCGUAUCAAGGACGCAGUUCUCGUCCUUGG
+.((((((((((((((((((...))))))))...))))))))))((((...(((((((.((((.......)).))..)))))))))))... (-39.90)
+>seq260
+UACAUUACAUUCAACCAUACAUGGUUACUUUGUAAUGUAUUCCCUUGACGGUAUAUCGGGUUGAGUUCGUGGAAGCCCGAACUCAA
+(((((((((...(((((....)))))....)))))))))..(((.............)))(((((((((.((...))))))))))) (-27.20)
+>seq261
+AUGACUCCCAAAUACGUAAAUCUUUUACGUCUCGUUGGGAGUCAUGGGCGCCCAGCAGCCAUGAAGAUUUUCCGGAAUCUC
+(((((((((((..(((((((...)))))))....))))))))))).(((........)))....((((((....)))))). (-29.80)
+>seq262
+UCGAAACUCAUCCGUUCUAAUAGAUUAGAGGUCGAUGAGUUUCGAGGCAUUUCACAUUAAGUUUCACCAAUGUUCUUGA
+((((((((((((..((((((....))))))...))))))))))))((((((.................))))))..... (-21.10)
+>seq263
+CAUAUCAGGCGAUAGAGAGUAGAGUACUCUAGUAGCGCCUGAUAUGCCUGGUUAAGCCGCCCCUAGCGCGGGCUU
+(((((((((((....((((((...)))))).....)))))))))))...(((...)))(((((....).)))).. (-31.90)
+>seq264
+CGUACGUCGCCGAUUGCUGUGCAAUUUGUCCGACGUACGCUAAGUAAACCUAAAGCAGCGAGUCUCGCGACG
+(((((((((..((((((...))))))....)))))))))...............(..((((...))))..). (-21.50)
+>seq265
+CACAGAAAUGACAACUACAAAAACAUUUUUGUAAAGCGUCAUUUCUGUGUGCUAAUUGAGGACAUCACAAAUCCGCCGAACCGCCCGGCGGAUU
+((((((((((((...(((((((....)))))))....)))))))))))).......(((.....)))..(((((((((.......))))))))) (-35.60)
+>seq266
+CCUGCAUUAGGGCGGACCCAAAUUAUGCAGGACCGUCUAGCGUUACUUAUGAUAAAUCUCAUG
+(((((((..(((....))).....)))))))................(((((......))))) (-14.50)
+>seq267
+UAUGUUUAAAAUAAUCACAUUGAUUUCUCCUAAACAUAAGGGAUGCAUUCACCCUAGACGCCCUGUUAUAGGGCGUCA
+((((((((....(((((...))))).....))))))))((((.((....)))))).(((((((((...))))))))). (-27.20)
+>seq268
+UCAACCCGAAAAGUAAGGCUCCCUUAACCGGUUCGGGUUGAAGUCGCUCGGAAAUCUUAAAUAAUUCGCGUUAUA
+((((((((((...(((((...))))).....))))))))))....((.((((............)))).)).... (-20.50)
+>seq269
+UUAGCAGCGUAAGAGCGAUAAUCGCUCUGCGCCCGCUGCUAAGACUACAUGAGUAGCCGAGCCGGACGUCAGGUCCGGG
+(((((((((..(((((((...))))))).....)))))))))..((((....)))).....((((((.....)))))). (-37.60)
+>seq270
+GCCCAGAGCCUCAACUUAUCUAAGGUGCCGGGCUCUGGGCCGUGCAACUAGCCGCUGGUUUUGACAUUAAUCGUAAUGUCG
+(((((((((((..((((.....))))...))))))))))).....((((((...))))))..(((((((....))))))). (-34.30)
+>seq271
+CUACUCGCUGAGAAGAGAGGUCUCUAGUUCGCUCAGCGAGUAGCAUAUGCAGUAGGGGGUUGUCCAUCCCCUGGAA
+((((((((((((.((((....))))......)))))))))))).........((((((((.....))))))))... (-32.30)
+>seq272
+ACACCCAUAAGCGACCUUCGCGAAGGUCCUAUUUAUGGGUGUGCGAGAUCAUCCGACUACAUCUGGUUCGCAGAUGU
+(((((((((((.((((((....))))))...)))))))))))................(((((((.....))))))) (-30.00)
+>seq273
+GCGAGCAUUAUAUGGCGGCAUAUCAUAUGCUCGCGAAUUCGUGCAAUUCAUUAUUCGCUAAUACUCUUAGCC
+((((((((.(((((....)))))...))))))))(((((.....))))).......(((((.....))))). (-21.70)
+>seq274
+UGGAGGAGCACUUAGUGCCGGCACUCCAUUAUCCAGUAUCGGGGGAUGCUUUACAGAAGUUCUGUAAAG
+((((((.((((...))))...).)))))......((((((....))))))(((((((...))))))).. (-21.10)
+>seq275
+GUAAGGGGGAGAACCAUUCAAUUUCCCUUACACCGGGCCUCGCGGGUCUGAUCCUUUUGCGAUCAAAAGGU
+((((((((((...........))))))))))..(((((((...)))))))..(((((((....))))))). (-27.00)
+>seq276
+AUUAGAUUUCUCCCACCGGUCGGUAGGAGAAAUCUAAUACAAGAGCAUUGAGACUGAACAUCUCAAGAUCGAUGUUCU
+(((((((((((((.(((....))).)))))))))))))...((((((((((...(((.....)))...)))))))))) (-33.90)
+>seq277
+UGUAAUGAUUCACGUCGUCCGAUCCGUGAAUCAUUACACCACAGUUCAUGCAUAGUAUACUGGCGUAGCGUACGCCAU
+((((((((((((((((....))..))))))))))))))......................(((((((...))))))). (-27.30)
+>seq278
+AAACUUUUGGGACCCGGGCUCCCGGGUGUGGAAAGUUUCUGAGAACGUCCAUUUCGUAUUUAUUGCUCCUUUACAAUAAC
+((((((((.(.((((((....)))))).).))))))))......(((.......)))..((((((........)))))). (-23.40)
+>seq279
+GCGACGUGCGAGCGUAUGACGUGCGUGCACGUCGCUGAUGGCACUCAAUGUGGCAUCAGAUAUGAC
+(((((((((..((((((...)))))))))))))))(((((.(((.....))).)))))........ (-33.50)
+>seq280
+AUUUGAAGGCAGUGUACCCGUGGUACACUUUCGCUUCAAAUUUUUUCCGGCAAGAGGGUCUACCCUCAAUCAUCCCUGAGGGUU
+((((((((..((((((((...))))))))....)))))))).......(((......))).(((((((........))))))). (-28.90)
+>seq281
+GUGUGAGCUCCUUCUUGUCGGCAACGACAGCAUAUGGAGCUCACACGUACACUCGUUGGCAAAAGGCCUACGCCG
+(((((((((((...((((((....)))))).....))))))))))).......(((.(((.....))).)))... (-35.30)
+>seq282
+GCAGACACGCGCCGGUCUCAGGACCGAAUGGCGCGUGUCUGCAGACCUCGAGGGAACUGCGAAUAACUGAUCGUUAUU
+(((((((((((((((((....))))....))))))))))))).....(((((....)).)))(((((.....))))). (-38.00)
+>seq283
+GACUAGACGCGGAUCAAAAUCCUUGAUUUUGCUAGUCGCGUCUAGUCCACGUCAACCGCACCACCGGAGGAAUCCUCCUCCGA
+((((((((((((..(((((((...)))))))....)))))))))))).................(((((((....))))))). (-37.30)
+>seq284
+AACGAUAUCGCGCGAAAGCAGAUGCUUUCUCUACGCGAUAUCGUUUCGACCAGCUCGGAUAGGGUUACGAUCGGGCAAUACCCGAUCGUC
+((((((((((((.((((((....))))))....))))))))))))......(((((.....)))))(((((((((.....))))))))). (-41.90)
+>seq285
+CUGCGCUCUUAUUCAGUUCUGAACCUUAAGAGCGCAGUCUGAUUUAGUCUGUGUUGAAGCUCGCGCCGAGCUUCA
+(((((((((((((((....))))...))))))))))).................(((((((((...))))))))) (-31.00)
+>seq286
+UAAGAUCAAACUGAGGUCUCAGUUACGAUCUUAGUACCGCGCUGGGAUAAGGUAAGGGGAGGUCUAUGUCCCCG
+(((((((.((((((....))))))..))))))).((((............)))).(((((........))))). (-24.10)
+>seq287
+GUAUACAACGAGCGCUUCAAUCGACGUCGAUUGAAAACCUCGUUGUAUACAGUGGCUCUCACAAAGGACAAUGAGCUGAGCGCCUCAUUA
+((((((((((((...((((((((....))))))))...)))))))))))).(.(((.((((...............)))).))).).... (-35.50)
+>seq288
+GAUUCGCAUACGUCCACGGACGUAGCCCGAAUCUACAAAUGUCUUAUGUCUGGCAAUAUGUUUGA
+((((((..((((((....))))))...))))))......((((........)))).......... (-18.00)
+>seq289
+CUUCACGUCGCAGCGUUACGAACGCUAGGGACGUGAAGAGUGGCCCUCACUGCAGCUAGCACGAUCGAAAUCGUGCUC
+(((((((((.(((((((...)))))).).)))))))))((((.....))))......((((((((....)))))))). (-36.60)
+>seq290
+ACCGUCAUAUCCUAUUCUUUCAUAAAAGAAAGGCGUGAUAUGACGGUGUGUAUAGAGUAACGCUGCGACGCGUAAGGCUGCCUUACGCGUG
+(((((((((((....((((((......))))))...)))))))))))((((........))))....((((((((((...)))))))))). (-39.00)
+>seq291
+GUGAUUCACCUCAAAAACUUUUCCCAGGUGAAUCACAAGUUUAAAGAAUCUAAGUCCGUCUUGUAAUACCAAGACGC
+(((((((((((..............)))))))))))....................(((((((......))))))). (-24.10)
+>seq292
+UGUUAACGAUCUAUAAUUGGAUCCAAUUCAGAAGAUCGUUAACAUUGCUCAGGUAGGGUGAUCCAACGCCGUUGGCGUUGGA
+((((((((((((..(((((....)))))....))))))))))))((((((.....))))))(((((((((...))))))))) (-33.80)
+>seq293
+CAUUAGUCAAGGCCCGUUGGCUCAUCUGACUAAUGCGUUGACCUAACUAAAACAGACGAGCUGGGUCA
+(((((((((.((((....))))....)))))))))...(((((((.((..........)).))))))) (-21.10)
+>seq294
+AUCCUGUCGAGAGAUCUGCUUGAGCAAGCAUCUCGACAGGAUGAAUGCGUGCCAUGGAUGCGGUCGAUAUACGUGUCAAUAUAUCGG
+((((((((((((....(((((....)))))))))))))))))....((((.(...).))))...(((((((........))))))). (-33.10)
+>seq295
+AUCUUAGAUGUCGAGUUUUUCAACUUCCCGCAUCUAAGAUUAUAGAGCAUACUAACCGCAUGUCAGCGAGCACAUGCG
+(((((((((((.(((((....)))))...)))))))))))................(((((((........))))))) (-23.10)
+>seq296
+CUCUCCAGGAUGUACAUACAAUCUGGAGAGAGGACCCAGUGUGGGGGAAGAGUACCGAGAAAGUAUCGGUAA
+(((((((((.(((....))).)))))))))....((((...)))).......((((((.......)))))). (-27.70)
+>seq297
+CCUGGACCCAAAAGCUCGCUUCCGGGUCCAGGUACGCACAUCGCCCAGAAGGCAUCGAGACAAAACCAACUGUCUCGAU
+(((((((((..(((....)))..)))))))))..........(((.....)))(((((((((........))))))))) (-34.60)
+>seq298
+UAAACACCCUGGACUGCCUAGAGGCAAGUCCCAGGGUGUUUAGAGUCCGCGAGAGGAGUGACGUUUGAUUAACUUUUCAAACGUA
+((((((((((((((((((....))).))).)))))))))))).(.(((......))).).((((((((........)))))))). (-40.70)
+>seq299
+CGGUACUGAUCGAUCUAGAAGUCUAGACGUGAUCAGUACCGGUGGUUCAUCCGGGGUACUAGAUCUAUAGC
+((((((((((((.(((((....)))))..))))))))))))(((.(((....))).)))............ (-27.10)
+>seq300
+GUUGCGCCAUUAUUAUUUCCGUGACCACGGAAAUGAGAAUGGCGCAACCUAGGUUCACUUCUCUCGGUCAUCUUGCGGUAGAUGACCC
+(((((((((((.((((((((((....)))))))))).))))))))))).................((((((((......)))))))). (-43.10)
+>seq301
+ACUGGGUUUACGGUAUCACGAGUGAUACAGUGAAACCCAGUCUGCUUCACGCGAGAGUCGUAACGAUCGGUUAG
+(((((((((((.((((((....)))))).))).)))))))).......((.(((..((....))..)))))... (-23.10)
+>seq302
+CGGUUAAAAUCGUUCACUCAAGGGUUGAGUUAUCCGAUUUUAACCGUGUGAAGAUCUCUGAUGAAUAAAUUCGAGGCUUUA
+((((((((((((...((((((...))))))....))))))))))))..(((((.((((.(((......))).))))))))) (-26.70)
+>seq303
+UUACAUCUUGUCACGAAAUGACGAAUCAUUUCGGUAAGACAAGAUGUAAAUAGGCGGGUCCUACUCCACAAAAGUUACAAACUUUUC
+((((((((((((.((((((((....))))))))....))))))))))))...((.((......))))..(((((((...))))))). (-26.70)
+>seq304
+CGGUUCACGCUAGACGUACAUAUGUACGUCUGGGAGCGUGAACCGCUGGACGCGCUCCAAUUUUCGAGUGCGCAAGUAGUUUGCGCACA
+(((((((((((((((((((....))))))))...))))))))))).((((.....))))........((((((((.....)))))))). (-45.90)
+>seq305
+UAUGACGUCAUUAGAAAUUUUUGUUGUGACGUCAUAUCCUGUUCUAGGGACUUCGAGUUUAAUCGU
+(((((((((((.(.((....)).).)))))))))))((((......))))...(((......))). (-19.00)
+>seq306
+CAUACUGAACGAAUGCUUGCAGCAUUCAAGCAAGUAUGUAUAUCCCGAAUAGGACUGAUAGCUGAGUUCAAGCC
+((((((....(((((((...))))))).....)))))).............(((((........)))))..... (-17.40)
+>seq307
+AGAUGAGGAAGACUAUAAAAUAGUCUUCCCGCUCAUCUUUCAUCUCGUAUCUGAGAUCAUGCCCUACGGCAUG
+((((((((((((((((...))))))))))...))))))...(((((......)))))((((((....)))))) (-29.70)
+>seq308
+AACCCUAAGCCGUUCCAGAACGGCCCCUGGGUUACGUCUUGAACCAUGGACUGGGAUCGUAAUCCCAGU
+(((((...((((((....))))))....)))))................((((((((....)))))))) (-25.60)
+>seq309
+AGUCCGCAAUUGAUAUCUUAAGAUGCUUAAUUGCGGACUAAAAGGCCGUUAUCAGAUCCAGAAUAGUCUGGAA
+(((((((((((((((((....)))).))))))))))))).................((((((....)))))). (-28.10)
+>seq310
+GUUCCCGUGCUGAUACGAUCACGUAUCAGCCCACAGGAACAACAAAAUUAUUGGGCAUUUUGGAUCUCCAG
+(((((.(((((((((((....)))))))))..)).)))))..((((((........))))))......... (-23.50)
+>seq311
+GGGUGACUCCCAGACUAUCGCCAUAGUCUGACUAUGGUCACCCUCACGGCCUGUGGCUUAUAAACAGUAUCGUUC
+((((((((..((((((((....)))))))).....))))))))..((((.((((.........))))..)))).. (-26.70)
+>seq312
+ACCCCUCCAAUAUUAUGGGCCAUAAUAUCUAUGGAGGGGUUGUCGCCCGGAAAGAAACUGCAGACGGCUCCCGUCUU
+(((((((((((((((((...))))))))...))))))))).....................((((((...)))))). (-28.00)
+>seq313
+UGUGUACCCCGAAAAAACCCGAGGUUUCUAGAGGGGUACACAAACCGCGGGCCGGCGCAGUUUACCUUUCAUACCUUAUGAAAGGU
+.(((((((((....(((((...))))).....)))))))))((((.(((......))).))))((((((((((...)))))))))) (-37.10)
+>seq314
+UGGUUCACUAACGAUCCAGUAAAACUGGGCCAAUUAGUGAACCACUCGAAAUCCGUAUUGGCGGCGAAGAUUCCGUUCU
+(((((((((((...((((((...))))))....))))))))))).(((....((((....)))))))(((......))) (-25.70)
+>seq315
+UACGCUUACGAUUUAAAAAAGGAGUAAGCGUAGUGGGACAUGCCGCGAAGAUAGACAGACUUGCUGGUCUGUU
+(((((((((..(((....)))..)))))))))((((......)))).......((((((((....)))))))) (-26.90)
+>seq316
+UGUAAUAGUAGCAUCAACGAUGCUACAAGCAUUACACAGAGGGCUUCCCAUAGUGACAAUGCUUGCACACUGUCAAGCAUUC
+.......((((((((...))))))))........(((...(((...)))...)))..((((((((((...)).)))))))). (-22.40)
+>seq317
+UGCAGCUAACACGUAUAAAUAAAUUUAUGAUCGUGUUAGCUGCAGGGCACGUCGCAUCCUCGCAGUAGUGUGAGCCACUACUU
+.((((((((((((((((((....))))))..))))))))))))(((((.....))..)))...(((((((.....))))))). (-31.40)
+>seq318
+CUGGCCUAUCUUAAACAAUCUGUUUAAGCAUUAGGCCAGGUGGUAUGUGACGGUUCGGAGGUGACACAAUCACCU
+.(((((((.((((((((...))))))))...)))))))((((((.((((.((.((...)).)).)))))))))). (-28.50)
+>seq319
+UGGCUCGCGACCAGAAUCCGAGAUCGGAUAAAAGGUCGCGAGCCACCGCUUUGAUAGAAGGGUAACGUAAGGGCUUAA
+.(((((((((((...(((((....)))))....)))))))))))(((.((((....)))))))............... (-35.40)
+>seq320
+CCUUAUUGCUGGAGGCUUCCCCAGAAGCCUCCCCCCUAAUAAGGCACCUCUAGAAGUUGAAGCUAGUCAUCGGGAACUG
+((((((((..(((((((((....)))))))))....))))))))..(((((((.........)))).....)))..... (-24.80)
+>seq321
+GGCAGGCUGGUGAUACUAAUAUGCUUGGAGCCUGCCACGUUGGCCUAAGAGAAUGACUAUUCGUCG
+(((((((((((.(((....))))))...))))))))..................(((.....))). (-17.70)
+>seq322
+GUUCACCAUUCCCACGACAACUCAUUGUCGGUGUGAGAAUGGUGAACGUGUGAAAUACAAAAGGGACCGGGGACCCCGGUG
+((((((((((((((((((((....))))).))).).)))))))))))((((...)))).......((((((...)))))). (-35.30)
+>seq323
+GCAUUACAUACAUUCCGCCACGGCGGAAUUGGUUGUAAUGCACCCGCACAGGUCAAAGAUCGGGAUUCUUUCCCGAUG
+((((((((..((((((((....)))))).))..))))))))(((......))).....(((((((.....))))))). (-36.20)
+>seq324
+UGCUUCAUCGCCGAUCCAUCGGCCCGAUGAAGCAGGCCUAAAGGGUAUCACGCCUAUCACCUGAUAGA
+((((((((((((((....)))))..))))))))).((((...)))).......(((((....))))). (-26.90)
+>seq325
+UAGAUUGUUCAAUACGGAAUUCCGUAUUUGCGAAUCUACACCUUAAAGAGGUGGAAAACUAUUGGUAGGAUACAAUG
+((((((((..(((((((....))))))).)).))))))((((((...))))))......(((((........))))) (-21.10)
+>seq326
+GAGAGGUGUUCGGGUAAUUUUGAAAUUAAUAGAACACCUCUCCGGCCGUACUGGCGUCACUGCUCAACAUGGUGUGUUGAGCAG
+(((((((((((...(((((....)))))...)))))))))))..(((.....)))....(((((((((((...))))))))))) (-40.30)
+>seq327
+UUGGUCUCACACGACAAUAGUCGGUGAGGUGAGACCAAGAGACGUACUGUUACGUGAAGGGAGGGGCCGACCUCU
+((((((((((.((((....)))).....))))))))))...(((((....)))))....(((((......))))) (-28.80)
+>seq328
+AACUUCGUCGUACCGGAAUCCAUGGAUGGAUUCCGAGCGUACGACGAAGUUAACGGGUUCGCCUGAAUCGUUAAGCGGGCCGCUUAACU
+((((((((((((((((((((((....)))))))))...)))))))))))))....(((((....)))))((((((((...)))))))). (-45.90)
+>seq329
+UCGAUUUAACCGGAGGUCCGGUGCCAAAUCGAGUCAACGAGAUUAACAACACUCGCAAUGUCUUGCGAGUG
+(((((((.(((((....)))))...))))))).................(((((((((....))))))))) (-26.60)
+>seq330
+AUUAGUGCCUUUGCACGUGUAACGUGCACUAUAGCACUAAUAACCUCUAUGGUAGUGGGGACGUCAGAACGUCCC
+((((((((...(((((((...))))))).....)))))))).(((.....)))....(((((((....))))))) (-30.40)
+>seq331
+CAAGGAAGGGCCUCGCCCUCGCGACGUACGCCCUUCCUUGUAAGUCUCGUACGAUGGCCACACCAGUAAAGCUGGUGA
+((((((((((((((((....)))).)...)))))))))))...(((((....)).)))..(((((((...))))))). (-34.30)
+>seq332
+CAACCAACUUGGUGUCACCUGACACUAGAGUUGGUUGUUGCGAGCAGCAGGUCCGAUGCCUCAUAACCAAUAUGAGGU
+((((((((((((((((....))))))).)))))))))((((.....)))).......((((((((.....)))))))) (-33.50)
+>seq333
+UGUUCCUGCCCCGGCCGCAGGUUGCGGCCGGUUGACAGGAACAGGUCCACGAGAUGGGAUCCGACAUCCGUGUCGGU
+(((((((((.(((((((((...)))))))))..).)))))))).((((........))))((((((....)))))). (-41.20)
+>seq334
+UAGUUCUGUGAAAUAAUAUUUAUUCGGUGCAGAACUAUUUUCGAGCAAAAGUCAAGAAGUGCCGCACACUUA
+((((((((((.(((((...)))))...))))))))))...................(((((.....))))). (-13.30)
+>seq335
+UCUGCGGCGAGAGGGUCCUCCGGGGCCGCAGAGUAGUACGUCACUAGCAUCCACGUCCAAGACCCUGGACGUA
+((((((((....((.....))...)))))))).((((.....))))......(((((((......))))))). (-28.30)
+>seq336
+GGUCGUUCUGUAGUGGAGACUACGCAAAAACGACCAGUAAAUAUCUUCUUGUUUUCGUUCAUGCACGU
+(((((((.((((((....))))))....))))))).(.(((((......))))).)............ (-15.20)
+>seq337
+UCAGUACAUAACUGCGCGACCUAAAGGUCGCGAUGUUAUGUACUGAGGUCUGGUCGAGCGAUUCAACUUUAAGGGUCGGUAAAGC
+((((((((((((..(((((((....)))))))..))))))))))))..........(.((((((........)))))).)..... (-36.50)
+>seq338
+CCAGAACGGUUUGCCGACCGGCAAUGUGUUCUGGGUCACCUGAUGUCCUACCUCGCAUAAUACCGCAUGGUAUUAUGG
+((((((((..(((((....)))))..)))))))).....................(((((((((....))))))))). (-29.90)
+>seq339
+CCAUGUCAGGCAUACGAACACCUGUUCGUUUAGCCGCCUGACAUGGCUUCAGGUGGAUAGUCCAAUUUACGGCUCCGGUAAAUUC
+(((((((((((..((((((....))))))......))))))))))).......((((...))))((((((.......)))))).. (-30.90)
+>seq340
+AAAAUCGAGUGUAGCGUAGGAACGCUACGAGGCCUCGAUUUUUGCCGCUAGACGCAGAGAUCACGGUUAUUGAC
+.........((((((((....)))))))).((((..(((((((((........)))))))))..))))...... (-23.70)
+>seq341
+UCCGCUGACCGAUGACUAUCGGGCGGGAGCGGAUUUACUUGAGGUCUUGGCGCUCACUCGAUUCUGAGUGAG
+((((((..(((((....))))).....))))))...................((((((((....)))))))) (-24.80)
+>seq342
+GGUCGUCUGAAAGCCUAUUUUAGGCUUUCUACACGACCGAAAAUCUAUUGACAGAUCGGGGACACCCGAA
+((((((..(((((((((...)))))))))...)))))).................(((((....))))). (-30.30)
+>seq343
+UAACCUGUCAGCGACCUUUACAAAGGUUGGUCUGACAGGUUACGGACUGGAUCUCGUGUCUUGGACUUACGUCAUAGUAAGUCA
+((((((((((((((((((....)))))))..))))))))))).((((..(....)..))))..(((((((......))))))). (-35.60)
+>seq344
+AAACUUCGGAUUGUAGCACAAUUGAUCAAGUUUCAUGACUUGAUCGUUACCCUGAACGCAGAAGGAUGCGUUCA
+.......((...(((((......(((((((((....))))))))))))))))((((((((......)))))))) (-24.40)
+>seq345
+GCGCUAUCGGAUAAAUAGGAACUCCUAUUCGCAUCCGAUAGCGCCAGGCUCGACGCAUAACAGAGGGCUCAACCCG
+((((((((((((.((((((....))))))...))))))))))))..(((((..(........).)))))....... (-31.90)
+>seq346
+CAGCGAGUCGAAAUUGUGAUUUCAGACGUCGCUGUACAAGUCCAUUCCCAUCAAACUGGCCCACAUCGCGGUGGGCCAU
+((((((((((((((....))))).))).))))))......................((((((((......)))))))). (-30.40)
+>seq347
+CACUGGGGAUACUGUGGGUCACAGUACGUUCCCCAGUGGGCGCCUGACGAAUGCCAACUCUAUCAGCCAGAGUUU
+((((((((((((((((...)))))))...)))))))))((((.........))))((((((.......)))))). (-31.80)
+>seq348
+CACUUAGCAGGUUCGGAGAACCAUGCCUAAGUGUCUUUGGCCGAAAGUAACAGAAGAGUUCUUUGCCUCUUG
+((((((((((((((...))))).)).))))))).....(((..((((.(((......))))))))))..... (-21.00)
+>seq349
+CCCCGCAGGAAAAUACUCGAGCGAGUAUUCUAGAGCUGCGGGGGGACCUAGACGGGACACGAUCUCAUUGUACACUGAGAUG
+((((((((...(((((((....)))))))......))))))))(..((.....))..)...((((((........)))))). (-31.80)
+>seq350
+AGGGAAUCCGUGAGGAUCGACCAGGUGGUCGAUAAGCACGGAUUCCCUCUCACACGUUGCAACUCCAAACGCGGACGUUG
+((((((((((((...(((((((....)))))))...))))))))))))...........(((((((......))).)))) (-39.20)
+>seq351
+CUGUACAUUCGUACGUGGGACGUACUAUCGGUACAGGCAAGUGCAUUACGCCUAUACCAGCAUUCUAGGUAUGCUGC
+((((((....((((((...)))))).....))))))...((.((.....))))....((((((.......)))))). (-21.10)
+>seq352
+AAGUUGCGUGGAGAUGACCGGAGACGGUCAGGGUUAUCCACGCAACUUCAUUGUCUAGCAAUGCAAUAGCCGACGUCAGAACGUCGGCA
+((((((((((((..((((((....))))))......))))))))))))((((((...)))))).....((((((((....)))))))). (-46.50)
+>seq353
+UAUACCAUUUGAUGGCAAAUUCGAGGUAUAUGCGGUAGACCCACCGAUAGAAACCACAACUCGGGUUUG
+....((((...))))((((((((((...(((.((((......)))))))..........)))))))))) (-15.40)
+>seq354
+ACUAUAUUUUAAGAAUGUGAUUCUUUUAAAAUAUAGUUCUAGUAGACCUAGGAACCGAACACGUACAGUUACGUGA
+.(((((((((((((.........)))))))))))))((((((.....))))))......((((((....)))))). (-18.70)
+>seq355
+UCGACUUCUGCGUCGAUGCUUGGGCAAGCAUGGGACGCAGAAGUCGAAGCAUUAAUUGUCCCCUCACCCUGAACUGGGUGA
+((((((((((((((.((((((....))))))..)))))))))))))).(((.....)))....((((((......)))))) (-42.00)
+>seq356
+AGCUCGUUGAAACGCCCCGUUUUCCAGACGAGCUGAGUUGAAGACCUAUUCUGUCGCCCCGUCCUGUCGGGGCA
+((((((((((((((...))))))...))))))))........(((.......)))((((((......)))))). (-28.40)
+>seq357
+GGGUGUCUUCUCCGAGAGACAUGUGUCUCUCAGCAAGAAGACACCCGUGCUCUUGCAGCUACACUCUCUGACCGUCGAUUCGGUCAGAU
+((((((((((((.(((((((....))))))).)..))))))))))).(((....))).........((((((((......)))))))). (-46.10)
+>seq358
+AGCUUUCGUCUGUUGCAGGACCUAGGUCCUGCGGACCAGACGAAAGCUUUGCUCCGGAAGUCCGGUCCAAUCCCGCAUUCAGCGCGGGAUUC
+(((((((((((((((((((((....)))))))))..)))))))))))).((..((((....))))..))(((((((.......))))))).. (-51.90)
+>seq359
+GCGAGGCUUUACACCACACCACAAUGGUGUGCGCAAGUAAAGCCUCGCGAACCACAUAGGGGCCAAGGGUUAUCACUAGGUGAUAACA
+((((((((((((.((((((((...))))))).)...))))))))))))(..((.....))..).....((((((((...)))))))). (-41.70)
+>seq360
+GGGUAUACGUAGAAACUUCUACGUACUCUACCCUGGAGGUGCUCUUGCCAUGUCGUACCCCACACGCGGGUACGC
+(((((((((((((....))))))))...)))))((((((....))).)))...((((((((....).))))))). (-29.50)
+>seq361
+CCCGUCAAGUUCGGUGCUCACCUUUACUUGACGGGCUUUCUCGACGAUAAACCACAGUGCGUGAAAGGGCGCACUGUC
+((((((((((..(((....)))...))))))))))..................(((((((((......))))))))). (-33.30)
+>seq362
+GUAGACGGAUAGUUUACUAGGCUUCUACUGAUGAGCGAUCCCUUCAUGUCCCUAUGUAGGGACAUC
+......((((.(((((.(((.......))).))))).))))....((((((((....)))))))). (-21.10)
+>seq363
+GAAUAGCAAGUAGAUUGAAGGACUUCAAUAGCGCUUGCUAUUCGGAGCGAGCCUACUGAAUCAAGUUAGGUCCGUAACA
+(((((((((((..((((((....))))))...)))))))))))(..(((.(((((((......)).))))).)))..). (-30.50)
+>seq364
+UGGAGACAACCUCGGUUCUCUCUCCACAGCUCUAGGCUUGGAAAGGGGAUUAACUAUCAUAGUUAAUCG
+..(((.....)))....((((.((((.((((...)))))))).))))(((((((((...))))))))). (-21.70)
+>seq365
+UGAAUCGGCCAGAUUAGUAUUUACCUAGCUGGCCGAUUCAGAAAGGCUCGCUGUGAUCCACGUGUGAGGACAUCACAU
+((((((((((((.((((.......))))))))))))))))((....(((((((((...)))).)))))....)).... (-32.40)
+>seq366
+GUUAGCGGGCCGAACAAACGCACUCGUUUGUUAGCGUCCCGCUAACGGAAAGAUCUUAAUUAAUGGGUGCUCGCCAGUUUGCGAGCAU
+(((((((((.((((((((((....))))))))..)).)))))))))....................((((((((......)))))))) (-38.20)
+>seq367
+GAUUACCUAAUCUCCAGAGCAAGGGUAAUCCUCUGUCCAGCAUGCUACGAUCGGAGUAGCUUCUGUUGCUACUCCA
+((((((((..((....))....))))))))......................((((((((.......)))))))). (-22.70)
+>seq368
+GCGACGAACUGCCUGACCCAGGCUUGGCUUCGUCGCGCCUUGCACAGUAUGGUGGGAGUAGACUCUACUCCCU
+(((((((((((((((...)))))..)).))))))))(((.(((...))).)))((((((((...)))))))). (-36.40)
+>seq369
+CAACUUAAGGGAUGAAUCAGGCUGAUUCAUCAUGUUAAGUUGUACAGUACACCUGACCUAGGCCCGGUAGGGA
+((((((((.((((((((((...))))))))).).)))))))).........((((...))))(((....))). (-24.80)
+>seq370
+UAUUCGGCGCAAGAGUGACGUAUCACUCUACUUAAGCCGAAUAUGGUAGCUAACGGUCGUGGUGGAUGCGAGCACCU
+((((((((...(((((((....)))))))......)))))))).(((.(((....(((......)))...)))))). (-27.80)
+>seq371
+CUGUCCCGCUGAGUAUUGCAAUACUCUAGGCGGGACAGGCCCUGAUCAAGGCUAGGCGCGAUGGGCCCGCCCAUCGA
+((((((((((((((((....))))))..))))))))))((((((........)))).))((((((....)))))).. (-40.10)
+>seq372
+CCGUGAACAUUCGCCCCGCCGGGGCGAAUCUCGUCACGGUAGGAGUUGCCUAUCCUUUACAGGACCAUGUAAC
+((((((..(((((((((...)))))))))....)))))).((((........))))(((((......))))). (-29.90)
+>seq373
+GCCUUUUCAAUAGAAGCAGGUUUGCUUCCGAUCGUUGAAAAGGCAGACGGCCCACGGCUACCCGCAUUUUAUGAUGGAAAAG
+(((((((((((.((((((....)))))).....)))))))))))....((((...))))..((((((...))).)))..... (-26.60)
+>seq374
+CUCCACCCAGACAUACCCUAGGGUAUGUCUAUCGUGGUGGAGGGCGUAAGUGACACUGACUGGGGACCCAG
+.((((((((((((((((....)))))))))...).))))))((((.(.(((.......))).).).))).. (-29.60)
+>seq375
+GUUGACACUCAUCCAUGGCUAUGGAUGCGAGCGUCAACAAGUCGUACGGAUUAACUUUUUGUAAACAAAAAA
+((((((.(((((((((....))))))..))).)))))).((((.....))))...((((((....)))))). (-21.10)
+>seq376
+CCCGGUCUUCCGUCCCAAGCAAUGUUUGCUUCGCAUCGGAAGACCGGGAAGAGUCCAGCUACACUCCCGGGUGGGACUCCGGG
+((((((((((((...(((((((...)))))).)...))))))))))))..((((((.(((.........))).)))))).... (-40.50)
+>seq377
+UCAUAAAACGCCUGUCCCGACAGAACCGUUUUAUGAGAUCAAGUAGACGACCAUCGUACACAGUAAUUUCUCUGUGUG
+((((((((((.((((....))))...))))))))))..........((((...))))((((((........)))))). (-22.00)
+>seq378
+UGUUUAGCUACCCCCUCUGGGGGUACCUAGUAAACAAUGGAGCUCCCAUACAGAGCCAGGGAUCACCUC
+(((((((.(((((((...))))))).)))...))))..((.(.((((...........)))).).)).. (-21.10)
+>seq379
+GGUCAGCAAAUAUUCUAAAUACCAUGCUGACCGUUGAAUUACAAGCACAAAAUUUUCUCUCAAAAUU
+((((((((..((((...))))...))))))))(((........)))..................... (-13.30)
+>seq380
+UUGUAAAAGGAUACAUCCCGGGGGAUGUAGUAGUUUACAAAUAGUACGUCACCCUGCCCAGCUCCCUAAGCUGU
+........(((....)))(((((((((((.((.........)).)))))).)))))..(((((.....))))). (-22.20)
+>seq381
+CGGGGGGGGCUCGCGCAAACGCGAGCGGUUUCCCCCCGAAGCAAACUGUGUCUACUAUCGCUAGUUAAUACUAACUAGA
+(((((((((((((((....)))))))....))))))))......................(((((((....))))))). (-35.10)
+>seq382
+AGUAGCUCCACAGGUCCCGGGACCUGGAAGAGCUACUAGUCCUUGCGAGGCCACAAAAGCGGUGGCGCUUG
+((((((((..((((((....))))))...))))))))........(((((((((.......))))).)))) (-32.80)
+>seq383
+AGCUCUGGGUUGAACCAUUGUUCCGUCCCCCAGAGCUGCUGAAUUACAUUAAGGUUAGAUGUCGCCAUCUU
+(((((((((..((((....)))).....)))))))))...................(((((....))))). (-20.90)
+>seq384
+AGAGCAUAAUUCCUUAAGUAAGGAAACAUAUGCUCUUCUUGGACCGCAUUGGGGCAGGCGUUCCGACGCCUGA
+((((((((.((((((....))))))...)))))))).......((......)).(((((((....))))))). (-28.00)
+>seq385
+CGGGUGAUGUUUAUUGUGCCAACAGUUAACAUCACCCGGUAUGUUCUAUUAUCUGCUCAAUCAGCGCUCGUUGGCUGAUUGC
+(((((((((((.(((((....))))).)))))))))))...................((((((((........)))))))). (-35.30)
+>seq386
+CAGAACUUCAGACUUACUGGACAGUACGGUUGAAGUUCUGGUGGCCUGACCAGAGUGAUGAAGCGCAUA
+((((((((((..(.((((....)))).)..)))))))))).(((.....)))..(((......)))... (-20.00)
+>seq387
+UGGGGCGGCAACGCUAAUGGUUACCCAUUAUCUCCGUUGCCGCCCCAGGAGUAGUUGACGGUCAGUGGAUGCUUCCUUCAGCAUCC
+(((((((((((((.((((((....))))))....)))))))))))))(((...(((((.((..(((....))).)).))))).))) (-41.70)
+>seq388
+CAUGCCAGAACCGUCCAUAUUGGACCAUGCUUCUGGCAUGACUAAUCUGUAUGUUUCUUACCUCCGCGUAAG
+(((((((((((.(((((...)))))...).))))))))))................(((((......))))) (-23.10)
+>seq389
+AGUCCCUCCGUCAAUGACGUCCCUGGGACUGUAACACCUGGUGCCUUGCUAUGUAUCGUAGC
+((((((..((((...)))).....)))))).................((((((...)))))) (-16.00)
+>seq390
+UGGUCGUCAACUGCAUCCUGGCCCACCAGGAUCUCACAAGUUGACGACCAGCUUGCUCUAACGUAGUGCUCUCCGCAGCCGUGCGGAGAA
+((((((((((((..(((((((....)))))))......))))))))))))((((((......)))).))((((((((....)))))))). (-46.20)
+>seq391
+ACAUCUAGAUUACUCGUAAUAGAAAGAUGUUGUACGGGUUAACAAAGGACGACCGGCAGGUC
+...........((((((((((......)))..)))))))...........((((....)))) (-11.00)
+>seq392
+UAGAAGCGAGAAGUUUCCUUCCUGGCGGCUUCUAUGUUCGAGCAAUUUCUGACUUACAAGAAAUUUCUUGUG
+....(((((((((((.((.....)).))))))).))))((((.(((((((........))))))).)))).. (-19.80)
+>seq393
+GUGGAUCACGUACUAAGCCCUCGGGCAGGUUACGUGAUCCACUUGUGAUCAACAUUCCAGCAUAGGGCGUGCU
+((((((((((((((..(((....))).)).)))))))))))).(((.....)))....(((((.....))))) (-30.40)
+>seq394
+ACGCUCUGCCCGGUGCACUAUCAUAGUGCCAUAUCGGGCAGAGCGUUGCGCGCACAGCCUUCAACUGUGGCCAGCCAUGGCUGGCCU
+((((((((((((((((((((...))))))...)))))))))))))).......((((.......))))(((((((....))))))). (-49.10)
+>seq395
+CCGGAUGGCGUAGCCGGACGGCAAGACCAUCCGGUCUGCCAGGAGCCAGAGCUUAUGGUCACUAAA
+((((((((..(.(((....))).)..))))))))...((((.((((....)))).))))....... (-28.00)
+>seq396
+GCCACGAAGGACCCUGAGACAUGUCUCAGCAGCCUUCGUGGCAAUCUACCUCAGUACAAGCGGUUGUUGCCGACCGU
+((((((((((...((((((....))))))...)))))))))).................(((((((....))))))) (-36.50)
+>seq397
+CACCGUUUGCGAGCUCGCUUCAACGGUGCCUUGCCAGACAAAGUUACCUUACAACCAUUAAA
+(((((((.(((....)))...))))))).................................. (-12.20)
+>seq398
+CUUUCACCGGACCGCCACGUGGCGGUCUUGCGUGAAAGUCGGGCUCGACCCUCCUCCGACGGCCGUCGU
+((((((((((((((((....))))))).)).)))))))..(((.....))).....((((....)))). (-30.60)
+>seq399
+AAAUCUCGCCCCAUGCGAACAUGGGGCCCGAUGGAUUUACUAAAGAUCUUAGUAACGCGUGGCAUUUUCCUCUGCCACG
+..(((..((((((((....))))))))..)))....(((((((.....)))))))..(((((((........))))))) (-30.90)
+>seq400
+GACAAUUGGUCUGUUUUGUGUUCAAAACACGGGUUCAAUUGUCCUAAACAUCUUUCUGUGUGCGUAGACCCGGGUCUACGC
+((((((((((((((((((....))))))).))..)))))))))....((((......))))((((((((....)))))))) (-27.40)
+>seq401
+UCUUGCUUAAAUAAGGGUAUUGUGGAAGCAAGAUUCAGUCCUUGAAAAUGCGAACGGUCAGAACCCGU
+((((((((..((((.....))))..))))))))((((.....)))).......((((.......)))) (-15.20)
+>seq402
+AAGCCGGUAGGGCCUACCUUUGUAGGCCUCACCUACCGGCUUUAUAACGAGUUUAUUCCACUUAGGGCGGGCUAAGA
+(((((((((((((((((....))))))....)))))))))))..................(((((......))))). (-32.10)
+>seq403
+UAUCGAGAGUAAGAUUUAGGAGCCGAUAAUGUCACCUAGAAGUGCAAGAAUAUGGAGCCGAUAU
+.(((........)))...((..(((....((.(((......)))))......)))..))..... ( -7.50)
+>seq404
+AGAGAGGGCUGGUAGACGAGUCAGGACUCGUCGAGUCAGCCCUCUCUGGUCGGCUCACGAAUUACGACCCUUCAAAGGGUCA
+((((((((((((..(((((((....)))))))...))))))))))))..(((.....))).....((((((....)))))). (-44.40)
+>seq405
+GGUCUAGAAGCGUUCCGUUCGUGAACGGUAAGGCUUCUAGACCGCUGGAGCGCAUGGAACGGUCAUCCGACAUUAGUGUCGGAUU
+(((((((((((.(((((((....))))).)).)))))))))))....((.((.......)).))((((((((....)))))))). (-41.40)
+>seq406
+AGAGUUAAACAGAACCUGACUUGCAAGUCAGUGACUGUUUAACUCUGAGACGCGAUCGUACAACCGGUACUACAGUAGCGUCCCUGUAGUAC
+((((((((((((...((((((....))))))...))))))))))))...(((....))).......(((((((((........))))))))) (-34.00)
+>seq407
+GCCUGUGUGCCUACCGAACACCUUCGCCCUAAGCACACAGGCCUAAAUGUAUUAGAAUGGGAAGGCCCGUAAGGGCCA
+((((((((((.((.((((....))))...)).))))))))))((((.....))))........(((((....))))). (-33.00)
+>seq408
+CAGAUAAUCAGCUAGCUCUUUAAGAGCGCGGCUGAUUAUCUGUUAACUGUAUGUUACGACACGUUUAAGUGGAGCAGUCCACUUAAA
+(((((((((((((.(((((...)))))..))))))))))))).((((.....)))).......((((((((((....)))))))))) (-38.20)
+>seq409
+UAGACCACCGGGAACCAUCCAAUGGCACACCCGGUGGUCUAGUGGGGGGCUCCUCAUGAUUUCUCGGCCUAACAGCCGAGAU
+((((((((((((..((((...))))....))))))))))))((((((....))))))....(((((((......))))))). (-43.80)
+>seq410
+CUGUCUGAAUUCAGAAUGAAUGCAAAGACAGUGGGCAAAUCGCUGGCAGGUGCCUAACGGGGAGGCU
+((((((..(((((...)))))....))))))..(((...((.(((..((....))..))).)).))) (-17.90)
+>seq411
+UAUCCAUGUUUUGACUUGGGUCUAGCGGAACAUGGAUAGGAUGAUGUCCAGGGAAACGGUAGUUCAAAAUUACUU
+(((((((((((((.((.......)))))))))))))))((((...))))........(((((((...))))))). (-22.00)
+>seq412
+GUCUUAAAAGGCUAAUUGAGCAAGAUAGCCUUUUAAGACACAACUUGUUUAACUCCAACUAACAUGAGAUUUAGUUC
+((((((((((((((.((.....)).)))))))))))))).................((((((........)))))). (-22.20)
+>seq413
+CUGUACCUCAUCGGAACCCUGGUCAACGAUGAGGUACAGUACUUAGAGAGGAUCAGAUACAACUUAUGGUUGUAUA
+(((((((((((((.............))))))))))))).................((((((((...)))))))). (-28.60)
+>seq414
+UAACUACCCAAUGGCCCGGAGCCGGGUACACAAUUGGGUAGUUAAUCGAGCACAUCUCAGAGUGACGGUAAACUACAAUACCGUA
+((((((((((((((((((....)))))...).))))))))))))......(((........)))((((((........)))))). (-31.40)
+>seq415
+GGGCUAGUUCUACAUCGUAGAAUCCGCAGCCCUCAUAGUCCGUAGGGAGUUUGAGGGCGAUUAAUCGCCCUCC
+((((..(((((((...))))))).....(((((((.(.(((....))).).)))))))........))))... (-30.80)
+>seq416
+CUGCAGUACGAGGGUCCCUCCGGCACUGCAGUGAGAACCUAUCCUAGAACAAGUGUUCGCGGGAACACUU
+(((((((.(((((...))).))..)))))))...................((((((((....)))))))) (-23.10)
+>seq417
+CAAUGCCACGGUGCCCAUGGUGGGACCGACCGUGGCAUUGCGCACGUGCUGAUGGGAAACGACCUGCGUUU
+(((((((((((((((((...)))).)..))))))))))))(((((((.((....))..)))...))))... (-30.20)
+>seq418
+AGUAAUCUAAGAUCUCCCGAGAUCUAUUGUUACUUCAGCAUCUGGCUAUGUGAGCGUACUCUAGGAGUACGU
+((((((...((((((....))))))...))))))..(((.....)))......((((((((...)))))))) (-19.80)
+>seq419
+UGAGUAAUGUAACGUAAGUUCCGAGAUUACUCAUCUAGACAUCCUUGCCUUUGGGGCCGAUAUCCAAUCGGCCCU
+((((((((.((((....)))...).))))))))...................(((((((((.....))))))))) (-24.30)
+>seq420
+GCUCGAUAGGACGUGACGGCUCCGUCACGCUAUAUCGAGCAAAGUAUCUGACAGUUACCUGCCGGCUCGUCCGC
+((((((((((.(((((((....))))))))).)))))))).......(((.(((....))).)))......... (-28.00)
+>seq421
+AGUGCCUGAAAGCCUCGUCGUCUCGACGAGGCAGUAUUCAGGCACUUUAGCAUGCCUAGUCUUACUGAAUGCAUAUUCAU
+((((((((((.(((((((((...)))))))))....))))))))))...((((...((((...)))).))))........ (-34.70)
+>seq422
+CAUCAUUCAUAUGUCUUGUUGCAAGACACUGCAUGAAUGAUGCACGAAGUUAUCUUUAAAGCUGCAGCAGGCGGGAAUCUGCUGA
+((((((((((.(((((((...)))))))....)))))))))).....((((........)))).(((((((......))))))). (-27.00)
+>seq423
+UACGUAAACGCGAGGGCUGCUAGCCCUUAAAAGUUUACGUACUACAGCUCAUGGCUGUAUGUAGUGACAC
+(((((((((..(((((((...)))))))....))))))))).(((((((...)))))))........... (-27.70)
+>seq424
+GUUACGAAGACGUCAGUCGCGAUAGCGACUCGAAUCUCUUCGUAACCAAUGGACCGCAAGUUACCUAAGUGAGGGGUCGCCUCACC
+((((((((((..((((((((....)))))).))...))))))))))......................((((((.....)))))). (-33.10)
+>seq425
+UAGAUGACCUUUCUCAGAUAAAUUUAUCUGAUCCUAAGGUCAUCUAUUCAUAAAGUGCGCAAGGCAUUUCGCAGUGUGCACUGCGAAU
+(((((((((((..(((((((....)))))))....))))))))))).......((((((((..((.....))..))))))))...... (-37.40)
+>seq426
+GAAAUGUCCGGCUUAAAGAGUUUUAUACGGCGGACAUUUCAACAACGUGCUUCCUGCUUGACCAUACUAGUGGUCAC
+((((((((((.(.((((....))))...).))))))))))........((.....)).(((((((....))))))). (-26.30)
+>seq427
+GCAGCUCCCCGGCGCCAUUUUGGCGGUGUCGGGAGCUGCACCCUCGACGGGAAGGGACAGUGGGCGCCCAU
+(((((((((.((((((........))))))))))))))).(((((.....).))))...((((....)))) (-37.20)
+>seq428
+CCGUGGAUAGAUCGCUAGUCAGUCACGGUAUUCUCUAGGAGGUUUAAAACUCAGUCUCAGUGAGUUUA
+((((((...(((.....)))..))))))...((((...))))....(((((((.......))))))). (-14.00)
+>seq429
+UCUAGCAGAGUCGCGUCACGAGACGCGAACACAUGCUAGAGAAAAAAUCUUGUAACAGAUCGUGCGACGCGAG
+(((((((...(((((((....))))))).....)))))))...................(((((...))))). (-25.30)
+>seq430
+UACGAGUUCCUUAAGGACGCAUGCGUCCCCUGGGAACUCGUAAGGUCUGGUACCGGGCUUGAACCCUACAUAGGGG
+(((((((((((...(((((....)))))...)))))))))))(((((((....)))))))...((((....)))). (-37.00)
+>seq431
+UCACGUAUUAGAGCGGCCCGCCGCUCUGACCAGCGUGACUGUUUCAUACCAUUCGAUGCCAAUUCCCCGGAAUUGGCC
+((((((.(((((((((....)))))))))...))))))...................((((((((....)))))))). (-31.70)
+>seq432
+UUUUUACUUUUCUCAGGGCUGAGUCAAAGUAAAAAACGGAGCUACCGAACCGAUAAGAGCACAUUCGACUGCUCUUA
+((((((((((.((((....))))..)))))))))).(((..(....)..))).((((((((........)))))))) (-21.90)
+>seq433
+UAUCUCAUACGAGCCUGGUGUGUACACCAGCUGGUCGUAUGAGAUAUGGGUCCCGAACUGUGAUAUUGAGGGGAAGCAAUA
+((((((((((((.(((((((....))))))..).))))))))))))((..((((................))))..))... (-32.40)
+>seq434
+GUAGAUGACAAUAGGCGCCGGCCUAUUAAAUCCAUCUACUGCUUCUGGAAACCAGCUAACCGAGACGUUC
+(((((((..(((((((....))))))).....))))))).....((((...))))............... (-19.30)
+>seq435
+CAGAUCGACUGCAUCUAGAUGAGAACGAUCUGAGGAUUUAUUCCACCCUCGGCAGACAGCCGA
+(((((((....(((....)))....))))))).(((.....)))....(((((.....))))) (-19.50)
+>seq436
+CAGUAUUAUGGGCUUCCGCCCGGGCGGAAGUCUCUAAUACUGGAUCAUUUCGAUUUUCGCGAAGGUAUUUUUCAUAUACCUUA
+((((((((.((((((((((....)))))))))).))))))))((((.....))))......(((((((.......))))))). (-33.60)
+>seq437
+UUCUUACAAGUUAGAUUUCUAUCUCAUUUCUGUAAGAAUGCCAUGUAGGCGCCACGCACGCACAUCGAUUCUGUGCGUG
+(((((((((((.((((....)))).)))..)))))))).(((.....)))......((((((((.......)))))))) (-24.20)
+>seq438
+UCCUUUGACGGAGACCUGGUAGCCAGGUCUGGUGUGUCAAAGGAUCAGUGUUCAACAGAACAUAAGUAAUACAUACUC
+(((((((((..((((((((...)))))))).....)))))))))...((((((....)))))).((((.....)))). (-30.70)
+>seq439
+CUGUCAUUGCUCAUCUGAGGCAGAUGUACUGAAUGACAGUCGCAUCGAUUGCUCGUUUCGUGACCUUUCCAGGUCACG
+((((((((...((((((...)))))).....))))))))..(((.....)))......((((((((....)))))))) (-29.00)
+>seq440
+AUAAGCAUUAGUCAUCAUGUACCAUGAUGUUAUAAUGCUUAUCUGCUUACAUAGAGGUUUAAGAUUCCAUCAGCUGGAAUCG
+((((((((((..(((((((...)))))))...))))))))))..((((......))))....(((((((.....))))))). (-25.90)
+>seq441
+CGAUUAGCCUAUCGGACUUCCGGUCGGGCUAAUCGCUCGUGCGCGACUCGGUUCCAAAAGAGUCAGGACUCUUUUA
+(((((((((((((((....))))).))))))))))...((.(..(((((..........))))).).))....... (-29.90)
+>seq442
+GCUUGUCGGCAACGGGGGCCCGCUUUGCCCGACAAGCCAUGGAUCUCAGAGUAAUCGCUGCCACCAGCGAU
+(((((((((((((((....)))..))).)))))))))................(((((((....))))))) (-28.90)
+>seq443
+AACUCUGGGUGGUAGAUCGUGCUGUCGCACGAUCCUUUAACACCCAGAGUUACGUAAUUAACCUCAUUUACCCCAGGCCUGGGGUAU
+(((((((((((...((((((((....))))))))......))))))))))).................(((((((....))))))). (-42.20)
+>seq444
+GGUGAUAGACAUGCUAGUGCCACACUAGCCUCUACUAUCACCACUCCGAGAGAGUCUGGCGGGGAUUGACCGC
+((((((((....(((((((...))))))).....))))))))((((.....))))...((((.......)))) (-28.70)
+>seq445
+UAAUGGCAUAUCAAGGUUGCCUUUCUGAAUGCCAUUACUUUGUCCAAAGCGUGGAAGAAAACGUGCCUGGUUUUCA
+(((((((((.((((((...)))...)))))))))))).....((((.....)))).((((((.......)))))). (-20.60)
+>seq446
+UUUACUAUCACUAAAUACGUUUAUUUCGGUACGAUAGUAAAGGGAGUUGAUCUCCUCUCUCGCUCACCCGUUUGGGUGAGCG
+(((((((((((((((((....))))).)))..)))))))))(((((.....)))))....(((((((((....))))))))) (-32.70)
+>seq447
+AUGGAUCGCCUCGAUAGAAAUCGAGGGGACGGAUCCAUUAUAUAACUGAUGUGUCACCCGGUCAGGUCCGGGG
+.....((.(((((((....))))))).))..(((.(((((......))))).))).(((((......))))). (-27.80)
+>seq448
+GCGACGAAUGCAUUGUGUAUAUGGUAUAUACACGUUCCGCAUUCGUCGCUAACUGAAGGUACGAAGCAAGGCUCUAAAAGCCUUGU
+(((((((((((..(((((((((...)))))))))....)))))))))))................((((((((.....)))))))) (-38.10)
+>seq449
+GUUAAAAAUAGUGAUGUCACUCUGUUUAACUGGCCGGGCGCUGAUACGAUCUAACCCGCAUGGGUUAA
+((((((...((((....))))...)))))).(((.....))).........((((((....)))))). (-15.70)
+>seq450
+AUUUUUCACCGACUAUCGGCAGCGAAAAAUUCAACUGGCUUCGUAACGCUUAGUGCUAUGCUUAGCACUA
+(((((((.((((...))))....)))))))......(((........)))((((((((....)))))))) (-16.30)
+>seq451
+GCCGUAACUCAUGGAUUGGUCCCAAUCGCUAUGAGUUACGGCUUUACAUGUAGUCCUGUCUUCCUUUUACUGCCUAAAAGGA
+((((((((((((((((((....))))).).))))))))))))...................((((((((.....)))))))) (-30.80)
+>seq452
+CGCCCCUAGUUCAGCGUACUAGCAGUACGCUUUACACUAGGGGCGUCCUACGUGUUAAUUCUCUUGGUUUUUACCACCAAAAA
+((((((((((..((((((((...))))))))....))))))))))...................((((....))))....... (-32.30)
+>seq453
+UUAGCGGUUGAUCAUCCCCGCGGGAUGAUCACAGCCGCUAAAGGCGUACUGCCUAUCAGGCAUUCUGAUUGCCGAAC
+((((((((((((((((((...))))))))))..))))))))((((.....))))....((((.......)))).... (-37.70)
+>seq454
+UGUUUCUUCGGGGGGCGGGCCGAUGCGAAGAAACACCUCCGCACGGGGUCUGGCCAGCGAGCUGGC
+.(((((((((..((.....))....)))))))))(((((.....)))))...(((((....))))) (-25.30)
+>seq455
+CCGCACUAAUGACGGGUCGUUUUAGUGCGGUGCUUGAGCGAAGCUGGGAACCAUACUCAUUUGAGUAUGGU
+(((((((((.((((...))))))))))))).((((.....)))).....(((((((((....))))))))) (-31.40)
+>seq456
+AAUGUUCAGGUCCACGCCCCAGGGCGUGGAUCCUGAACAUUCAACUCAGGUAGGUGAGUUAGUGGGCCACGACUCCCACUAA
+((((((((((((((((((....)))))))).))))))))))..(((((......)))))(((((((........))))))). (-45.30)
+>seq457
+GCUGUCCCGGCCGGAGCUGAAGCUCCGGCCAGGUCGACAGCCUGUGCUGGACACGGGAGGUUCGUAUUGAUACGCAAUACGAA
+(((((((((((((((((....))))))))).))..))))))(((((.....)))))....(((((((((.....))))))))) (-44.40)
+>seq458
+CCCCUACGCCGGCCAGAACGUUAUAGUAACGUUCGACAUCGGCGUAGGGGAUGCCCUGUGCUGCCAACUGCAUACUGCUCGCUAUC
+((((((((((((...((((((((...))))))))....))))))))))))..((..(((((........)))))..))........ (-40.80)
+>seq459
+GUGCAAUGGAAAGAUAUGACGGCAUAUGGCCUUUCCAUUGCACCAUAGGUCCACUAACCGAUGAGAUUAUCAU
+((((((((((((((((((....)))))...)))))))))))))(((.(((......))).))).......... (-25.70)
+>seq460
+CGUCCAGGCGCCGUUAUGUAACGCACCCAGCCUGGACGAACCCACAUGGGAUGGGGCUUCUGGGAGAAGA
+(((((((((..((((....))))......)))))))))..(((((....).)))).(((((...))))). (-26.20)
+>seq461
+UCUUGCGUAGAGGAAUGGUGUGGACCAUAUUACGCUCUACGCAAGAGGCUGAACUCCAAACUUCACCCGACUAGCGUUUCGGC
+((((((((((((..(((((....)))))......))))))))))))((.((((........)))).)).....((......)) (-28.10)
+>seq462
+CGCGACGAGAUAGAGCAAGAAGCCAGCUUCUUGAUGUAUCUCGUCGCGGUUAAGAUCAUUACGGUAAGGCCAUUUGAUUAAUGGCA
+((((((((((((.(.(((((((....))))))).).))))))))))))....................((((((.....)))))). (-38.70)
+>seq463
+UGUGACCCUGCGGUUCCGCUCACUCACAAUCAAUCUGUGCCCAGAGUUAAAACGCGUUUUU
+(((((....(((....)))....))))).....((((....))))................ (-10.70)
+>seq464
+UCAAACUGUCACACCUGGAGGUUUACCAGUUUGACACCACCGGUUGUGAGAUCGGACCCCCGUGGUGGUCCGG
+......(.(((((.((((.((((((......))).))).)))).))))).).((((((((...)).)))))). (-26.70)
+>seq465
+GGACCUCAAGGAGACAGCAGUGUCACAGACUGAGGUCCCACAAUUAAUUUACGUCACGGAAAGAGGCCCUAACUCCUCUUUCC
+((((((((..(.((((....)))).)....))))))))...................(((((((((........))))))))) (-29.50)
+>seq466
+ACCACUUUCCGUUUGAAAAACGAGUGAAGUGGUCUUCGUGCGGAACCAACCUAGGUAGAACCACGGUUCUACC
+((((((((((((((...))))).).))))))))........((......))..((((((((....)))))))) (-22.70)
+>seq467
+UACAAAUCCUACUGAGUCCAGCGAGGGAUUUGUAAAUAUAAUUAAUCUGUUUUAUUGGCUCUUGAAUUCAAGAGCCG
+((((((((((.(((....)))...))))))))))((((.(((......))).))))((((((((....)))))))). (-27.60)
+>seq468
+AUCUAUGCCCCAGACCGUGUACACGGUACGUGGGGCAUAGAUUAAGCCGUGCGCGAUAACAGGUGCGCUUACACAAGAAAGCGCU
+((((((((((((((((((....))))).).))))))))))))...(((((........)).)))((((((........)))))). (-37.80)
+>seq469
+ACGGUUCUAAGACAGUUCUUUCUAAAACCGUCAUGAAGCUCUCGAAAAGGAGGAUAUUCCAUGAAGGAAUAUC
+((((((..((((....)))).....)))))).........(((......)))((((((((.....)))))))) (-17.20)
+>seq470
+UACCGGUAGCGGGCGACCCGGGCCGCGGUAAGGCGAAUUACGGCUAACUUAAAGUAGGAACCUUUU
+....(((..((((...)))).)))((.((((......)))).))...................... (-15.40)
+>seq471
+GUCUGUACUUUACCCUGGUAAUGUCAUUACAGACACAUAUCUCAUAUCACACUCGUGCACAUAUGUAUGCACGAGG
+((((((((.((((....)))).))....)))))).................((((((((........)))))))). (-22.20)
+>seq472
+CCGGCUUUCAACGGGCGUUGGACAGCCGGUACGGCUCGCGCUUCUCCAUUGCAGUCUACUGCAAG
+((((((((((((....)))))).))))))...(((....)))......((((((....)))))). (-23.90)
+>seq473
+CAGUUUUCAUACAAAUACAGGUAUUUGUAAAAAAAACUGCUAUCAUCUAGAUAGUUGGCUAACCUGUAGAUACAGGUUAA
+(((((((..((((((((....))))))))...)))))))(((((.....))))).....((((((((....)))))))). (-22.90)
+>seq474
+GGCAUAAAUGUCCAUAUGAACAUAUGCGGAAGAUUUAUGCCACUUCCCGUAAGUGAUCGUGUUGACGGAAUAUUUACCGUCAA
+(((((((((.(((.((((....)))).)))..)))))))))....................(((((((........))))))) (-24.30)
+>seq475
+UAAAAACUGAGGCCACACCCGAUCCGGGUGUGAUGCGUCAGUUUUUACCACCAGUUGGGUGGAGGUAGUCACAAGGGACUAA
+((((((((((.((((((((((...))))))))..)).))))))))))(((((.....)))))...(((((......))))). (-39.90)
+>seq476
+CUGUCCACUAGGGCCGGAAGCAUUCCCAUCACCUAGUGGACAGAUUCGUCCAUCGGCGAAGAGAGAUGACCGCUAUCUCUG
+((((((((((((...((((...)))).....)))))))))))).((((((....)))))).(((((((.....))))))). (-36.60)
+>seq477
+CGCCGUCGCGCCGAGGCGCAAGCGACGGCGCUAAGAACAUUAUUCCGUCAAGGGCCAAACCUUC
+(((((((((((......))..)))))))))...................((((......)))). (-22.10)
+>seq478
+CGGGACGACGUUGAAUCAAUAAGGGUCCCGGCUUCUAGAAAGUUAGGCGUUAACUAGUACACCCUACUAGUUC
+((((((...((((...))))....))))))((.(((((....))))).)).((((((((.....)))))))). (-20.00)
+>seq479
+AUAUACUACCCACAUCGUUAACGCUCCUGGGUAGUAUAUACCCGCGCGACGACCCUCCAGUGUGUCUGU
+((((((((((((...((....))....))))))))))))...(((((............)))))..... (-20.40)
+>seq480
+UGAUUACGAAGGGAACCUUCCGGUUCCAUGGCGUCGUAAUCAGAUCAUUUCGAAAAGCACAAACUAAGCGGAGGUAGUUUGU
+(((((((((..((((((....))))))......)))))))))................((((((((........)))))))) (-25.50)
+>seq481
+CGGCCGAAACUGUUUCUAAAACCUUUUUUUCGGCCGAGGGACUUGCCAUCUCAUCGGAGAUAAACUCCC
+(((((((((..((((...)))).....))))))))).((((.((...(((((....))))).)).)))) (-21.90)
+>seq482
+CAACAGUUGGUCUCGGGUACCCGAGAGCGCAACUGUUGCAGCCACUUCGGGAGCUAAGUAGAGAGCAAAAAUUUGCUCUCUAA
+((((((((((((((((....)))))).).))))))))).(((..(....)..)))...((((((((((....)))))))))). (-38.20)
+>seq483
+ACGCACGCUUUUCGGAAGAAUCCGAAGGUGCGGCGUGCGUUAUUGUGCAGCAAUGUUGGCUAUGGCAUAUAG
+((((((((((((((((....)))))))....)))))))))...((((((((.......)))...)))))... (-27.30)
+>seq484
+GUCUGAACUUCUAUUAUACAAUAUAAUACACCGUUCAGACGUCCCUUGCGGCUGUUGGUCAAUAGGUUAGCUGGACCUAUC
+((((((((...(((((((...)))))))....))))))))((((...((..(((((....)))))....)).))))..... (-22.70)
+>seq485
+AGUCAUGUAGCGAUUCACUAGAGUGAAUUAAGCUACAUGACUUAAAGACUUCCUACUGACAACCCCCCCAGGGGUUC
+((((((((((((((((((....)))))))..)))))))))))..................((((((....)))))). (-31.20)
+>seq486
+AACUGGUGAUCCUCUAGUUGCAAACUAGCAUUUUCACCAGUUCACUGGUCAAGGACCCUCCCGAGAUGGACCAUAUUCCAUCUU
+(((((((((....((((((...)))))).....)))))))))....((((...)))).....((((((((......)))))))) (-29.10)
+>seq487
+GCGAGCGGAGUCCGCCUCUGUCUAAACAGAGCACAGUACUCCGCUCGCACGGUCGACCCUCAUUGUGAUGCGCGGACAGGACGACGUCCGCGCC
+(((((((((((.(..((((((....))))))....).)))))))))))(((((.((...)))))))...((((((((........)))))))). (-46.80)
+>seq488
+CAGGUUAGAUGACUCUGGAGUCAGGUCUAACCUGACCAGCGCGCCUUAGGCUGUUUCGGCCCUUCAUGCCGAAACA
+((((((((((((((....)))))..)))))))))........(((...)))(((((((((.......))))))))) (-31.80)
+>seq489
+UAGGGUCGUAACAACUGUUACGCAACCCUAAUAUCGAUCUGAGCGUUGGAAUCGGCUUACAUGUUGCUAAGCCGA
+((((((((((((....))))))..))))))....((((......))))...((((((((........)))))))) (-24.70)
+>seq490
+GGCUAUAGAAGGUUUCGAAAAUUCGAAACGAAUUCUAUAGCCACCCAAUUUCUGGCCGAUCUGCCCACCCCUCAUGGUGGGCC
+((((((((((.(((((((....)))))))...))))))))))..(((.....))).......(((((((......))))))). (-37.40)
+>seq491
+CGGCAUAAGUUUUGCCAGCAAAACUGCAGUGCCGGCGUACGUGACAACUAAGAGGAUAGUCCGCAGGCUAUA
+((((((.(((((((....)))))))...))))))((.(.((.(((.............))))).).)).... (-20.60)
+>seq492
+CUCUAGGCCUCCCCAGAAGGCUGAAGGCGAGGCCUAGAGCCUCCGCACUGGCAUACGGAUUCAUCCGGGCGAUGAAG
+((((((((((((((((....)))..)).)))))))))))....(((.((((.((........)))))))))...... (-32.90)
+>seq493
+ACAAUCCAGAACUCUUGUGGUGUAUCACCACAGCUGGGUUCUGGAUUGUUCCUUCAGGAAAUCUGUCUUGCAUCCCAUAAAUGCA
+((((((((((((((((((((((...))))))))..))))))))))))))(((....))).........(((((.......))))) (-35.00)
+>seq494
+AUCUUGCACAAUAGCGGAAAUCCGCUACCAAGUGCAAGAUAAACGUACGGUCUUUUUUCUCAUUGGUUCUCACCAAUGAC
+(((((((((..((((((....))))))....)))))))))...................((((((((....)))))))). (-29.80)
+>seq495
+GCAGGCCACUGUCAGAGUGUCACACUGACUUCAGUGGCCUGCACCCCUUUACGGUGCCACCUUCUUUAUCUUAAAC
+(((((((((((....((((...)))).....)))))))))))..........(((...)))............... (-27.70)
+>seq496
+CAAGGCGACUGUCUAGUCAUAGACGCGACACGCCUUGCUAGCCGUGCGCCGUACCGUUUAUGGUCAUUAAUGAGACCAUAAU
+(((((((..((((..(((...)))..)))))))))))...((.((((...)))).))((((((((........)))))))). (-28.40)
+>seq497
+CGCCAGAGUAAACCACCUAGACUUAGGUGCUGUGAACUCUGGCGCGUUACCUGCUACCGAAGAUUAUAGCGAUUGUCCGCUAUAG
+(((((((((..((((((((....))))))..))..)))))))))....................(((((((......))))))). (-32.20)
+>seq498
+AUAACUAUCGGAUCGGUCUACCGAUGCAAGAUAGUUAUGCACACGUAGUUCGAAACUUACUCCUUCGUGGUAAGGAGUAC
+((((((((((.(((((....))))).)..)))))))))...................((((((((......)))))))). (-25.00)
+>seq499
+AUCGGCACUACAGGGCGAGGGCUCGCCCUGCCAGUGCCGAUACCUGGUCUAGCAAUCAUCAAUUUGCCCUAUGUGGCAAAU
+(((((((((.((((((((....))))))))..)))))))))...((((......))))...(((((((......))))))) (-37.10)
+>seq500
+GGUGGACGAGCCAUAUAUGGCUGCCUCACCACCUACACUGGCUGUCUGUCGCUCGCUUGCGCGAGCU
+(((((...(((((....)))))...))))).........(((.....)))((((((....)))))). (-26.60)
+>seq501
+ACUUUGCUGACUAUUAGUAAUACGAGCGCAAAGUAGGACUUGAUCUAGUGGACCCACAGUCGACCCUGUGGGUU
+(((((((.(.((..((....))..))))))))))...(((......))).(((((((((......))))))))) (-21.40)
+>seq502
+UAAGCUCGCUACGGUAGAUACCGUAGGGUGAGCUUACCAAUAAUUCAUUUUAUUCGCUUUAGUAGCACUAAUCAGCUACUAAC
+(((((((((((((((....)))))..))))))))))..(((((......)))))....((((((((........)))))))). (-28.80)
+>seq503
+GUCUAAUGGACACUUAAUAUUAAAUGUCCAUUAGACACAUCCGAGCGACGUACAAUGACACUCGCUUUGCGACAGCGAGUGG
+((((((((((((.(((....))).))))))))))))......................((((((((.......)))))))). (-31.40)
+>seq504
+ACAAGUCAACAAUAAUUACCGUUGGUAAUGCUUUGUUGACUUGUUAUGGGGACGCCUUGGCUGCAUUUUCCCCUAAAUGCU
+((((((((((((..((((((...))))))...))))))))))))...(((((.....((....))...)))))........ (-28.40)
+>seq505
+UCAGAUACCCCCGGGCUCACGGAGCCGCCUUGGUAUCUGAACCGGGGCCACCCUCCCUAACACCUCCUGUUC
+(((((((((....(((((...))))).....)))))))))...(((....)))................... (-25.90)
+>seq506
+UCCGAGAUACACCUCUGUCCUACCCUCGGAAAUACAUUUGGUGAAAGUCACUGACCUUGUCAGUGG
+((((((..................))))))..................(((((((...))))))). (-16.50)
+>seq507
+UCACUCUGCCAGGUAUCCACCUCUGCUUGAGUGAUUUUAACUGAACAAGUAAAUGCCGGCCGGUUGGCCGGCAG
+((((((.((.((((....))))..))..)))))).....(((.....)))...((((((((....)))))))). (-30.50)
+>seq508
+CCCAUGGCUUAUCAUGCUGAUGAUAAGUUUGGAUGGGUGUGUCGGGAACAAUCACACGACGGUUAUUUAUAGUAUAACCGA
+(((((((((((((((....))))))))))...)))))(((((.((......))))))).(((((((.......))))))). (-26.90)
+>seq509
+UGAUGCCUUUUAUUAAAGUGUAACUCUUCCUAAAAGGCAUCAUCUUCAUGCAAAGAGGAUGGAGGAACCGUCCAC
+((((((((((((...(((.......)))..))))))))))))((((......))))((((((.....)))))).. (-24.40)
+>seq510
+CACACCCCUAGGUUGAUUCAACCGCGUUGGUGUGCUAUGCACGUCAGUGCCUUGCGAUCGGCUUCUAUCGAUCGC
+((((((....(((((...))))).....))))))....((((....))))...((((((((......)))))))) (-28.90)
+>seq511
+AACACAUAAAGACAGUAGGAGGACUCCUACGGCCUUUAUGUGUUUUGCGCCCGGCUGAUAGCAUUACUGAACCGAUCAGUG
+(((((((((((.(.((((((....)))))).).))))))))))).(((............))).((((((.....)))))) (-26.10)
+>seq512
+CCGGCCAGUAAAUAGCAGCGGCUAUUGAGGACUGGCCGGGUAAAAGCUGUUCGAGUGUUGUCCUAACCGCGGACA
+(((((((((.((((((....))))))....)))))))))........((((((.(.((((...))))).)))))) (-29.70)
+>seq513
+AUGUAUAGUAAAAUGUUGACCAACAUCAACUACUAUACAUUAAAAAUUGUUUCGAUCAGCUCCGCUCUAAGCUU
+((((((((((....(((((......))))))))))))))).................((((........)))). (-14.90)
+>seq514
+UCCAACAAUCACAAUUACCUUGGCGACCAAGGUAUCAUGUGAUUGUUGGAAGUCGUAAAGCGCUGUCAUCAUGUGAAAUCACAUGAG
+(((((((((((((..((((((((...))))))))...)))))))))))))((.(((...)))))....(((((((....))))))). (-39.70)
+>seq515
+GGCACCUCCAUCAUUCUGCGCAGGCGUGAUGGAGGUGCCGUACUGAUCGAGUUCUCGAGUUGAACCACGAUUUCAACUC
+((((((((((((((...((....))))))))))))))))(.(((.....))).)..((((((((.......)))))))) (-37.20)
+>seq516
+CCGUAGGUGUCUACGAAGGUAUACCUUGGUUGACACCUACGGACGACGAGAUCCGCUUAUGCUAGAAAGUGGUCUAGCAU
+(((((((((((.((.((((....)))).)).)))))))))))................((((((((......)))))))) (-37.90)
+>seq517
+UAGCCGCCUCAGAUCAAGCUUGAUCUAUUCGCGGCUAGACGUGGAGCGAACCUCAAGCUCCAACCCUGAGAGGUUGGAU
+(((((((...((((((....))))))....)))))))...((.(((.....)))..))(((((((......))))))). (-29.40)
+>seq518
+GCAUUGCUGGACCAAGAGAGCGCUCUCUAUCGCAUCCAGCAAUGCUAGCCUCUAGGGUGUAGUGUGUAGACCAUCCAAGUCUACU
+(((((((((((...(((((....)))))......)))))))))))..((((...)))).......((((((.......)))))). (-30.80)
+>seq519
+CGCCGCAUUCCGGUGGGGGUCCCCGAGCGGAAUGCGGCGCUAGGUAUACCCGUUUCGCGAUACGAAGUCAGUAUG
+((((((((((((.(.(((...))).).)))))))))))).....(((((...(((((.....)))))...))))) (-35.80)
+>seq520
+GGUUAGUCAAAUUCCCGGCGGAACGGUAAUGACUAACCGCCAUGAGCAAUGGUGUACGGUCACACCCCACCGC
+(((((((((..((.(((......))).)))))))))))(((((.....)))))...((((........)))). (-25.60)
+>seq521
+UAACUAAACUCCACGGGCAAUGACCGCAUUGCCACAAGCGGAGUUUAGUUAAUGAAGGUGUCCCUUUGAUCCUUACUCCAGGG
+((((((((((((.(((((((((....))))))).)..).))))))))))))..(((((....)))))...(((......))). (-30.50)
+>seq522
+CGGGCCAUUCGCGGCGGGCCGCGGGGUGGCCCGUAGAAUAUAGUUGGACUAACGCGAGAAAAAUCUCGCGUA
+((((((((((((((....)))).))))))))))..................((((((((....)))))))). (-37.50)
+>seq523
+AUAUUAGUUUAAACAUUGAUCAAUGGUGAUCAAUGGCGACAAACUAAUAUCGCCAAAUAGGAAACUAAACCUGUCGCAGCUCCCGACAGGA
+((((((((((...(((((((((....))))))))).....)))))))))).......(((....)))..(((((((.......))))))). (-28.00)
+>seq524
+GGCAGUUUGAGGGGCGGUUUAUAAAACCCUAACCUCAAACUGCCGCACACAGGCUGUUCAGUCGGGGAUAUGAUCCCG
+((((((((((((((.(((((...)))))))..)))))))))))).......((((....)))).(((((...))))). (-34.20)
+>seq525
+AAGCGAUGAUGGUAUGAUGGUCAUACCAAAGAUAUCGCUUACCUGGCCCUCAUCGGCCAUGUAACAAUCACUUACAUU
+.(((((((.((((((((...))))))))....)))))))(((.(((((......))))).)))............... (-26.60)
+>seq526
+UUGUUCUCGGUACCGCGGUGCGCGGUGUUGCAGAACAACGGGGGUCGCCGACAAGGUGAAUAGACAGCCCGUCUAUA
+.((((((((((((((((...)))))))))).))))))(((((..(((((.....)))))........)))))..... (-31.90)
+>seq527
+AACAGUUAGUACAGGUCUGUAGGACAACUGUUGGGAGUUAACCUCCGCUGAGCAACGACGAUAUAGCCGUCGUC
+(((((((..((((....))))....))))))).((((.....))))........((((((.......)))))). (-19.50)
+>seq528
+CAUGAGGUGCGUUGGACCCAACGCAGCUUCAUGUGGAACAGGUUUUUCUUUGAGCUGCGGGAGCACGCAC
+((((((((((((((....))))))).))))))).......(((((......)))))(((......))).. (-24.80)
+>seq529
+CCAGUCCCAAAUAAGCAAGACAUUGCGAAGCUUUGGGACUGGUGAUUCUUGCAACCGAAAGUCUACACUUAGCAAUCUAAGUGUC
+(((((((((((...((((....)))).....))))))))))).((((.(((....))).)))).((((((((....)))))))). (-31.30)
+>seq530
+UUGCUCCGAGGGUAAAAAAUUUAGAAAUUUUAUGGAUCCCUCGGAGCAAAGGAAUGUGUCAGACAGGUCUGCGGACGCGGCAGACC
+((((((((((((...((((((....))))))......)))))))))))).....(((.....)))(((((((.......))))))) (-35.50)
+>seq531
+ACUCGGUUUUGCGUGUGUACACGCAAAGGUGCUCGAGUCACUCCAGCAGCGGAGUCCGUACUCCGGA
+(((((((((((((((....))))))))...)).))))).(((((......)))))(((.....))). (-24.70)
+>seq532
+AUGUGCACGGUACUCGUGGCCACGAGAGCAGUGCACAUUGUCUUGAGGAGAGGCCUAAAAUUCAUUAGAAUUUAAUGAAUG
+((((((((.((.(((((....))))).)).)))))))).(((((.....))))).....((((((((.....)))))))). (-27.60)
+>seq533
+ACGAAUGUCCAGUCGACUGGGUAAUUCGUUCGGCGCACGGCGUGUGAGAUUUUGACGCGGAAAAUCU
+((((((.(((((....)))))..))))))....(((((...)))))(((((((.......))))))) (-18.30)
+>seq534
+GCUCUGACGAAGCUGUAGCUUCGCUUGCCAGAGCACCGCCCAGUGCGCACCAAAUACCGCGAAUUG
+((((((.((((((....)))))).....))))))......((((.(((..........))).)))) (-20.00)
+>seq535
+CGACGACCUACCGUCCUCGGUAGUCACUGCGUCGGAGGAGCACUUCCAUAUUGUAUGGGCAAUGCGCUAUUGCCCU
+.((((..((((((....))))))......))))(((((....))))).........((((((((...)))))))). (-27.70)
+>seq536
+GAUGCGGGACCAUCUACGUGGGACGUUUUCAUGGUCCCGCAUCUACGCAAGCCGCAUCCAAUGUUUCUGCAGAAG
+(((((((((((((..((((...))))....)))))))))))))...(((.(..((((...))))..))))..... (-30.40)
+>seq537
+GCACUGAACAAGCGGUUGAUCAAACAGUGCAUGGGCUCGCCUUUCUGAGCUCGGUAGUUUUAACCGA
+............(((((((...(((..(((.((((((((......))))))))))))))))))))). (-18.90)
+>seq538
+CUUGUAAGGAGUGGACAGUGCUGUCUCUAUCCUUACAAGGAGGUGCCCAACUAUCCUCCGGUGCCCCACAUCGCAU
+((((((((((..(((((....)))).)..))))))))))((((...........))))(((((.....)))))... (-27.00)
+>seq539
+CUUAUGAAAGAAUUUGAGCCCUGCGGCUCAAAUGUUUAUUCAUAAGUGACGCGGGCCGCUUACAAUCCAAUCCGAGGAGGUCGGAUUG
+.(((((((((((((((((((....))))))))).))).)))))))((((.(((...)))))))....((((((((.....)))))))) (-32.00)
+>seq540
+GUCAGCCUGCUAUGUCCAUAACUAAGGCUGACUUUUGAUCGAAAAAGGUUAGCAUUGACACUGUAGGGGUGUCAAUU
+((((((((................))))))))..((((((......)))))).(((((((((.....))))))))). (-26.80)
+>seq541
+AGGCGAACGCACAAAGUUGGAAUCGUUCGCCUCUUAAUCAAUUUGUUGUUACGAGACAUCUCGUA
+(((((((((..((....))....))))))))).................((((((....)))))) (-19.50)
+>seq542
+AACAGUCAAAGGGGGCGAAAUGUUCGCCAUAUGUUUGACUGUUCUGGAUCUGCCUACGUCACGGCAGGUUACCCCUGG
+((((((((((.(.((((((...))))))...).))))))))))...((((((((........))))))))........ (-31.20)
+>seq543
+UAUUAGGCCAUUGCCCAUCAUGGGCAAUGCCUUUAAUAUCAGAGCUACUUACACCAUAUUUUACGACAGGAUAAAG
+....((((.((((((((...))))))))))))............................................ (-17.40)
+>seq544
+CUCCUCCCUUAACCGAUUGACCUUUCAAUCGCCAAGGAAGGGAGGAGACUCCAAAUCGGAUGAUUCGCACUUCUCUCUAGCUGCAGAGAAGU
+((((((((((...(((((((....)))))))......))))))))))..(((.....)))........(((((((((.....).)))))))) (-35.60)
+>seq545
+GGACCGUCCACCAGUCUGAUCAGCUGAUCAGAGAGGAGUGGACGGUCCGUCCGAACUGCGCAACCCCCGUUUACUCCACGGG
+((((((((((((..(((((((....)))))))..))..)))))))))).................(((((.......))))) (-39.10)
+>seq546
+UUAUGUGUACGCUGAGACCUCAGCUACGUGCACAUAAUCAGAAUUCCUGGUGGUGGGUGGGUGUCGCCCACCCG
+.((((((((((((((....)))))...)))))))))(((((.....)))))...((((((((...)))))))). (-35.80)
+>seq547
+AGUAGACCUGUAUAGUUCUCAACUUGAGCCAGGUCUACUUAUCACAUAGACCAAGGAAAAACUAACAAACAGUGCUGUUAGUU
+((((((((((....((((.......))))))))))))))....................((((((((........)))))))) (-23.90)
+>seq548
+UUGGCCCGUUUAGCGUCCAGUGGACGCUUGAGACGGGCCAAAACGGGGCCUCCUACAUUCCACCCUCCCCAUCCAUGUGGGGAGGA
+((((((((((((((((((...)))))))..)))))))))))...(((....))).........(((((((((....))))))))). (-48.40)
+>seq549
+UUAAUGGCGCCCACAUAUGUGCUCCCCAUUAACAUCGUCCGGAGAAGAGCUAAGUCCCCGUGGGACUUAGC
+(((((((.(..(((....)))..).)))))))................((((((((((...)))))))))) (-24.10)
+>seq550
+CGCUUCACCGGUGUGCACUAGCACACCCCAAGGAAGCGAUUAGUGCUUAAGGGAAGCUGCGCUGGUCAGCU
+.(((((...(((((((....))))))).....)))))(((((((((............))))))))).... (-30.40)
+>seq551
+CUUAGCUGCCGUCAUGAAUGACCGCCAGCUAAGAGCGGGUGCACCCCAUUCUAACGUUGAAGAAUCAACGUG
+(((((((((.((((....)))).).))))))))...(((.....)))......(((((((....))))))). (-26.30)
+>seq552
+ACAGAAUUACUCUAUAGAGUAUCCAAUUCUGUGAGAUUUAGUCCAUGUUGCGUGUGGAUGUAGGACUACAUCCACC
+((((((((((((....)))))....))))))).....................(((((((((....))))))))). (-22.20)
+>seq553
+CGAGGCAGGGGACCUAAGCAUAAAUAUGCUUAAGUUCCCCUGCCUCGCAGUUGCAGACUUCAACUGUCUGUCGCAAACCCGACAGAA
+(((((((((((((.(((((((....))))))).).))))))))))))((((((.......))))))(((((((......))))))). (-47.50)
+>seq554
+CAGCGACGUACUUGCGGUACUGGCGUACCGCACAUCCGUACGUCGCUGGUGAGUCCUUCUAGCAUAUGAUACCAAUAACUUGGUAUCG
+(((((((((((.((((((((....)))))))).....)))))))))))...................((((((((....)))))))). (-41.10)
+>seq555
+GAAUAACGCGCACAUACAUGUAUGUCCUACGUUAUUCCGCUGUCGACCAUGAGGGUCCAUACCACGAAGCUGGUAUGU
+((((((((...(((((....)))))....)))))))).......((((.....))))(((((((......))))))). (-22.40)
+>seq556
+GGAGUUGGUGUAGUGUACACGGUGAACUCCUCCACGCACGGUCGAACACCAAGACCUGUAUAGGUCU
+((((((.(((((...))))).)...))))).........(((.....))).((((((....)))))) (-18.30)
+>seq557
+ACUUCCAGUCCGCGUGGUGACGUGAGACACUGGAAGUGAAAAACUAUUUACCGUCCAUGAGCGUACGGAGAAACGCUCC
+(((((((((((((((....))))).)))..))))))).....................((((((........)))))). (-26.70)
+>seq558
+GAACCCCCUACUUUAUGAUGUCAUAAAAGCUGGGGGUUCCUGGAGGCCAUCCUUGCUUCGAAACAAUCAGUUA
+((((((((..(((((((....))).))))..)))))))).(.(((((.......))))).)............ (-24.90)
+>seq559
+AUCUCAUUUCCCCAUUUCUCCGAAAAGUCGGAAAUGAGAUCCCUGCUCAAGCCAAGAACUUCCCGCACUGGGAAA
+(((((((((((...((((...))))....)))))))))))...................(((((.....))))). (-19.90)
+>seq560
+GCAUAGAAACACGUAACUACCGUUACGUAGCAGUUCUAUGCUGCGCAUUUGGCAGGCAAAGCCAUCUGUGAUGGG
+((((((((..(((((((....))))))).....))))))))..((((..((((.......))))..))))..... (-27.10)
+>seq561
+ACCUCGUAGACUAGUAUGAAUACUCAUGUACGAGGUUCGAGUCUAUCUUGGACGAGUUCCCAGACGGGAAA
+..((((((.(..((((....))))..).))))))(((((((.....)))))))...(((((....))))). (-23.90)
+>seq562
+AGAAUGCGAGCCGGGGUACACGGUUGUACCUUACUUGCUCGCAUUCUUAGCUUUGAUAGGGUUUACAGGCCGAAGCAUUCGGCCUGC
+(((((((((((.((((((((....))))))))....))))))))))).((((((...))))))..(((((((((...))))))))). (-41.20)
+>seq563
+GUGUCGUUAUCUACUACAGUAGAACCGGAACGACACGGACCAGGUGGGCCGAUAGGCCGGUCCUCAGACCGGCCA
+((((((((.(((((....))))).....))))))))((.((....)).))....((((((((....)))))))). (-34.40)
+>seq564
+AAUGGGACUGCACAACCGGGUGUCCGGUUAUGGGUGCAGUCCCAUUGUCUCGCGCAGUUCCCUAUUGGUGUAAGCUUACUUACACG
+(((((((((((((((((((....))))))....)))))))))))))........((((.....))))(((((((....))))))). (-39.90)
+>seq565
+GGUAAUAUUAGUUUAUGCCCAUAAAGAAAUAUUACCAUAAGCCCAUUUCUGACUCACACUCUAGCGAUGCUAGAGUC
+(((((((((..(((((....)))))..))))))))).....................((((((((...)))))))). (-22.00)
+>seq566
+UGCCCUCGCGUUUGCGAUGCAAAGCAGAGAGGGCAAUCUUAAACAGACGGGAGUAAAUUCCAGGCCUUGGAAUA
+(((((((...(((((........)))))))))))).((((........))))....((((((.....)))))). (-22.60)
+>seq567
+UGCUGCGAUGUAGUGUACUUACACCUGGCAUCGCAGCAAUCACGUGCUGUAUAAUCCACCGGGGGAUCGGUG
+(((((((((((.((((....))))...)))))))))))..................((((((....)))))) (-29.30)
+>seq568
+UCUUAAGUCGGGUGCAACCGCAGAACUUAAGAAUAGUGGGCUACGCUCCAGUUCCUACGGCUCCAAGUAGGAACA
+(((((((((((......)))....))))))))....(((((...)).)))((((((((........)))))))). (-26.80)
+>seq569
+GCCCCGCUGCGGCUUUAGCCGCUCGGGGGGCGCGUUCAAGACAACUGAUUGCCGGUGGAUGGCAAC
+(((((.(.(((((....)))))..).))))).................((((((.....)))))). (-30.10)
+>seq570
+GAUAUACUGUUGCGGACAAGUUCUUGUCCUGACAACAGUAUAUCCUGGUCCAUCCCUACCUAGAGAAAGAGCUGACCUUUCUCUU
+(((((((((((((((((((....)))))).).))))))))))))..(((........))).((((((((.......)))))))). (-33.20)
+>seq571
+AAGCGGGGCGCGGAAGAAUUCGACGUUAGUCGAAUUACCUUACGCGCCCCGCUUACUAGACCAUAUAGUCAGCCCAAUCAUCGUGCAAUGAUUGGU
+((((((((((((..((((((((((....))))))))..))..))))))))))))....(((......)))...((((((((......)))))))). (-49.10)
+>seq572
+CUUCGCACCAGGGGUCUGAGUGUUACCACUCAAGUGUGCCUGGUGCGAAGUUAAACACGAUUGGGAUUUUAAUGACCCCAUUAAG
+((((((((((((.(.(((((((....))))).))..).))))))))))))...........((((.((.....)).))))..... (-35.00)
+>seq573
+AUCGCAUAUAACAAGUGUAGAUUAUGCGAUACGCAUCUAGCCUUCCCCAUAAGUUGGAUGG
+((((((((..............))))))))...((((((((...........)))))))). (-15.90)
+>seq574
+GGAAGAGGCAUCCGACGUCGGAUUUCCGGCUCUUCCCCCAAACCUAUUUUUUGCUGAUACUAAUCCAAAUACAUUAGUAUC
+(((((((.((((((....)))))....).)))))))...................(((((((((........))))))))) (-24.30)
+>seq575
+GUUUGCUAACAAAGUCCCAUCUGGGACUUUUAUUUAGCAAACGGCACUGGUUGCGAGAAUCGGGGCGAGAAUACGCCCCG
+(((((((((.((((((((....))))))))...))))))))).(((.....)))......(((((((......))))))) (-38.30)
+>seq576
+GUUCCGAUUGAGAUCCGGCUCGCGAGCCGGUUCUCUCAAUCGGAACAUCUUCCAGAGAGCGCUAUUGCUAUGCUUAUCAAGCAUAGA
+(((((((((((((.((((((....))))))...))))))))))))).((((...)))).........((((((((...)))))))). (-41.00)
+>seq577
+AUGUACCUUCUACCGCACCUCUCAGGUGCACAACGAAGGUACAUGGGACGUGUUCAGCCGAGCCAAGCAAAUUGGCG
+((((((((((....((((((...)))))).....)))))))))).((.(.......)))..(((((.....))))). (-29.40)
+>seq578
+AUAAAAAAUUGACAAUUCUUUACCGUAAAGAAUAUUGGAAUUUUUUAUACACUGCCCAAGAAGCAUACGCGAUUCUAUAAUCGCG
+((((((((((....((((((((...)))))))).....))))))))))....(((.......)))..(((((((....))))))) (-17.70)
+>seq579
+CACUAAUGGGUUACGUAGUCACGUAAACGAGGAUUAGUGUCCUUCAUGAAAAGCUCUGAGCGAAAUAUGCCUUUCU
+(((((((..(((((((....)))).)))....)))))))........((((.((..............)).)))). (-13.30)
+>seq580
+GGAUUGUUGGUAGGCCGUAUUCGAAGAAUACGGGAAUAACCAACAAUCCAUGGUCCUGAACGGUUCUGAUAAGUAAAUCGUGAAUUACUUAA
+(((((((((((...((((((((...)))))))).....)))))))))))..(((.....((((((((....))..)))))).....)))... (-31.70)
+>seq581
+CUUCCAAUUUGUUCUAGCCAGGGUACUGGCUAGCGGGGGAAUUGGAAGGACGAUCCAUUCGGAUGCAUCCCUAGAGGCUAGGGA
+((((((((((.((((((((((....))))))))..)).))))))))))....((((....))))...(((((((...))))))) (-39.80)
+>seq582
+CAGGAUUGACUCCCCUCGGGGACCCCCAAUCCUGAUCGCUUAACGCAUCUGACGACGUUCCCGUG
+((((((((..((((....))))....))))))))...((.....)).....(((.......))). (-19.10)
+>seq583
+GAACUGUCUCCGGGUGCCAGGCACCCGAGUACACAGUUCACUACCGAGUGUUGGAGCGUGGAGCCCCACU
+((((((((((.((((((...)))))))))...))))))).((.((((...)))))).((((....)))). (-28.70)
+>seq584
+GCCCAAGCAUAAAAUUUUGUACAAAAGCCUUAUGCUUGGGCAAUAAGACCGUUCUGAUGAGUCAAUUCCUUUGGGUAAAAGGAAUUA
+((((((((((((..((((.....))))..)))))))))))).....((((((....))).)))(((((((((.....))))))))). (-32.50)
+>seq585
+GUGGCUGAGGGGUCUGCUUUGUGAAGCAGUGUGCCCCUCAGCCACAUUACUAUAGGUCAAGUGGGAUCCUGUCAGGGACAGGC
+(((((((((((((((((((....))))))...))))))))))))).(((((........)))))...((((((...)))))). (-43.40)
+>seq586
+GUAAGGCCAGAAGCGCCGCUUCUGAUAAACUUACUAUCCAGGCGAAAAUCAGGGUAGCUUUACU
+((((((((((((((...)))))))..........(((((.((......)).)))))))))))). (-18.50)
+>seq587
+CAGUUCUAACAGUCUGCAUAACGGGUUAUGCAGGAUUGUUAGAACUGGGCAACUUCUGUUAGCAUGGUCGUACUUAUUACGUAGUACGU
+(((((((((((((((((((((....))))))).)))))))))))))).(((((....))).)).....((((((........)))))). (-36.70)
+>seq588
+AACUGUUGUAUGUGAAUAUAUUCUCCGACAACAGUUUGCCCACGAGGUUCCACUCUUAAUGCCAUCAAAACCAUGGCAUUA
+(((((((((..(.(((....))).)..))))))))).......(((......))).(((((((((.......))))))))) (-22.60)
+>seq589
+CGGUGACUGGAUAAAUUGUAGAUACAAUUUGGAUCCAGUCACCGUACCGCGCGCCGCGACACUAAAAGAUCAAGCAAUGCUUGAUCUC
+(((((((((((((((((((....)))))))..))))))))))))...((((...))))........(((((((((...))))))))). (-40.80)
+>seq590
+GAGACCCAGCUAAAUUCGUUGAAACGAAGACUAGCUGGGUCUCCUCUGGGGCUCAACAGAGAACAAAGAAGCAGCCUCUGCUUCUUC
+((((((((((((..(((((....)))))...))))))))))))(((((........)))))....(((((((((...))))))))). (-45.10)
+>seq591
+GGGUCACAUCCCAUGAUGAUAGUUAUCAUAGGGGGAUGUGACCCAUAAGCGAGCCUCGAACAGCUACAAGUGACAGUCACUUGC
+((((((((((((...(((((....)))))...)))))))))))).......(((........))).(((((((...))))))). (-38.30)
+>seq592
+UAAGUCUUUUCCAACACACGCGUCGUGUUGACAGAAAAGACUUAGUAUAAAGUGUACGUCUGGUAACACCGGGAGGUUC
+(((((((((((((((((.......))))))...)))))))))))............(.((((((...)))))).).... (-24.60)
+>seq593
+AUUUUUGGCGCUAGCGAGGGAUCUUGAUCCCUCUUUGGCGCCAAAAAUCCCUAGCGCGUAGCACCCACUAAUCUUAGGUGUGAUU
+((((((((((((((.(((((((....))))))).))))))))))))))............(((((...........))))).... (-35.30)
+>seq594
+UUAGACUAUAGUGAUGUAUCACUAAGUAGUCUAACCUUUUUAAGAACUGUUUUUAUAUGAUUAUAAG
+((((((((((((((....)))))..)))))))))..................(((((....))))). (-13.90)
+>seq595
+AUAGAUCUUUGAAAUGGCGUUCUAACGCCACCCUUCAAAGAUCUAUCAGCUCAAGGCGAAUGCGUUAGCAUUGGAUGCUAG
+(((((((((((((.((((((....))))))...))))))))))))).(((......(.(((((....))))).)..))).. (-31.70)
+>seq596
+CGAGCGGAAUGAUCCUAUCGUCGUCCGACGAUAUUGAUCAUUCCGCUCGGACCGAACUGGGCGUUAAUACACGUGAUAAGUGUAUC
+((((((((((((((.(((((((....)))))))..))))))))))))))(.((......)))....((((((.......)))))). (-41.30)
+>seq597
+AUUCGAUUUUUCUUAGAAUGCUAAGAAAUUGCACUCGAAUUUGGUGCUCUACCCUCCUUUUCUGGCAUAUGCCAGAAAG
+........((((((((....))))))))..(((((.......)))))...........((((((((....)))))))). (-23.10)
+>seq598
+UGUGGCCAAAGGUAUGUCGUACGACACGUAGCUUUGGCCACACUCUUAAAUAGGUGAGGAACGGGCCUGCGCACAAGGCCC
+(((((((((((.(((((........))))).)))))))))))(((..........)))....((((((.......)))))) (-37.60)
+>seq599
+UCGAUUAAUUUGUUAUACAUAUAAAUCUAAUUAAUCGAUAGCGCUCGCCGAAAUUCUCCAGGGGCACUUUUUGCCCCG
+((((((((((..((((....))))....))))))))))..((....))............((((((.....)))))). (-19.90)
+>seq600
+CUACGGUGUCGAUGCACAAUGCAAAAACACACCGUAGGAUGAAUAUGUCAAACUCUACGCUAGGAGCACCUAGG
+(((((((((...((((...)))).....)))))))))(((......)))..........(((((....))))). (-21.70)
+>seq601
+AGCGAGUGUCGGACCAAAUGGUACAAACACUCGCUCGUAGGUCAUAAGAACUCGAAAUGCAUCGUCGGCAUG
+.((((((((..((((....))).)..))))))))(((.((.((....)).))))).((((.......)))). (-22.90)
+>seq602
+AGGAGAGUGAUACGCAAGAAACUUGCCACGAAUCACUCUCCUAAAAGAUUUCCUUUCAAUUCGCCGGUUUUGGGUCAACCGGCC
+(((((((((((.((((((...)))))...).)))))))))))....................(((((((.......))))))). (-31.80)
+>seq603
+UAACUAGUUCGAUAAGCUUACAGGGAACUAGUUAUCUAGGCGCACUAAACUCAGCCAGUAGAUGGCUACUGGU
+((((((((((..............))))))))))..(((.....)))......((((((((....)))))))) (-22.80)
+>seq604
+CUACCGAAGGUCCUUUAUAAGGACCUGGAGGGUAGACAGCCGAGAGCUUCCAACGCACUUGUGUGG
+(((((..((((((((...))))))))....))))).((..((((.((.......)).))))..)). (-24.80)
+>seq605
+UUUGUCGCCGGGUUGCCCCAUGCGGGGCAAAGGAGGGGCGACAAAGAUAGCCGGACUUUCUUGGCUUAGAUGCACCUUGUGCAUCUG
+(((((((((...(((((((....)))))))......)))))))))...((((((......))))))(((((((((...))))))))) (-43.50)
+>seq606
+ACUUCGUGAGGCCAUUGCAAUGCGGUCACGAAGUCCUAGGACUUACAACCUUAAACCACAAAUGGGUGGC
+(((((((((...(((....)))...)))))))))...(((........)))....((((......)))). (-18.10)
+>seq607
+ACCGUCAUCAAGGAUACACGAACGUGUACCAGUUGAUGACGGUUGGGCGUGCCCAUCCCUUACCGUCAGGACGGA
+(((((((((((((.(((((....)))))))..)))))))))))((((....)))).......((((....)))). (-30.90)
+>seq608
+CUUAGAUUAUACCCUUGAUCAAGGGGCUGAUCUAAGAAGUCUUUAGGAAUAUCCGGUCGUGAAACUUCCACGAC
+(((((((((..(((((....)))))..))))))))).........(((...))).((((((.......)))))) (-25.10)
+>seq609
+GCUUGGCGUGGCGCGCCGAGCGCGCCCUUAAGCCAAGCCUGAGAACGUCUGGGGGGCUUGAAUUGAAUAAUUCAAU
+.((((((..(((((((...))))))).....))))))(((.(((...))).)))...(((((((....))))))). (-32.30)
+>seq610
+UCCCUCCAUAGAUAUCCGGAGAUCUCCGGCGACCUAUGGAGGGAUCCGAAUUCCGGCGAGAAUAAGCCCUCUCAUAGAGGGAGAGGGCU
+(((((((((((....(((((....)))))....))))))))))).(((.....)))........(((((((((.......))))))))) (-45.80)
+>seq611
+AGGGCCCACGCAUGACCAUGAGUAGGGCCCUCUAAACAUGAUUUUGCUGUUCGGUUAAACGUCGUGUUUUAACCGA
+(((((((((.(((....))).)).)))))))...................(((((((((........))))))))) (-25.50)
+>seq612
+UCGAACUCAUAACAAGGUUAAGAAGAGUUCGAUUAAGCUCAUUACUUAAAGUCAGCGGCAAGGCUGACUU
+((((((((................))))))))(((((.......)))))(((((((......))))))). (-21.50)
+>seq613
+GGAUUUCCAAUGCGUGUCGCGCGACACGCGUACUGGAAAUCCGCCUAUGAACUAAGUUUGCUACUAACAGCUUAGUAGU
+((((((((((((((((((....)))))))))..))))))))).................((((((((....)))))))) (-34.40)
+>seq614
+GGACCUCAUAGAUCAAAAGAUCUCAAGUUGAGGUCCAAGGAAUUUAUCCCCAAUUUGCGGGGUCAGUCCCCGCAAA
+((((((((.(((((....))))).....))))))))..(((.....)))....(((((((((.....))))))))) (-34.20)
+>seq615
+CACGGUCUGCGCAGAUGCGUCUGAUCCGUGCUUUGGUACGCAGAAUCUCGGGGAUCACAUUUAGUGAUCA
+(((((((.((((....))))..)).))))).((((.....))))........((((((.....)))))). (-21.60)
+>seq616
+AACCGACUCCAUCGGAAUUCCGACGUGGAGUCGGUUCACACGAGAUGCAUUCCGGCCCGCGGCCAGCCGCGG
+(((((((((((((((....))))..)))))))))))....((.((.....))))..((((((....)))))) (-35.10)
+>seq617
+CUACUAGCGUCCAAUGGACACAAUAGUAGAGUAAGCGCAUUGACUUACUCAAACAACUAAUUGUUUGG
+(((((((.((((...)))).)..))))))((((((........))))))(((((((....))))))). (-19.20)
+>seq618
+CAGGGACACACAUCUGCGACAGCGAAUGUGUCCCUGGAUAAGGUCAUUUAAAACCCUCGCCGAAGGC
+((((((((((..((.((....)))).)))))))))).....(((........)))...(((...))) (-23.30)
+>seq619
+UUUACACACUAUUGGCGGUGACCUGUCACCGUUCCAUAGUGUGUAAACGUCCGGACAGGGUCCUCCUCUGGGAAUCAUCCCU
+((((((((((((.((((((((....))))))))..)))))))))))).....((((...))))......((((....)))). (-33.40)
+>seq620
+CGUGGUUACAACUCGAAGAGCGGUGGUAACCACGGGAGUUUAAUACAGCAUGGUGAUAGUCGUUCGCGACUAA
+(((((((((.((.((.....)))).)))))))))......................((((((....)))))). (-22.60)
+>seq621
+CUGGUGGCGUCCCCACUCUUAAACCUUAAGAGUACCGCGGACGCCACCAGGUUCCUAUAGGGAAUGGCGGAGGAGUUAACCUCCUCCC
+(((((((((((((.((((((((...))))))))...).))))))))))))((((((...))))))...(((((((.....))))))). (-49.10)
+>seq622
+CCCAACCUGAGAUCACCGAUUAGGCGGUUGGGAUUCGUACGGAAUCUGUGUCGUGGGUGACAUUACACCCAU
+((((((((..((((...))))..).)))))))...(((((((...))))).))((((((......)))))). (-24.70)
+>seq623
+CUGCAGUUAUAAAACAUUUAACUAAAUGACGAUAUAACUGCAGACCCUUGACGGAUAGCCUUUAUCGUAUGAAGAUAAAC
+(((((((((((...(((((....)))))....)))))))))))..((.....))......((((((.......)))))). (-19.60)
+>seq624
+CUACUCUGCCGAGAUAGCGCUAAGCGCUGGGCACGGCAGAGUAGGCGACUAGCUCGUUAAGGGAGAUAGACGAGUCUU
+(((((((((((...((((((...))))))....))))))))))).......(((((((..........)))))))... (-36.30)
+>seq625
+UUUAAGGUUCAAUCCGCACAUAUCUGUGCGGAUCCAUGAACCUUAAAUUUACGUGCUACAUUUCCACUAUAUGAUUAUAGA
+((((((((((((((((((((....)))))))))...)))))))))))...................(((((....))))). (-29.10)
+>seq626
+UUCUUUAGGACUUGAGCAGCGCUGCUGCGGUCCUAAAGAAAACAGCUAGUCUACACCUUAACCAUUUGGAAAAAUGA
+((((((((((((...(((((...)))))))))))))))))......................(((((....))))). (-25.20)
+>seq627
+UGCGAUGAAGAUCCAUGUGACACAUGGAAUAAUCAUCGCAGGCGAUUCAUUCCAUGAAAUAUGUGCUCUACCAGGCACC
+((((((((...(((((((...)))))))....)))))))).....(((((...)))))....(((((......))))). (-25.70)
+>seq628
+CAUCACAUGACAGAAUAAUGAUUCGUCGCGUCAUGUGAUGCUGGCCGGCCCGGUGUCAUGGCGGUCGAAGGGACCGG
+(((((((((((.((...........))..)))))))))))....(((((((..((.(......).))..))).)))) (-27.70)
+>seq629
+UAGCCGCACGAUAAAAGUUGUCUUCGUUGCAUCGUGCGGCUAAGGUCGGCCGGAUUCACAUUCCCCAAAGGAGGGU
+((((((((((((..((..........))..)))))))))))).((((.....)))).......(((......))). (-25.10)
+>seq630
+AACCAAUCAAUACGUUAAACGUAACUAGGAUUGGUUGGAGGCAGGACCCUCAAUGUAGCUACGCGAAAGCUG
+((((((((..(((((...))))).....)))))))).((((......))))....(((((.......))))) (-18.80)
+>seq631
+AAAAAACGUUUGUUGGCUGUAGCCAACGUGGACGUUUUUUUGCGAGGACAUCGGCUAAUCAUGACGAUGGGCGGUAGGCCAUCGUCC
+(((((((((((((((((....)))))))..))))))))))..(((.....))).........((((((((.(....).)))))))). (-34.50)
+>seq632
+ACUGCAGCGAUUCUGGUGUCUUUGACACCAGCUUUAUCGCUGCAGUAACGUUCACCGUAGCCCCAGUCCAUACAGCUGGG
+(((((((((((.((((((((...))))))))....))))))))))).(((.....)))...((((((.......)))))) (-38.20)
+>seq633
+GAUUACAGUCCCUAACUUUUUUAAAGUUAGGUACGACUGUAAUCCUCGCGUCCGGCAGUAAGGUGAAAAUGACGCUUUUG
+(((((((((((((((((((...)))))))))...))))))))))...(((((...((......)).....)))))..... (-29.00)
+>seq634
+CACACAUGAUCGUCGAGAACGACCUCCUAUCAUGUGUGAUCCCUUAACGGUGUUUGCAAGGCUGUGUGAGCCUUGA
+((((((((((.((((....)))).....))))))))))..................(((((((.....))))))). (-26.90)
+>seq635
+GACAAGGGCACCUCCAGGAGGUGUGUGUCUUGUCUUUCACAUGGACCUGUUACCAGUCAGACUGGUC
+((((((((((((((...)))))))...))))))).................((((((...)))))). (-23.40)
+>seq636
+AAGUGAAAGGGACCGUGCUCAAAGGAGCUGAAGGUCCCUUUCACUUACGAGUCGAUCUUUCCCCGUGUCAUACACU
+((((((((((((((..((((....))))....))))))))))))))..................((((...)))). (-32.40)
+>seq637
+CGAAGAGGGAAUGACUAGUCCUAGUCCCUCUUCGAGCUUACAUAAAGUCGAAUAUGGUCAAGCAAGGUGUGCUUGACA
+((((((((((....(((....)))))))))))))......((((........))))((((((((.....)))))))). (-28.70)
+>seq638
+GUCUGUUGUGACUUGUGGCUGCACACAAUCGUCACAACAGACGCAGAAAUACUGGAUCGAACAUACAUCGAAGUAUGC
+(((((((((((((((((......)))))..)))))))))))).(((.....))).......(((((......))))). (-30.60)
+>seq639
+CGACAUAGGGUGAGCAUCGCAAACGAAGACUUCACCCUAUGUCGACUCUCGUGUAGAGUGUGGGACUUCUGUGCGCUGAAC
+(((((((((((((((.(((....))).).).)))))))))))))....(((((((.((..........)).))))).)).. (-31.80)
+>seq640
+UAGGGUAAUCUAGAAUGGCCAGUGGCCAGAGUCUAGAUUACCCUACUUAGCAUGACUUAGGGCCUCUGUGGACCGACACAGAGA
+((((((((((((((.(((((...)))))...))))))))))))))(((((......)))))..(((((((......))))))). (-41.40)
+>seq641
+UUGCUCCUUUACUGGCAGUGCUGCCUUCAUAAAGGAGCAACAUUUGGACGAAAUUGGGCCCACUAUUGCGAGUAGUGG
+(((((((((((..((((....))))....)))))))))))...................((((((((...)))))))) (-27.20)
+>seq642
+CGCCGGAGCUGUUCACAGACAGCGGCGAACCUUACAGAGGAGGAUGUUCCCAUGGCCGUUGGGAU
+((((...((((((....))))))))))..((((......))))....(((((.......))))). (-22.30)
+>seq643
+ACGGCUUGCUCUUUCGCUAAGUUGCUUAGCAUGAAGAGCAAGCCGUUGAGUAAAUGACCUUUCUCUGCAGAUCGGUAUCUU
+((((((((((((((.((((((...))))))..))))))))))))))..........(((..(((....)))..)))..... (-33.70)
+>seq644
+GUGCGCUUUUUAUGCUUGCAUUGUCCUAAGCGCACAGGCUUUACGCUGAUUAGGUAAUAGGAAAUUAU
+((((((((...(((....)))......))))))))...((((((.((....)))))).))........ (-13.80)
+>seq645
+GAUGACCAUCAGGACCGUUAGAACGGUUAAUGAUGGUCAUCGAUGUAUAUCAGGCAAGCAGAUGCUAUUAGCAG
+(((((((((((.((((((....))))))..)))))))))))...........((((......))))........ (-29.30)
+>seq646
+GUAGACUCAACUCAGCACCUGUGUUAUGAGUCUACCCAAUCCCGCAUGUCAGACUGAUAGAAUGAUGUCUAUUCUAA
+(((((((((((.(((...))).))..)))))))))......................(((((((.....))))))). (-18.80)
+>seq647
+CGACUGUCCGGGAGGAAGCGUUCACGCUAGGCCCCGGACAGUCGGCAAAUGCAGUUCGUGGGAUUCUAUAUCGGUAUAG
+((((((((((((....((((....))))....))))))))))))....((((.....((((....))))....)))).. (-32.40)
+>seq648
+AGGUCAGGGGUGCUAGGCAUAGAGUGACCUGUGUCGCACUGAUCGAGACAAUCCGUAUCACGCUUGAUACGGC
+.(((((...((((..(((((((......))))))))))))))))........((((((((....)))))))). (-26.60)
+>seq649
+UCUUGGCCCGCCCGCAUCGGGUACACCCGAUGACGGGGCGGGCCAAGACAAAUACAUUUCUGCUUCGUCCGACACACUCGGAUGUGUCGC
+(((((((((((((((((((((....))))))).).))))))))))))).............((..(((((((.....))))))).))... (-50.30)
+>seq650
+GAGGUCUGAAUAGGCUAAGCCUAUUCGGGCCACCUCUCGGGCGCUCCUGUGGCUUCGAAUCUAGCAAAAGAUUCGC
+..(((((((((((((...))))))))))))).......((.(((....))).)).(((((((......))))))). (-33.20)
+>seq651
+AUCAAUCGAACGUUUCAGAAACGUGAACCAUUGAUCUGUUACCUGAAAAGCGGAGCCUGAUUCAUCAUCAC
+.........((((((...))))))(((.((....((((((........))))))...)).)))........ ( -9.90)
+>seq652
+UACUACCGUGUUUUUUUCUGUCCAGAAAAAAUUAGACACGGUAGUACGCUCGAUCAGAAUAACCGUGAGGGUAGCCUCACU
+(((((((((((((((((((....)))))))....))))))))))))..................((((((....)))))). (-30.90)
+>seq653
+UAGUAGAGGGCGAAGCCUCGCUAUCUUGCCCUCUACUAUGCUUAUAUAGCUCAUCUGAGCUUAAGUUAGCUCAC
+((((((((((((((((...)))...))))))))))))).(((.....))).....((((((......)))))). (-31.90)
+>seq654
+GAUGCUGAUAUGAAUAUACAAUUAUAUUUAACCGUAUCAGCAUCUUAUUCCACAUCCGAGGUAGCGGCCAAGCUAGAUGGCCGCG
+((((((((((((((((((....))))))....))))))))))))...................(((((((.......))))))). (-31.80)
+>seq655
+CCCGUUCGCGAUCGCUGGGUCCAAGGACCCACCAAUCGCGAACGGGAUUCACAUGUUGAUGCGUUAUGUACACAUCAAGAGCUGUGUAU
+((((((((((((.(.((((((....)))))).).))))))))))))...(((((.((((((.((.....)).)))))).)..))))... (-45.30)
+>seq656
+GCUCUUUUCAAGCUACUUCGUAGCUAGUUUAAAGAGCAGCGUCAACCGAGCUGAAACGCGAGUUGCGA
+(((((((.(.((((((...)))))).)...)))))))..((.((((...((......))..)))))). (-21.40)
+>seq657
+AGACGAGACAACGGCUUAUGACCCUCAUAAGAUUCGGUUGUCUCGUCUUGGUUGAAGACGUUCUGGGACGCAUUCCG
+((((((((((((.((((((((...)))))))...).)))))))))))).....(((..((((....))))..))).. (-29.20)
+>seq658
+UACCUCAGGUGACCAAGGAAUCAAUUCCUCUACCACCUGAGGUAAAGCUAAACGCAGGGUACUGGCUCCAAAGCCAGU
+(((((((((((....(((((....)))))....)))))))))))..((.....)).....(((((((....))))))) (-33.70)
+>seq659
+CAUAAGGAUGAGUAUUGAUCCUCGAUCAAUUCCCAUCAUCCUUAUGGAUGCUCGUCAAAGGUGACCAUCCCCCACUGGGGGGGAUGC
+(((((((((((..(((((((...))))))).....))))))))))).......((((....))))((((((((.....)))))))). (-38.70)
+>seq660
+UCUAGAAGCGAACUUGUCAGGUGCCCUGACCACUGUUCGCUUCUAGAAAUUGUUGAUCACUCUCCCAGCCUGUCUGGAGGACAGGCG
+(((((((((((((..((((((...))))))....)))))))))))))....................((((((((...)))))))). (-42.10)
+>seq661
+GGGGUUGUUCAACCGCAACGCGGUAACUGACAACCCCUUUAAUCUAUACUCUACCACUCUUUCUACUCUUAGAAAGG
+(((((((((..(((((...)))))....))))))))).....................(((((((....))))))). (-25.50)
+>seq662
+GUAGUCCCUGGGUGAAUCCGUAUUCCGUUCCAGGGACUACGUAACCUGAUUAGCUGGGCUACCUAUGGCCGCCAGACCAUAGGA
+((((((((((((.((((....))))...))))))))))))..........((((...))))(((((((.(....).))))))). (-35.40)
+>seq663
+CGCCCUCACUACCGAUGUUAUCGCUAAAGUGAGGGCGGAGAUGGAGUCCCCCUAAUCUGUCCGCUCUCGACAGC
+((((((((((..((((...))))....))))))))))((((((((..............)))).))))...... (-28.10)
+>seq664
+ACCAGUCAUUGUUGCCCAACAAAACCACUGGUCCACCGAGCGUGUGUCGGCCGUUCUGCAGAGAACGGCC
+((((((..(((((....)))))....)))))).(((.....)))....(((((((((....))))))))) (-24.60)
+>seq665
+GGCAUUUACCGUCUCUUACCGGUAAGAUCAACGGUAAAUGCCAUGCGACCUGCCGAUCGAAUUAAGGAUAAG
+((((((((((((.(((((....)))))...))))))))))))......(((.............)))..... (-23.50)
+>seq666
+GGUGCAUAAAGCCGAAGUAGAUAAUCUACUUCACGAAUUAUGCACCGUAGAGUUGCUGUGUCGCAAAUUAUAUUUGG
+(((((((((..(.((((((((...))))))))..)..)))))))))(((...((((......))))....))).... (-25.50)
+>seq667
+GGAAUAUCCAACGCCACUUCUAAAGUGGUAAUUGGAUAUUCCCCAAAAAUCUUAGCCGGGUAGGAUCGAACUCCUACU
+(((((((((((.(((((((...)))))))..)))))))))))................(((((((......))))))) (-31.30)
+>seq668
+GAUUGAAACUUGCAUUCUUCUGUCGAAGAAUACGUCAAGUUUCAAUCGUGCAGUUGGCGUUCUUGUACCUUAAGUUCUUAAGGUACA
+((((((((((((((((((((....)))))))..).))))))))))))..((.....)).....((((((((((....)))))))))) (-33.10)
+>seq669
+CAUUUGUGUACUGCUCUGGUACAGAGGUAAGUACACAAAUGCCCGGGACCACCCUUAGUGGUAUGCGGCGGUCCGCAC
+((((((((((((.(((((...)))))...))))))))))))....(((((.(((.((....)).).)).))))).... (-31.90)
+>seq670
+GGAACCUUGAACUUCAAAUAUACGUAUUUGAAUCCGUCUCAAGGUUCCCACUUGAACAGUUUUCCUCAGUAGUCGGUACUA
+((((((((((((((((((((....))))))))...)).))))))))))...................((((.....)))). (-21.40)
+>seq671
+CUAGCCGGUACGUCUACGUACCACUCGCUAGCGGGCAUCUAGCUGUCAGGUUGCGGGGCGCCCCGCAG
+(((((.((((((....))))))....)))))..((((......))))....((((((....)))))). (-25.70)
+>seq672
+GAAAUCAACCAGCCGCACCGGCUCGUCGUUGAUUUCAGAAUAUUUCAUACUGCAGCCUGGACUGCUAUGUCCAGGCA
+(((((((((((((((...))))).)..)))))))))..................((((((((......)))))))). (-32.90)
+>seq673
+CAUUACCGUACGAGCAGAUGAUGUAAACAUCAUCCCCCCGUACGGUAAUGUUGAGGACAUCGAGCAACGUGUGGUGCUGACCACAA
+((((((((((((.(..(((((((....)))))))..).))))))))))))((((.....))))......((((((....)))))). (-36.40)
+>seq674
+CCUUGCAGCAACCCAGUGGGGACCACUGGGCGUUUCUGCAAGGCCAAUGUCCUAUGGCAGUAUUAGAUCUGCACUACGCAGAUCU
+.(((((((...((((((((...)))))))).....)))))))((((........))))......((((((((.....)))))))) (-39.80)
+>seq675
+CCGGCGGCGAGUGCGGUUACACCGCACACCCGCGCCGGUCCGCUCGACGCUGAAGCUCUUGAAGUGACCCUUCAAG
+((((((.((.(((((((...)))))))...))))))))...(((((....)).))).(((((((.....))))))) (-32.50)
+>seq676
+UGGAUACCGAACGCAAAUGAACCAUUUGCGAAAAUGGUAUCCAGUAAAGAUAUUGUUUGGCUCUCGCUUCGAUUUCAGCGAGG
+(((((((((..((((((((...))))))))....)))))))))...................((((((........)))))). (-29.50)
+>seq677
+ACAAGGUGGUAAAGAUUACAAACACCUUGUGUGGCGGGUCCUCACCCCGUUGCGGGCCCGGGGCGCGGGCCCGCC
+((((((((..............))))))))..(((((((((.(.(((((.........))))).).))))))))) (-41.00)
+>seq678
+UCCUGGGACUGAUCAAGAUUAUUCUUGAUGAUGCUUCCCAGGAUCGCGGCCAGCAAACCACGGCACAUGUUGUGGCAUGUGCA
+((((((((((.(((((((....))))))).).)..)))))))).((.((........)).))((((((((....)))))))). (-36.00)
+>seq679
+UCCUCUCUAUAGUGGUCUGCUCAGACCACGAUCGAGAGGAGAGCAGUACGUGAACACAGCGCGUCAAACCCUUGACG
+(((((((.((.(((((((....))))))).)).)))))))..((.((........)).)).((((((....)))))) (-28.70)
+>seq680
+AAAAGCCCGCGACGUCAACGUCGAUCACUUUUCGGAACACGAUUCACGUCAACAUCCCAGUAAGUUCUGGGAUGU
+.((((....(((((....)))))....))))(((.....))).........(((((((((......))))))))) (-24.00)
+>seq681
+CCUCCCGGCUUCUACAUAGCUGCUAUGUAGAUCACCGGGAGGACGCCCUGUGCGCGGAAUCCUGUCACCUACAGGAA
+((((((((..(((((((((...)))))))))...)))))))).(((.......)))...((((((.....)))))). (-36.60)
+>seq682
+AGUCACGGGUUUUGUCACGUAACCUUACGUGAAUGAACCCGUGACUACACCGAUCGGGACUCCACCACCCCGAAUCAGUCUUCGGGU
+((((((((((((..(((((((....)))))))..))))))))))))...(((((((((..........)))))........)))).. (-40.30)
+>seq683
+ACUUUCUUAGUCUUAGAGAGACUUAGAAAGUGUCCGCGCGGGCGAGGCCAUAUUCGCUAUAUGC
+(((((((.((((((...)))))).)))))))((((((....))).)))(((((.....))))). (-21.70)
+>seq684
+UAUACAACUGCCAUUCAGGAAUGGCAAUGAAUGUAUAUCGUCUUGAACCGGGAUUAGCCAUAAGGGAGGAUGGCUAA
+((((((..(((((((....))))))).....))))))..((((((...))))))(((((((........))))))). (-21.60)
+>seq685
+UGCCCUCACGUCCGUACACGGAAUGGAAGAGGGCAAACUGAGCUAGCGCACUGUUCACACCGUCAGAUCUCGACGGUGUA
+(((((((.((((((....))).)))...)))))))....((((.((....))))))((((((((.......)))))))). (-32.70)
+>seq686
+AUCCAUCUUGGGUGAUGUGCCUCGGCACAUCCUUCCAAGAUGGAUUUCAGAAGUGCUGGCCACAGAACGAUGUGAUUACCAUCGUUC
+((((((((((((.(((((((....)))))))..)))))))))))).((((.....)))).....((((((((.......)))))))) (-40.70)
+>seq687
+GAAGGCAUCCCAGACUGGUCUGUACCAGUCACAACGAUGCCUUCUCCGUCAUGAACUAGAUGCGAGGUCAUUACUUCGAAUGACC
+(((((((((...(((((((....))))))).....)))))))))((((((........)))).))(((((((......))))))) (-35.00)
+>seq688
+UACCCGGAGGAACGUUCUACGUUCCUCUCAAGGGUAACACGAAGUGCGGCUAGUGUAAACGGACAUUUGCCGUA
+(((((((((((((((...))))))))))...)))))........((((((.(((((......))))).)))))) (-33.30)
+>seq689
+UGGGGGAUGUCUUUAGAAAGACAACGCCCCCACGCGUCCAUCGUAAAGGGGGAUUCACCUAUCGCGGGUGAAUCC
+((((((.((((((....))))))...)))))).(((.....)))......((((((((((.....)))))))))) (-32.10)
+>seq690
+UACCCUACAAUAAUGCUUUAUGUGCACUAGGGUAAGCAUACCUAAUGACAAGGACUAAAGGAGUCU
+(((((((......(((.......))).))))))).................(((((.....))))) (-12.30)
+>seq691
+UGGCUGGACUAUACCGUAAGACGGACGGUUAGUCCAGCCACAUAAGCCCAUUGCCUGGGCCGGACUCCCCAUGGGGGGAGUCA
+(((((((((((.(((((.......)))))))))))))))).....(((((.....)))))..((((((((....)))))))). (-49.90)
+>seq692
+GAGACUCGAGCUGAGGCUGAAGCAGUCUCCGGGUUACAGACCUUCGUAUCCACCUUGACAAAAUGGUGUCAAGGUA
+..((((((....(((((((...)))))))))))))................(((((((((......))))))))). (-26.20)
+>seq693
+UCACUGAUGGAAAGGACGUUGUAAACGUCCACAGCUCCAUCAGUGAGUUCGCCCGCCGGCGCCUUGUGCUUUAGCGUGCCUAAAGCAC
+(((((((((((..(((((((...))))))).....)))))))))))...((((....))))....(((((((((.....))))))))) (-40.50)
+>seq694
+UGCGUGGAUAAAGUGGAUCACUUUAGUGCACGCAUACAAAGUCUGGCCUCCCACCUGAGGAGGC
+((((((.((((((((...)))))).)).))))))...........(((((((....).)))))) (-25.00)
+>seq695
+GAGUCGGUUCGUAUCUGGCUCCAGGCUGCGAACCGACUCACAUAAGUAAUAGGUCCUAGAGUUAGUAAAACU
+(((((((((((((((((....)))).)))))))))))))................................. (-27.10)
+>seq696
+UCCCGCACGUCUGCCUCCUUGGACUUCAGACGUGCGGGAUCCAGCCGGUCUAAGUGAGGGCGCGAUAAUCAGAAUCGCGCG
+(((((((((((((((.....))....))))))))))))).((.((........))..))(((((((.......))))))). (-38.60)
+>seq697
+AGAAGAGCUUCGGUUAAGCCCUUAACAAGAAGCUCUUCUGUGCUUGGACAGUACCUUCUACACGAAUGUG
+(((((((((((.(((((....)))))..)))))))))))(((((.....)))))......(((....))) (-23.80)
+>seq698
+CUUCAAAGGGCAAAGAAGUCUUUGCCACAUUUGAAGCAUGUUCAUCAGCUUGUGUCACGCUUUGUCAUGAAACAAAGCGU
+(((((((((((((((....))))))).).)))))))....................(((((((((......))))))))) (-26.90)
+>seq699
+UGCCAGGUGGCAAUGGUGCCAUUGCAGUACUGGCAGUCCGAUCGGGGCUCAUCAAAACGUAAAUUUUGU
+.(((((...((((((....))))))....)))))(((((.....)))))...(((((......))))). (-23.40)
+>seq700
+CCUAUUUUCACAGAGGAGCCUCUGUGGACUAUAGGCCACUAUAUGUAGGAGUGGUAGGCUGCCCAACGGCGGCAGCCA
+(((((.(((((((((....)))))))))..)))))(((((.........)))))..(((((((.......))))))). (-36.00)
+>seq701
+CAAUACAAUUGGCAAAUAGUAGUAUAACGUUCAAUUGUAUUGUACCUUAAGGGCAUUGCCAGUUCGCUAUCGACGUUAGCGAACG
+((((((((((((....((......))....)))))))))))).........(((...))).((((((((.......)))))))). (-24.20)
+>seq702
+AUCAUGGCGUUUUAGGUUGGUUCAAAAACCAACCCCUUAAACGCCAUGAUCGCGGUUCAUCCACAGACCUUCCUUGUACCCCUCAAGGAAGU
+((((((((((((..((((((((....))))))))....)))))))))))).(.((.....)).)....((((((((.......)))))))). (-39.20)
+>seq703
+CCAGUGAAAAAAGGACGAGCUUCCGCUCGUUCUGCAUUUUUUCACUGGCGGCCUGGAGCAGUCUGCCGAGAGGCCUAUCGGG
+((((((((((((((((((((....)))))))))....))))))))))).(((((...(((...)))....)))))....... (-37.50)
+>seq704
+CCGCUUACGUUUGCGAUUCAAAGCUUGAAAGGAAAAACGUAAGCGGUACUAUAAAUUAGUUACCAGCUGAAAGUGUUCG
+((((((((((((.(..(((((...)))))..)..)))))))))))).........((((((...))))))......... (-22.50)
+>seq705
+AGUAAUAAUACGAGAAAGUCUCGUGGGCGUUACUACUGUUCCAUACCAGCGGCGCAUCCAUUAUUCGCUUGAUAAUGGAU
+((((((..(((((((...)))))))...))))))..(((.((........)).)))(((((((((.....))))))))). (-22.70)
+>seq706
+ACCGGUUCUGGACCCUGACAGAACUCUGUCAGGAAGAAUCCAGAACCGGUUAUCUUAACGAACGGGGGACCUGUUCCAGGGAACAG
+((((((((((((.((((((((....)))))))).....))))))))))))..((((...(((((((...)))))))..)))).... (-42.20)
+>seq707
+ACAGCCUUUUACCACUCGGUAAACGUCUAGCUGUAGUCCAAGCGAAAAAGCUCCAUCAAGAACUUCCUUGAUGGAU
+((((((.((((((....)))))).)....)))))......(((......)))((((((((......)))))))).. (-23.90)
+>seq708
+UGCUCAUCGCUUGGGCCUGGUCGCCAGGCUUUCAAAGCGAUGAGCAUAGUACAUGCUACGCUGCAUGGGUGUGCUUAACACCCAUU
+((((((((((((((((((((...))))))))...))))))))))))......((((......))))((((((.....))))))... (-45.70)
+>seq709
+UCCGAAGGGUACUAUUCUCUAAUGAGAAUAGGACUGACCCUUCGGAUGCUUACAGAGACUAAGCGUAGUCGACUAACGCAGUCGACG
+.(((((((((.((((((((....)))))))).....)))))))))(((((((.......))))))).(((((((.....))))))). (-40.10)
+>seq710
+GUGGGAUACCACAAGCAGAGUAAUCUCUGCUCAGGUGUGGUAUCCCACGGUUACCAGUUAAAAACACAGGAGAGCCUGG
+((((((((((((((((((((....)))))))....)))))))))))))..................((((....)))). (-39.70)
+>seq711
+GGAUUUUUCAACGGUACCUUUACCGUCCAAAGAAAAAUCCCUGGGGGGCUCCGGGCCCUGUAGCAUCGGUAAACCGAUGCU
+(((((((((.((((((....)))))).....))))))))).((.((((((...)))))).))(((((((....))))))). (-36.20)
+>seq712
+CGUUGAUCUGAGACCAGGGGGUCGAGCAUAGAUCAACGCGCGUACUUCACGUGAGGUAUCAUAACUAACAUAUGAUAU
+((((((((((.((((....)))).....))))))))))(((((.....)))))..((((((((.......)))))))) (-24.90)
+>seq713
+CUCGUAGGUCUAGCGCGCGGGGCCGCGCAGUCAGACCUACGAGAGCUUGCGCGAAUCGUGUUGCAUGGAAUACUCUCCAUGG
+(((((((((((.(((((((....))))).)).))))))))))).....(((((...)))))..((((((......)))))). (-41.20)
+>seq714
+AUAAAUUCGGGACUAGGGGGCCCAUUACCCGAAUUUAUUCUACGCUCUGUCUACAGACCAAGUGAACUACUG
+(((((((((((....((....))....)))))))))))....((((..(((....)))..))))........ (-19.60)
+>seq715
+GUUACGGGUAGAUAUGGGAUAUGUCCCAUUGAUGAUACCCGUAACUUCAGCACAUGGUCUUGGCUUAAAGUAUUAACCAGUACUUUG
+((((((((((...((((((....))))))......))))))))))...(((.((......)))))(((((((((....))))))))) (-30.80)
+>seq716
+UAACACAGGUACCGCUGAUGUCAAUUUUACCUGUGUUAAGAUCGUGCAUAAUGCCUUAACAGCUAUGAAUGGCUGUUAAG
+(((((((((((....((....))....))))))))))).......(((...)))(((((((((((....))))))))))) (-27.60)
+>seq717
+GUUUGGCAGGAACUUCAUUGAAGUUUUGUUGCCAAACCUAACAAGAUUGGGGGAAUUUACGUUUUGUAGGACGUG
+((((((((((((((((...)))))))..)))))))))((.(((((((((((....)))).))))))).))..... (-21.30)
+>seq718
+AGGGUCCACAUACAUCUGUAUUCAGCCACAUAUGUGGACCCUCGUUCCAGAAACAUACACCCACUGUACGGUUUCAGC
+((((((((((((...(((....))).....)))))))))))).......(((((.((((.....))))..)))))... (-27.10)
+>seq719
+GCAUUCUAACGCUUUCCAAGCGCACCGGAAUGCAUAUUCUAUAUCUGAGUCUCACGCGAUUAUCAUCGAUCGCGUGA
+(((((((..(((((...)))))....)))))))..((((.......)))).((((((((((......)))))))))) (-27.40)
+>seq720
+CAGACACUCUCGUCUUUUGGGUGGCCAAAAGUCAGCGAGAGUGUCUGCGGUUCCAGACUUUUUUCUGUAAGUACUUCAUAAUGUACUUG
+((((((((((((((((((((....)))))))...)))))))))))))......((((......))))(((((((........))))))) (-38.90)
+>seq721
+CACGGUCGCGACAGUUGUAGUACUACAAGAUUCGCGACCGUGUUCUUAUACAGUUCUACCCGCUUUUUCGUUAAAGUGAAAAAA
+(((((((((((...(((((....)))))...)))))))))))..................((((((......))))))...... (-29.60)
+>seq722
+ACCACCGUGACCAGCGCGCUGGUAGGCGGUGGUUGUUGCACAAACGUCAAACGGCGAUUUAAGUCCAUCGCCGUC
+((((((((.(((((....)))))..)))))))).(((.....))).....((((((((........)))))))). (-32.60)
+>seq723
+CGGACUUUUUGUCGCAUGGCUGCGUUGUCGAAAAGUCCGCCGAGUCUAGCUCUGAUCGGUUUGGUAUUAACACUAAUACCAG
+.((((((((((.((.(((....))))).))))))))))(((((.((.......))))))).((((((((....)))))))). (-29.90)
+>seq724
+CCGCAGAACCUCAGGAUCUCCUCUCGUUCUGCGGAUGUCAAAUCGAAGAAUCAGUCAGGCCGAGAUCCCUGACUU
+(((((((((...(((....)))...)))))))))..................(((((((........))))))). (-28.00)
+>seq725
+AAUACGCCGCACGUGUGCACUCGUAUUAGGUCGACCGGAGUCUGUGAUAGGCAUGCGAAGCUGCCG
+.....((.((.(((((((.((.((..((((((.....)).))))..)))))))))))..)).)).. (-15.80)
+>seq726
+AAAGGACUGAUCUGGACCAGCCUAAAGUCCUUUGGUCUGAGCGAGCAUGAUCCUAAAUAUAUUUUAGGA
+((((((((.....((.....))...))))))))(.((.....)).)....(((((((.....))))))) (-17.60)
+>seq727
+CACCAGUGCCCGUACGUUACGGGGGACCUGGUGACGCCCAGCGCGUGGCCAGCACAGCAACCCCCAUUUGCUGG
+(((((((.((((((...)))))).)..))))))....((((((.((((...((...)).....)))).)))))) (-29.60)
+>seq728
+GCUUCACUUUGUUCUGACAAAUGAGGCGAAGCAAAAAGGUGUUAAAGCGCUUGUCGUUAAGAACGACAAGU
+(((((.(((((((......))))))).)))))................((((((((((...)))))))))) (-23.30)
+>seq729
+CAUACCUCAUUGUGACACACAAUAUGACGGUAUGACAGCUGGCCUUGGCAGUAUUUCAAGAUACAUGCAAUCUUGAG
+((((((((((((((...))))..)))).))))))...((((.(...).))))...(((((((.......))))))). (-22.30)
+>seq730
+ACCAAGGUUUUAAGGCAUGGAGGCAUGCCAUCUGAAAAACCUUGGUCACAUAGAUAAUCCACUCGCCAAGCAGCUGGCC
+(((((((((((..((((((....))))))......)))))))))))..................((((......)))). (-26.60)
+>seq731
+CUCUGGGUACUAGGAGUUAGAACUCCUUGGUUACCCAGAGCGUUGGACUAAGCUUCCUGUGGCGUUUGCUUCGACGCG
+.((((((((((((((((....))))).))).))))))))((((((((.(((((.((....)).))))).)))))))). (-35.30)
+>seq732
+UUGCAACAAUAUUUUACCAGUAAAAACUCAGUUGUUGCAACAAAUGCACUUAGGUCUGAAACCUGCUAAGCAGCAGGUUU
+((((((((((....................))))))))))..................(((((((((....))))))))) (-20.90)
+>seq733
+GAUCGGCGCGUUAGCCGGCUGAAACGCCGAUCUCCAUGUCCGAUGUAUCAUACGGGGGUGUUCAUUUAACACCCCG
+((((((((..((((....))))..))))))))........(((((...))).))((((((((.....)))))))). (-30.70)
+>seq734
+CUUCGCUGGUUAUAAGUACUUAUCUCUCCAGCGAAGGUGAGAAUUCCUGGACAUCGUGCUGGUGUCCGCACGA
+(((((((((..((((....))))....)))))))))(((........((((((((.....))))))))))).. (-25.70)
+>seq735
+CUGGUCUAAUGAUCAUAAAUUAUGAUUGCGGAGACCAGACGGCUGGUCCAUAUGACGAGGAAGACCUG
+(((((((...(((((((...)))))))....)))))))....((.(((.....))).))......... (-20.00)
+>seq736
+GAUCGCAGUAAGUCCGUCCGGACGGACUUUAUGUGCGAUCCUAUCGAGCAGAAUACCGUCCACGAACUUAUCGAUAGUUCGUGC
+(((((((..((((((((....))))))))....)))))))....................((((((((.......)))))))). (-31.60)
+>seq737
+AUCGCAAGUAAGCGUUCGGGAACGCUUGACAAUUGCGAUGUUGAUACAUUCGCCGGUGAAUUGAUAAGAAGCGCCGCUCUUAUCAU
+((((((((((((((((....))))))).))..)))))))........((((......))))((((((((.((...)))))))))). (-24.90)
+>seq738
+ACGAAGCCCAAAGGUUACAACCUUUGCGAAUUCGUAUAGGCUGGCCCUUCACUAAGACAUAAGGAUGUCUUC
+(((((..((((((((....))))))).)..)))))..(((.....))).....(((((((....))))))). (-19.20)
+>seq739
+AUCUGACACUUGUUGGUCAAGAACUGUCAGAUUAUGCCGGACACGUUCACUAAGAUAAGUAGUUCUUAUCC
+((((((((((((.....))))...)))))))).....((....))........((((((.....)))))). (-16.30)
+>seq740
+CUCCGGGGCAGCACUCUCGCAGAAUGCGAGAACGCUGCUGCCCCGGAGCCAGAUCUCCUGACUAACCGUGGCGUGCUGUCCACGGC
+(((((((((((((((((((((...)))))))..).))))))))))))).(((.....))).....(((((((.....).)))))). (-48.90)
+>seq741
+CUCCUGCGAGAGAUUACGGGGCCCGUAACAAUCCUCGCAGGAGGCUAACCUGCUUGGGACUGGUGGCGUUGAGCGCU
+((((((((((.((((((((...)))))...)))))))))))))(((((((((((.......))))).))).)))... (-34.70)
+>seq742
+UCGACUGUCUGCCGAAUAUUAGUUAAUACUCCGCAGACAGUCGAAUGGAGCUACCUCGUUGAUUCAUUGUCGAAUU
+((((((((((((.((.((((....)))).)).))))))))))))...(((....))).(((((.....)))))... (-27.30)
+>seq743
+UUAAAAAGAACGGGACCCCGUUAUAUUUAAAAGUGAAUUACACCUCGACGCCAGAUCAUUUCAAUGAUCUA
+(((((...(((((....)))))...)))))..(((.....))).........(((((((....))))))). (-13.20)
+>seq744
+CGGUCACAGCGAUGGCAGGACCCCUGCCAUCCGAGCUGUGACCGUAUGGACGUGCCGUUGCGAUAUUAAAAAUAUC
+(((((((((((((((((((...)))))))))...)))))))))).((((.....))))...((((((...)))))) (-36.90)
+>seq745
+UGAUGCAACUAUCUUAUCGUAGACGAUAAGGUCUAGUUGCAUCAGGCUCACGAAGAUUGUGGGUUAGUGAACUUUGCUAUUCACUAAG
+(((((((((((((((((((....)))))))))..)))))))))).((((((((...))))))))(((((((........))))))).. (-37.00)
+>seq746
+CUGAUUUUGCUCUUGAGUUCUAAAUCAGUCGGUCUGGUACUACUGUUACCGGCACAGUACCUGUGCCA
+(((((((.(((....)))...))))))).......(((((....).))))(((((((...))))))). (-20.10)
+>seq747
+CUCGGGCUCGUACUCUUGAAACAAGAGCGCUGCGAGCCCGAGCUAUGUCCGAUACCACCUGUCUAGCUAGACAG
+((((((((((((((((((...))))))...))))))))))))................((((((....)))))) (-34.10)
+>seq748
+UAACGAUCAGUCCGUAUCUACGCUGAUGAUCGUUAUUACCCAGGCGGUACAAGCGGGGUCACGUCAACUGACCCCGC
+(((((((((...(((....)))....))))))))).((((.....))))...(((((((((.......))))))))) (-31.00)
+>seq749
+GAGCCGCCUCCCAGGGAUACAUUCAUGUAUCCCCUCGAGGGAGGCGGCUCCAAGCACUUGGCUACAGCGAUGUUAUGAUAUUAACAUCC
+((((((((((((.((((((((....)))))))).....))))))))))))..(((.....))).....(((((((......))))))). (-46.60)
+>seq750
+CUAUCGCGGGAGGCCAACAAAGUGUUGGUCAUUUCCCGCGAUAGGUCUAAGGUCUAAAAGGCACCGGAUCCGAAUGCGAUCCGG
+(((((((((((((((((((...))))))))...))))))))))).......((((...)))).((((((((....).))))))) (-42.80)
+>seq751
+AGCUCACAUUGCCGGCAAUAGUGAGCUCCUUAGCUCGUACGUCUCAGAUACGGUCCGCAACGACCGUG
+(((((((((((....)))).))))))).....................(((((((......))))))) (-20.80)
+>seq752
+CACCAUUGUCCUGAACUAGUGGUACUAGUUUAAAGACAAUGGUGCGAAGAUAUCCUUAACUGACGUGUACAGUGUUGUACA
+((((((((((.(((((((((...)))))))))..)))))))))).....................((((((....)))))) (-27.50)
+>seq753
+UCUAAGGUCGUCUGAGAGACGCAAUCCUUAGAUCGCUGGAUGCUAUCAUCUUUUAGGAUGGAAAGA
+(((((((.(((((...)))))....)))))))..((.....))...(((((....)))))...... (-16.60)
+>seq754
+CCGCACCUAAUUCGGAAAUUCGUACCUGCGGUGACUUAAGGUCCAGUUAGCGUCUGAACGCUA
+(((((.......(((....)))....))))).((((...))))....((((((....)))))) (-13.40)
+>seq755
+AGUCGCGAUGUAUAUAGGAUAUAUAUUCGCGACUCUGCAACUGGCAGAGAAUGUUGCCUAACAU
+.((((((((((((((...))))))).)))))))(((((.....)))))..(((((....))))) (-21.80)
+>seq756
+AGGACUGAAAUAGUGCCGACUUAAAUAUUCAGUCCUUUGGUAAACCCGAACCGGCGCACCUUUGCGCU
+(((((((((..(((....)))......)))))))))..(((........)))((((((....)))))) (-21.60)
+>seq757
+CUUACUCUGGCGCGAGCUCUCACAGGAGUGAGAGGUUGUACGCCAGAGUAAGUGCCAUGUCGGGCCUGUCAGCGGCGCGUGCGCA
+(((((((((((((((.(((((((....))))))).)))..))))))))))))((((((((...(((.......)))))))).))) (-45.90)
+>seq758
+UGUGGUAAAACAUAUACGUGCUCGUAUAGUAGCGUUUUACCACAGGGUCGGGCUGACGGGGAGUGGCCUCAGCCACA
+(((((((((((.((((((....)))))).....)))))))))))......((((((.((.......))))))))... (-30.10)
+>seq759
+UGUCCCGAACAACCUCGGUACGAGGCGAGAUCGGGACAUUGCACUUAGCCGAACUAGUAUCACAAUAAACUGUGAC
+((((((((....(((((...))))).....)))))))).....................(((((......))))). (-23.30)
+>seq760
+GUUCUAAUCUGCGGCCCAACAUUGGGCCGGUGUUUAGAACCCCGAGACCGUCUCUUAUUACUAAUAGCGAGAUCUAUUAGUAG
+(((((((....(((((((....)))))))....)))))))...((((...))))....(((((((((......))))))))). (-32.20)
+>seq761
+CUCAAAGAGCCAUCGAUUAUCGGUGGCCUCUUUGAGCCUACGUUCGGUUGAUCCUCAUCAAUUCUGCCUUGG
+((((((((((((((((...))))))).)))))))))((...((..(((((((....)))))))..))...)) (-26.90)
+>seq762
+CUGCAUACCUCGCGUCAAGCUUGCACCCAAGCUUGAAAACAGAGGUAUGCAGCUUACAGGCUAGAGUCAAUGUGGGUACAUG
+(((((((((((...(((((((((....))))))))).....)))))))))))(((((((((....)))..))))))...... (-36.30)
+>seq763
+UCUAUGCCGAACGGAUCAAGAUCCGUCGGACAUAGACUUAUUCAAGAUGUCUCGCAUCGUCUGGCCGCGAUGU
+((((((((((.(((((....))))))))).)))))).................(((((((......))))))) (-26.40)
+>seq764
+GCCUACGGCAAUGAGCCCUCUCCCUGCCGUAGGCGUGCUGAUCUAGUUCUCUCCCUCGUAGGCGUACGA
+((((((((((..(((....)))..))))))))))(.((((...)))).)......(((((....))))) (-26.50)
+>seq765
+GGGGACUGGCCGAGUCUCGCUGCCAGUCCCCCAACAGUUCGUAGUGGGACUGCCGCACAUAGCACAUGUGCGGU
+(((((((((((((...)))..))))))))))...((((((......))))))((((((((.....)))))))). (-41.90)
+>seq766
+ACGCACGGGUACAAGGCUACACUCGUGUAGCUCCUGUACCCGUGCGUGGUAGCUAGCCUUAGUUUUGAUUGUGCACACCCCACAG
+(((((((((((((.(((((((....)))))))..)))))))))))))(((.....)))...........((((.......)))). (-36.70)
+>seq767
+GCACGUUCCGAAACCCCUUGGGGGGUUACCAUCGGAACGUGCGUGCUGAACGCUCGAGGUCCAAUAUAGUUGG
+(((((((((((((((((....))))))....)))))))))))(((.....))).......(((((...))))) (-31.80)
+>seq768
+UGACAAACCGUAAGGAAAAACUUUUCAGUACGGUUUGUCACUAGCGUGUCUUGCCCCAAGCUUCGAUGACAGAUUCAUCGAAG
+((((((((((((..((((....))))..))))))))))))...(((.....)))......(((((((((.....))))))))) (-32.20)
+>seq769
+GUUGACAGUUCAGUGCAAGCAAUCUUGCACUACCGGAACUGUCAACACAAGCCCAUUGUACCAUCGUAAGCCAACGAA
+(((((((((((((((((((....))))))))....)))))))))))((((.....))))....((((......)))). (-30.30)
+>seq770
+AACAUGCUUACCACAGACCUGUGCCAAGCAUGUUCUGUGUUUAGCAGGUUAAUACUGUCGCAGCAGUAG
+(((((((((..((((....))))..)))))))))((((.....)))).....((((((....)))))). (-22.30)
+>seq771
+AGACGCGUCCAGCAUGCUCCGCCGCGUCUGGAAGGACUUUAGUCGAACGACCGGCCCUUCCGGGCCGGG
+.......(((((.((((......)))))))))..(((....)))......(((((((....))))))). (-29.00)
+>seq772
+UCCUAACUGAAUACCAGACGACUCGGUCGUCUGAUUGGUUCAGUUAGGACCCCCGUGAGGGAAUUUUACACAACUCGUUUAGUUGU
+((((((((((((..((((((((...))))))))....))))))))))))..(((....)))........((((((.....)))))) (-36.80)
+>seq773
+UGACGUGUAGCCAUCUCAUGACUUUUACACGUCAACCACAGGAUGCUGGGAUUUGGUGGCUCCCAAAC
+((((((((((...((....))...)))))))))).((.(((....))))).(((((......))))). (-20.90)
+>seq774
+CGUUAGAUUCAAUAGAUUGAAUGGUUAACGUCGCAGAUCGCCUGACUCUACGUUGGACAGUAACGUG
+((((((((((((....))))))..))))))...(((.....)))....(((((((.....))))))) (-12.10)
+>seq775
+CCGGUAGUGUCAUCCCGGGGGAAAGAACUACCGGGGAAUUGAGUUCUAGUCAUCGCGUCUAGCGAUC
+((((((((....(((....)))....))))))))(((((...)))))....(((((.....))))). (-24.00)
+>seq776
+CCUAACAGUACUUCUGAUAAGAAGUAUGAAAUUAGGCACGAGAUACGGUUGUGUUAUACACAUAAU
+(((((..((((((((....))))))))....)))))...........(((((((.....))))))) (-16.00)
+>seq777
+GGGUGCUAACCUCUAGGUGUUGCACCCUUCACUGGAUGUACAAUCGUGAGUAGGUAUACUCACGG
+((((((..(((....)))...)))))).................((((((((....)))))))). (-26.30)
+>seq778
+UUGCACAAAGUUCGGAACGUUUAUGUGCAACAUAGGUACGCUGGCGUCGGUCCAUUCGACUAAUGGAU
+(((((((.....((...))....)))))))(((.(((.((.((((....).)))..))))).)))... (-13.70)
+>seq779
+UAAGCUGAAAGAACCUUUCUUUUUUCAGCUUAGUGAAAUUCUCCGGUGGGUGGUUAACACGCUAACCC
+(((((((((((((......)))))))))))))............(((.((((.......)))).))). (-21.20)
+>seq780
+CCUGUGUGAUAGGGAAGACUCCCAAAACAUCACACAGGCCCCCGUCCGGGCCCUCAAAGGUGUCUAUAUUCACCG
+..((((((((.((((....)))).....))))))))(((((......)))))......((((........)))). (-28.60)
+>seq781
+GAGUUGGAAACAAUCGAAUUGUAAGUUCCAACUCCAAAGGGGCACUUUGACAUUAGGCAACGAACUUGUUGCCUG
+((((((((((((((...)))))...)))))))))(((((.....)))))....(((((((((....))))))))) (-28.60)
+>seq782
+CCCACACCCGUGUCUUCACCGCGGUGUGUGGGCUCUGGGCGAGGCGUCUGGUAUCAGUUCCUCACUGAU
+((((((((((((.......))))).)))))))..(((((((...))))))).((((((.....)))))) (-29.30)
+>seq783
+GAAUCAGUGGUGACAGUCUUAGUAUUAAGACUGGACAUCACCACUGAUUCGUGAGCUCAUCGCUCCCUGUGGGAGGAGUAGUCCG
+(((((((((((((((((((((....))))))))....)))))))))))))..(.(((..((.(((((...)))))))..))).). (-41.60)
+>seq784
+UCCGCUGCAGGGAGCUUCAGUUCCACUGAAUUCAACCUGCAGCGGAGUAGGGCCACUAUUGGGUCCAUAGACAACUAG
+((((((((((((((.((((((...)))))))))..)))))))))))...(((((.(....))))))............ (-36.60)
+>seq785
+UAGGCUAACGGCAAAUGCCGAGAGGCCUAGGGUUUGAACAAGGCAGCUAUACCGCUAGAUUGAGCGGUAC
+((((((..((((....))))...))))))..((((.....)))).....(((((((......))))))). (-24.90)
+>seq786
+GGAAGCUAACAAUAUGUAUAGUAGUAGCUUCCGCGGGCCCGCCUGACCAACGUGAUACUUGUUUAGUCUCAAGUAUCU
+((((((((....((....))....)))))))).((((....))))........((((((((........)))))))). (-24.10)
+>seq787
+GGAAGGAACAAUACGAAUUCGUAUUCGCAAUCCUUCCUCUCCGUGCGACCGCAGCCAUCAACGAAUGGCUAUCGUUGAUU
+(((((((.(((((((....)))))).)...)))))))........((((...((((((......))))))...))))... (-25.00)
+>seq788
+UAUUGGGGUUGUAGCCCGAGUCGGGCUAAGUACCCCAAUACACGUAUUUAACCGGACUGCGGCCCGCAUGGUGGGCCC
+(((((((((..(((((((...)))))))...)))))))))....................(((((((...))))))). (-37.10)
+>seq789
+GCCCUACAUUAGGGAUACCCAGACUUGUAGGGCCGUGCCAGUCAUGAGGGACCAGCACGAAGGUGCUGG
+((((((((...(((...))).....)))))))).((.((........)).))((((((....)))))). (-30.30)
+>seq790
+AUGAUUCGUCUUGAAAGACGAAAAUCAUACCCACUUCGGUUCCCUCCGACGUGACCGGU
+(((((((((((....))))))..)))))((((((.((((......)))).)))...))) (-18.60)
+>seq791
+GUGUACUCCCAAGAAUUCGUCCGAAUUCUGGAGAGUACACGUGCAAGCUGUGUUUGUUGUCCGACAACUGGGAUUGUCG
+(((((((((((.((((((....))))))))).))))))))..((((((...))))))....((((((......)))))) (-31.20)
+>seq792
+UAACGUGUUUAAAGUACUGCCAUCAGUACACAGGUUAAACACGUUACCGCACGUAGCUUCACUGGAUGAAACGUCAUCCG
+((((((((((((.((((((....)))))).....))))))))))))..((.....))......((((((....)))))). (-25.10)
+>seq793
+UUGCCACGCAACCUCCCGUCGGGGAUAGAUAGCGUGGCAAAGGAGGUCAUCAAAUGAGCGUUUACAAUAAACA
+(((((((((....((((....))))......)))))))))....(.((((...)))).)(((((...))))). (-24.90)
+>seq794
+AACGAAGCCCCCUGUCUAAACAGCGGCUUCUUCGUUCCAUUAAAGAUAUGUUUCACCUGUGACAUGCACAU
+...((((((..((((....)))).))))))..............(.((((((........))))))).... (-15.50)
+>seq795
+GGGUAGAUAUCUGAUGGUAUCCAUCAGGCCAACUACCCAACGAACCUGUCCGUCUUGUCGUAGGGAGGGUACCUACGG
+((((((...((((((((...))))))))....)))))).(((........))).....((((((.......)))))). (-29.80)
+>seq796
+GGGAUUAUGUGACUCGAAGUCACGUUUAAUCCCAUUCGUCCUGACGCCCUUUAUCCCUUUCGGGU
+((((((((((((((...))))))))..))))))............((((............)))) (-20.40)
+>seq797
+AUGAACUAGUCCUCUUUCAGGAAAGAGAUCUAGUUCAUAGUACCAGUUAAAUGCUGGCCGGCAAUAGAGAGGUAUUGCCC
+(((((((((..((((((....))))))..)))))))))....(((((.....)))))..(((((((......))))))). (-32.40)
+>seq798
+GUAAGUCGGCACUGGCUGGCGCGCCAGCCACCUGCCGACUUACGGCCUGCACGGGCCCUUCCUUGCACGGCCCUGCG
+(((((((((((.(((((((....)))))))..)))))))))))((((((((.((......)).)))).))))..... (-47.30)
+>seq799
+ACCGAACAACCACUGGGGUCCACGACCCCAUGACCGGUUGUUCGGUUUCGCUGGUCGCCCACAUGGACCGUAGCGGGGGUCCAC
+(((((((((((.((((((((...))))))).)...))))))))))).....(((....)))..((((((........)))))). (-40.00)
+>seq800
+AGCACGUUACUAUAGGAUAGAAUCCUAUACUCUACGUGCUAUCGCCGGGUGCGCUUCAUUAUACGAAUAAA
+(((((((...((((((((...))))))))....))))))).(((...((((.....))))...)))..... (-19.80)
+>seq801
+UGACCGAUAUCCGUUUGUCCAAAGUAGGAUAUCGGUCAUCUUUGCAGAAGAGAGGAAUUCGUCAAGGCCGACGAAA
+((((((((((((..............))))))))))))(((((.....)))))....((((((......)))))). (-28.70)
+>seq802
+ACCUUUGGAUACAGAAACUGCCCCCCCAAAGGUCAGCAUGUAGCUACAUUCACUCGGUGCGGGCGCACCGC
+((((((((...(((...))).....)))))))).(((.....))).........((((((....)))))). (-21.10)
+>seq803
+UCGUAGGGGCUUCCGGAACAUUUGUUCCGGCCGUGCCCCUACGAACAUACAUGAUGGAGUUGCUUAUCCCAGAUGGGAUAAGCA
+((((((((((..(((((((....)))))))....))))))))))................((((((((((....)))))))))) (-47.30)
+>seq804
+GAGGCUAAGGCCUGACGUUGGACGUAAGUGGGCCUUAGCCUCCCGAUACGUAAUGGACAUCCUCAACCAGGA
+((((((((((((((((((...))))...))))))))))))))(((........)))...((((.....)))) (-29.40)
+>seq805
+CUAAUACGGUUUUCCUUCGAUAUCGAAGGGUUUCCGUAUUAGCCCAGUUCAGCUUUGUAGGUGCAAUUCCAUUAGAAUUC
+(((((((((...(((((((....)))))))...)))))))))...((((((.((....)).)).))))............ (-24.50)
+>seq806
+CCCAUUAUAACUAACGGGCGGUACCCCGCCCUCACCCAGUUAUAAUGGGUCAAGCGUGUCUAGUGUGACCAGUUUCUGGUC
+((((((((((((...((((((....))))))......)))))))))))).................((((((...)))))) (-33.10)
+>seq807
+GUUAUGCAACCAGGUAGAUGCCAUCACUAGUGGUUGCAUAACGCUACCGGAUACAUUGACCGAGAUAAUUUCGUAAAAUUAUCA
+(((((((((((((((.(((...))))))..)))))))))))).....(((.........))).((((((((....)))))))). (-26.30)
+>seq808
+GUUUGGUCGCCCUCUAGAGGACUAGAGGAGUCUGGACCAAACCCGCUGCAGGCUCACAGUCUCACCCAGGUGAC
+(((((((((((((((((....))))))).))...))))))))..((((........)))).((((....)))). (-27.80)
+>seq809
+GCACUCGAAAACCUGCUGGUUUUAAUUCAGUGCUCACACUUGGUGUUUUUGUCCAAGUGGAUCACCUUGGACC
+(((((..((((((....)))))).....)))))..((((...))))....(((((((.(.....)))))))). (-22.50)
+>seq810
+GCUUAAUGGAAGACCCCAGGUCUUCGAUAGUAAGCUAAACUCGCUUUAUUCGGGGUGAGAGUCGCAACUCUCACU
+(((((((.(((((((...))))))).))..)))))....((((.......))))((((((((....)))))))). (-28.70)
+>seq811
+AUCCGUUUCCACGUACCGGUACGUGUAAAACGGAUAUGAAUCGAGUUGGACUUUAGGGUAUUCGGAGUCCCGAAUACC
+((((((((.((((((....))))))..)))))))).((((((......)).)))).(((((((((....))))))))) (-28.10)
+>seq812
+GCCGAAGCGUUCAAACUUGACCACUUCGGCCUUGAAUUACAGCGCCGUGCAGUUACGUUCUUAGUCGUAACUGU
+(((((((.(.(((....))).).)))))))..................(((((((((........))))))))) (-25.40)
+>seq813
+GCGAAAGCCUGAUUAUACAGUAUAAAAUUAAGGCUUUCGCAAACGAAUUGCGUGCCCCGCAAAAGCGAGAAAUUCGCUUUUA
+((((((((((((((...........)))).))))))))))........((((.....))))(((((((.....))))))).. (-27.80)
+>seq814
+UGAGUUACAGGCACGUCAACUAUGACGUGCCGACUUGUAACUCAUUGAGAGCGUCCGCCCUGUCGCAAUGUUAGGCAUUGCGC
+((((((((((((((((((....)))))))))....)))))))))...((.((....)).))..((((((((...)))))))). (-37.00)
+>seq815
+ACAAGCUCCCCGUAUCGUGUUAACGAACGUAUCGGGGAGCUUGUUGAUUAUGUAAAGUCGAAGCCUUCUUGUAUUAAUCGACAAGAG
+.(((((((((((...(((........)))...)))))))))))((((((......)))))).....((((((........)))))). (-33.90)
+>seq816
+CGCAGCGCCGCUCGCACCCGAGUUGUACGCGCUGCGAAACCCGGAGUCACUCUGCCGCCCAAGGAUGGGCGGCC
+((((((((.(((((....))))).....))))))))......((((...))))((((((((....)))))))). (-37.90)
+>seq817
+CUCCUAUAGCACUGAGAGUGUAGCGUAGGAGAGUCAUACAGUGUCUUUGCUCGCUGCUACGCAGA
+...........(((.....((((((.((.((((.(((...))).)))).))))))))....))). (-19.40)
+>seq818
+UCGGGGUCAGCUCCUCUCAUGAGAGGCGUGCUGACCCCGAUCACGGGCUGUAAGCAACGUGCUCUUCACAGCAU
+(((((((((((.(((((....)))))...)))))))))))......(((((.((((...))))....))))).. (-36.90)
+>seq819
+UAAUUCAGGUUAGAACGGUGUUAUUAACACCGGUGAGAACCUGAAUUAACAGUUACAUACUUCAGAGCAUCCCUUGUGGGAUG
+(((((((((((....(((((((...))))))).....)))))))))))...................((((((....)))))) (-31.70)
+>seq820
+ACAACCAAUGAGCAGCGCUGGCGCUUGCACAUUGGUUGUGUUUAUCUCAAUUAGGUUAUCCCGCAAAGUAUGUUUGCGGG
+((((((((((.((((((....))).))).))))))))))....................((((((((.....)))))))) (-33.10)
+>seq821
+AGUUUCCCAUUACGAAGGCUUCGCUUGCAUGGGAAACUCCGUUCCAGCAAACGCGUUGCCGUAGAAGCCGUCUACU
+................(((..(((((((.(((((.......)))))))))..)))..)))(((((.....))))). (-22.40)
+>seq822
+CAAAUCACUCCUGCGAUCGGAUCGCAUGUGAAGUGAUUUGCCGAGACCUUCUGUGGUAUUACGCAGCAUCGCGUAAUC
+(((((((((((((((((...)))))).).).))))))))).....(((......)))(((((((......))))))). (-26.30)
+>seq823
+GUUCUACACUAGGGUGUCUACACCUAAGAGUGUAGAACUGAGGUACACUAAGUGCCCUCAGAGGAGGG
+((((((((((.(((((....)))))...))))))))))((((((((.....))).)))))........ (-28.30)
+>seq824
+UUUCUGUACUUGAUGAAAAUUCACCAAAAAAGUACAGAAACAUUAGCACUUAAAGGCGUAUUUAGUAAGUCAAAUAG
+((((((((((((.(((....))).))....))))))))))..............(((...........)))...... (-13.10)
+>seq825
+GGAUAGGUAACCGUUUAAUACCUUAAACGGUCAGCCCUAUCCUAGUUCACGCAACUUUAACGGCACCAUUUGGUU
+(((((((..(((((((((....)))))))))....)))))))......................(((....))). (-21.10)
+>seq826
+ACGGGCUCACCGACUCACUGAGUCGUAGAAGCCCGUCGGCCUAGUGCGGUCCCACGAGAUGCUACCGCAUCC
+((((((((..((((((...))))))..).))))))).((((......))))......(((((....))))). (-30.10)
+>seq827
+GCUGCCGUACUCAAAAAGUAUAAUUACUUUUUUCCCUCGUACGGCAGCAAGUUUACAUAAUUCCUUUUACUGCCACCGGCAGUU
+((((((((((..((((((((....))))))))......))))))))))....................((((((...)))))). (-31.20)
+>seq828
+UAUCAGAUGUAGCUAAUCGAUUAGAUCACAUCUGAUAGUAUAUUUAAUGUUGGCUUGCGAUCUGCCCGAUCGCC
+((((((((((.(((((....)))).).))))))))))...................((((((.....)))))). (-20.90)
+>seq829
+ACCAUCGGGCCCCAAUGAUUGGAUCAAUCAUUGGGCGGGCCCGAUGGUAGAUACCUGAUGAAUAGCGGUCGUUCCGUACGU
+(((((((((((((((((((((...)))))))))...))))))))))))................((((.....)))).... (-39.00)
+>seq830
+GCUGCGUAACGCUAAGGACUUUCCUUAGUGACAACGCAGCUUGUCGAGUACAAACAACGGUAUCUGUUCACCGU
+(((((((..(((((((((...)))))))))...)))))))................(((((........))))) (-28.30)
+>seq831
+UCAUUCCCUGAAGUGUGGACAACCACACUUAACCGCGAAUGAACUUAGAUGAAUACCACCGAAAGCAAAAUAACAUUUUGCUUUC
+(((((((...((((((((....))))))))....).))))))..................(((((((((((...))))))))))) (-26.50)
+>seq832
+UGACGAACUGCGCAGUUGUCAGGAAUCUGACAACCAAUCCGCAGUUCGUCAUUUCAGUUAGACGGCGACUGAGCACAAAGACCGGUUGUGCA
+((((((((((((..((((((((....)))))))).....))))))))))))..((((((.......))))))((((((.......)))))). (-42.10)
+>seq833
+AUUCUGAUCUCACCCCAUCGAGAUGGGAAGCAGAUCAGAAUGCCGGCAGGCCCAGCAGCAAUACACCAGGUAG
+(((((((((((..(((((....)))))..).))))))))))(((....)))...................... (-23.00)
+>seq834
+GGGUAGCGUGCAGAGAAGAUGCUUCUCUGGCGAACUACCCGAGGAGGUCAUCUAUCAUAUCGUCAUUUACGAUG
+(((((((((.((((((((...)))))))))))..))))))(((((.....))).)).((((((.....)))))) (-26.30)
+>seq835
+AAGGGUGUCGAGGUUAAAGUAACGGGAGCGACACCCUUCGAAGAUCGUUAGCCUUUGAUAUUAUAUUUAAUAUU
+((((((((((..((((...)))).....))))))))))(((((.........)))))((((((....)))))). (-20.70)
+>seq836
+GCACUAGAGUAGGCCCCUAACCAGGCUAGUGCAAUUCGAGAAAUGCGGCGCUCUAUCAUGUAGAC
+(((((((....((.......))...)))))))...................(((((...))))). (-12.90)
+>seq837
+CUCAUCCUAAUCCGUAUUUUAAAUAGGAGAUUAGGAUGAGCCUAGUCCUUACAGUCGCCGGUAGCGGCGCAGCGCUACCU
+(((((((((((((.((((...)))).).))))))))))))...................(((((((......))))))). (-32.80)
+>seq838
+GGACAGAGCGCAUCUCUCGAGAUAACCUGCUCUGUCCCGCAUGACCAAUUAUUCUCAGGAAUGUCUCCUGC
+((((((((((.((((....))))....))))))))))..................(((((.....))))). (-22.40)
+>seq839
+UCGUACUGCAUAAAGUACCACUUACAGAUGCAGUACGAAAAGUUCCACACCUCUUCCAGUAUGAUCGGCCGUAUCAUA
+(((((((((((...(((.....)))..))))))))))).....................(((((((....).)))))) (-19.00)
+>seq840
+GGUACAAUCUAGGGCUCUGAGGGGUCAGAGCCAUUAGUAUUGUACCAUACCGAUCGGGGUACUAAAUAGGAGAAAACCUCCUAUUU
+((((((((((((((((((((....)))))))).)))).)))))))).((((......))))..(((((((((.....))))))))) (-42.50)
+>seq841
+AGCGUAGGAACCUUUUGAAAAAGGUCGGACUACGCUUGAGCUAGACUCCUUUGUCGAUGAGACUAGAAGGUCUCAUCU
+(((((((..((((((....))))))....))))))).......(((......)))(((((((((....))))))))). (-30.00)
+>seq842
+GAAUAGUUUACAACGGGGCUUUGAAGCCCCUUUCGUAAACUAUUCUUCAAGGUCUGUCAACUCAGUGCAACAACUGG
+(((((((((((((.((((((....)))))).)).))))))))))).................((((......)))). (-28.50)
+>seq843
+ACCCAGCAGUGGUGGAGAGGUCCACCGUAUUAGCUGGGUAAGACCAGAUCAUGCUGGAAGUAUUUCUUACUG
+((((((((((((((((....))))))..))).)))))))....((((......)))).((((.....)))). (-28.60)
+>seq844
+UAGACAGGGUGUACAACACUAUGGUCUAGACUAUGUGAGUCUACGAUGGCCGGCUGCACGGCCGGCCA
+....((.(((((...))))).))(((((((((.....)))))).)))((((((((....)))))))). (-29.20)
+>seq845
+UCAUAGGUUCGACAUCACUCGUUCAUGAACGAGUUACGUCGAACCUAUGACCGGGGGCACCAAAGCAAAAUUCGAUUAACGAAUUUA
+(((((((((((((...(((((((....)))))))...)))))))))))))...((....))......(((((((.....))))))). (-35.00)
+>seq846
+AUUACUUAAGGAGCCUUGGGGGUAAUAGACUCGGGAAGCUCGGUGUUAGAGGACCUUACGUCCUCUAU
+..........((((((((((.........))))))..)))).....((((((((.....)))))))). (-21.90)
+>seq847
+UCCAUUUACCAAGGGCUUGGAGUAAUGGAAGGGAGGUCCCAAGAGUCACUCCAGUUCGGUUUGGAGU
+((((...(((..(((((.(((((.((....(((....)))....)).))))))))))))).)))).. (-22.00)
+>seq848
+AGGAGAAUUUACUAUCAAGUUGAUACACAGAUUCUCCUCCCUAAUUAAGAGACACGGCUCUAGUAUCUAGAGCCA
+((((((((((..(((((...)))))...)))))))))).................((((((((...)))))))). (-25.60)
+>seq849
+AAAGUUAUUGAAAUCAGCGCGUUUCCGCGCAUUGUAUUCAAUAACUUUAUGUUGAAUACUCACAAUUAAGCUCUCUGUCUUC
+((((((((((((..(((((((....)))))..))..)))))))))))).(((.((....))))).................. (-20.20)
+>seq850
+CAGCCCUGCAAAGAGCAAAGCUCUUUGCGGCUGGGCUGGUGAAUCUGUCUGUGGCUCGCUCGAGUUGUCGAGCC
+((((((((((((((((...))))))))))...))))))...................((((((....)))))). (-34.40)
+>seq851
+CGACUAUAAGAUCUCUUGCGAGUUCGCAAGCGUCAUUCUUAUAGUCGUUCAGUUCGUGGUCACUUGCGAGAGAAGGCGUAUCUCUCGG
+(((((((((((...((((((....))))))......)))))))))))...................(((((((.......))))))). (-30.80)
+>seq852
+GCGAUGCGAUGUCUAAGGUUAGGGGAGACGCAUCGCGUCAAUCUACUUUGAGCUUGAUUGAAAGUCUUAGCGCGACUUUCAC
+((((((((.(.(((.........))).)))))))))(((((.((......)).)))))((((((((.......)))))))). (-28.20)
+>seq853
+GCCCCCAGACACCAGCUUCCAGUGUGGAAGCUAUAACGUCUGGGGGCAAGUGGGGCACACUAGUCGAAUACAGCAUGUAUUCU
+((((((((((...((((((((...)))))))).....)))))))))).((((.....))))....(((((((...))))))). (-42.50)
+>seq854
+GAAAAGUAGGGGGGACUCGGUCCCGAGUUCCUAUCCUACUUUUCCAGGGGCACACCUCAAAUAGUUUAUGGUCACUC
+(((((((((((((((((((....)))))))))..))))))))))..((((....))))................... (-30.70)
+>seq855
+GGCAAACAGCGAUGGCCUGCCAUCCUUAUGUUUGCCUAUGGGGCUCAGACCAUCAUCUUGAGCAGUUAAUCAAGAUGG
+((((((((..(((((....)))))....)))))))).((((........))))((((((((........)))))))). (-31.40)
+>seq856
+UCCUGCUCAUAGGCAAGUAAAGACUUGCCGGACUAGAGCAGGAAUCUAAAGUGUACUUUUCCUCAGCUGCAUGAACCGCCAUGCAGCC
+((((((((...(((((((....)))))))......))))))))......................((((((((......)))))))). (-37.20)
+>seq857
+CAUGACCGCGACUAAGACCUUAGUCGCAAUUCAUGAUUCCAUUUGGGUGUCGUAAUGCCAUAGAAAGUGGCAUUU
+.......((((((((....)))))))).....(((((.((.....)).)))))((((((((.....)))))))). (-25.40)
+>seq858
+CUGUGCAUUUUCGCGCAAUCGCCAGCGAAAAUGCACAGGCUCUAUACGAUAAACCCGAGGGAUUGCCUC
+((((((((((((((((....))..))))))))))))))..................((((.....)))) (-28.40)
+>seq859
+GUAGUAAAGCGCCUCUAGCAGAGGCGUAAUGACUACGUUAAGAUCUAGUUGUUCCGAAAUUCUUCGGG
+(((((...((((((((...))))))))....))))).................(((((....))))). (-23.90)
+>seq860
+UUCGGUUGGCCCGCGUCAACAGAGCUGUUGACGGUUGGCCAACCGAAUUCACACGUUGAGCAUGCAUCCCACCGGGCGCGCCCGGUGGC
+(((((((((((..((((((((....))))))))...))))))))))).....................((((((((....)))))))). (-47.70)
+>seq861
+ACAACGUUGAGACUGUCUACAGCACGUUGUAUAAAGGUCGUUCUUGGGAUUAGGAGGCCGCUCCA
+(((((((...(.(((....))))))))))).....((((........)))).((((....)))). (-15.40)
+>seq862
+CGCCCAAGGAAUUGGCGGUUACGAGGUAACCGCGCAGAUCCUUGGGCGACGUACCUGACUUCGGUUUGGGACGUCCCCUUUGGGACGUCU
+((((((((((.(((((((((((...)))))))).))).)))))))))).....((.(((....))).))((((((((....)))))))). (-52.90)
+>seq863
+GGUUAAGAAUACUCCUACGGUCCACCGUACUAGUAUUCUUAACCUUGUGUACUACAUUCUGUGGAUCGGGACCGAA
+(((((((((((((..(((((....)))))..)))))))))))))((.((..(((((...)))))..)).))..... (-28.30)
+>seq864
+AAGGGCACACCCGGUCGGGUGGCACCCUUGAUACCGGUUACUAGACUCGGUCACGGCACGCGUGACCG
+(((((..(((((....)))))...)))))......((((....))))((((((((.....)))))))) (-29.40)
+>seq865
+CCGAUUUGGUUCGCUCGAACCUUCAUCGGUAACUGCACGAGGGCCAUUUCACCCUGCAGUGAAG
+(((((..(((((....)))))...)))))..((((((...(((........))))))))).... (-22.50)
+>seq866
+GACAGCAGCCACUUAGCAUUCUAAAAUGCGGGUUCGUGGCUGCUGUCGUGCAUACAUUGCAAGAAGGAUAAUGAUCCG
+((((((((((((...(((((....)))))......)))))))))))).((((.....))))....((((....)))). (-34.50)
+>seq867
+CUGCGAGAUCGCUACUAGCUUACUUCGCAGACGGAAUUACCCCCAGAUUAAGAGCGUUUGCUAGAACGCUCUUG
+(((((((...(((...)))....)))))))..((........))....(((((((((((....))))))))))) (-24.80)
+>seq868
+AGCGAUCUUGAAGAGACUUUCUCUUCACGCCAUCGCUAAAGGUUAAGCCCGUAAUUAUCAUAGAGGGCUAUGAU
+(((((((.((((((((...)))))))).)..))))))....(((((((((..............))))).)))) (-23.80)
+>seq869
+ACAACACUAACCAGCCCGGAGAUCCGGGAAUGGUUAGUGUUGUACGUAUGUCACGUAAUACCUCCAACAAGUGGAGGU
+(((((((((((((.(((((....)))))..)))))))))))))((((.....))))...(((((((.....))))))) (-41.50)
+>seq870
+UGAAUUUCCGGAUCCCGGCUACAAUUCACGCAAUUGAUUUCGGUCAGAUACUGGCAUUGAUCGCCAGC
+((((((.((((...))))....)))))).((...(((((...(((((...)))))...)))))...)) (-15.20)
+>seq871
+UACUCAGAUUAAUAGACUUAUUAAUUCAUCCGAGUAGCGUGGUCGACUCGCAGAUCGAAAAGUAUCGG
+......((((((((....))))))))...((((......(((((........))))).......)))) (-11.70)
+>seq872
+AUUGUUUGUAAUCUAUUCUGGUUCAGAAUAGCUACUUACAAACAAUCAUAUCCACUACAGGCACCUCGACUUAGGC
+(((((((((((.((((((((...))))))))....))))))))))).................(((......))). (-17.40)
+>seq873
+CACUGAAACACGUUAGGAACGUAUCAGUUCAGUGGUAUGGUGCUCAGUGUGUGAUAAAACUUUGGACAGUUUUAG
+((((((..(((........(((((((......)))))))))).)))))).....(((((((......))))))). (-16.20)
+>seq874
+CAGGGUGCCAGAACCUCGUUCUUUCUACACCCUGUGGCCUGGUGCACCUGACGUAACCCCUUAU
+(((((((((((..((....................)).))))))).)))).............. (-16.20)
+>seq875
+CCACUGUUUCUCGCCCGCGAAUGAACAGUGGCGUCGGUCUGAGUUGGAUUUUCAAUGGGUACCCAUUGG
+(((((((((.(((....)))..)))))))))....(((((.....)))))..((((((....)))))). (-21.20)
+>seq876
+AUCUGUCCCCUGCACAGGCCAGCAGAUCAUAUGCCCUAUAGGGGCGCGGUCAUCCGUAACCGCU
+((((((..(((....)))...)))))).....(((((...)))))(((((........))))). (-21.70)
+>seq877
+GCUCUCAUCAAGUGGGAAAGCUUUCCCACCGUGGAUGAGAGCGUGUCUAAACGAGCCGGUGUUGACCCCUACGCAAGGGGGUC
+(((((((((..(((((((....)))))))....))))))))).....................(((((((......))))))) (-38.10)
+>seq878
+UUCGUUAUAGCUUAAACGCAGUCGUUUAUACUGGUAUAACGAAUCGUAACAUAUAUGUCCCUCCAGGUUAGUGAUAACCUGG
+(((((((((.(.((((((....))))))....).)))))))))...................((((((((....)))))))) (-23.00)
+>seq879
+UAGAGUUUGUCUGAGGUCAGACAACACUCUAGACGAGUUACGUAGUGUGUCGGGAUCACGGCGUUAUCCGUGAUCCG
+(((((((((((((....))))))).))))))..(((..(((.....))))))(((((((((......))))))))). (-32.70)
+>seq880
+CGGGACGUCAUACAUGUGAUGCCACCAUCAAAUCUUUAUGACGUCCCGGGGCUUAACGCGAUGCUGCCGGUCUGCCGGCC
+((((((((((((....(((((....)))))......)))))))))))).(((..........)))(((((....))))). (-35.00)
+>seq881
+UACGUUCGCAACAGGAUGUCAACCGAACGUAGUCAUCACGUAUUAGGCCUGGGGAAUGUAAUCAUUCA
+(((((((.(..((((.......((..((((.......))))....))))))).)))))))........ (-13.70)
+>seq882
+AGAUAUCGGGUGCUCCGCAGCACCCGAAAAUAUCUGUUGCCUGUCAUUCGGUCUCAGUGAUCCCGACUGA
+((((((((((((((....)))))))))...)))))........(((.((((((.....))..)))).))) (-24.50)
+>seq883
+AGUGGAGUUGAAUGAGACAUUAACCUUCCACUACUAACUAGAUUUUAUUCGUCUGGUCAUGCCCAGG
+(((((((((((........)))))..))))))....(((((((.......))))))).......... (-14.70)
+>seq884
+CCAAGCGCGAGUUGGAACAUUUCGCUUGGUCAAUGUAUUUGUCUGAAUCCACCUGUACUGGUGGAUG
+(((((((.((((......))))))))))).................(((((((......))))))). (-22.20)
+>seq885
+UGAUUACAUUCUCGAACAAUUCGAGCGCCUUAAUCACUAAAGAUCUUUCUUGAGUUACCUCGGACUGCGUUCCGAGGUG
+.(((((....((((((...)))))).....)))))(((.((((....)))).)))(((((((((......))))))))) (-24.90)
+>seq886
+UUGAUCAGCAUAGUAGGUCACAAGACCUACGCCGAACUGAUCAACGAUAGUCCGUACAUACCGCACGUUGGUAAACCUGGCUUACCAACA
+.(((((((....(((((((....)))))))......)))))))(((......)))...........((((((((.......)))))))). (-29.50)
+>seq887
+GCGCUUGGCACAGAGGGCUCUAUUUGCCAAGCGCCGGUACCUCACAUAGUGGGGGGGCAGGUCCAACUGACCUGCCA
+((((((((((.(((....)))...)))))))))).....((((((...)))))).((((((((.....)))))))). (-42.30)
+>seq888
+CCUUUUAGACUGCAUCGGUAUGUUUCCUGUCUAAAAGGUGGCCUGGACGGACACGUACCAGGCACGGCCGCCA
+((((((((((..................))))))))))..(((((((((....))).)))))).......... (-27.40)
+>seq889
+GCUUAAAUUAAGUUAAGUUACUUAACUUCUGCAUUUAAGCGCUCGACCUGAGUCCGACACACCGGUUGGUCCGGUGUGU
+((((((((.((((((((...))))))))....))))))))((((.....))))...(((((((((.....))))))))) (-29.10)
+>seq890
+ACAGUAGAAUAUUCGACUCGAAUAUGAGAGUACUGUAGGCCCGGAGCUUGGCGCGGCGGAAAGCCGU
+((((((..(((((((...))))))).....))))))..(((........)))(((((.....))))) (-22.20)
+>seq891
+AAAAGUUUCUACAGACUCAGGAGCCGGCUCCUGAACAUGUAGAAACUUUUGGCGGGACCACCGUGUUGCAGUACGGGGUGACCCGUACG
+(((((((((((((...(((((((....)))))))...))))))))))))).((((.....))))......(((((((....))))))). (-44.90)
+>seq892
+AGCCCGGUGAUGGUUUUGAACAAAACCAUUCACCGGGCUUCUCACGUGGAAACCACUGUUGGCCAAGUUACCAACAC
+(((((((((((((((((....))))))).))))))))))......((((...))))((((((........)))))). (-36.40)
+>seq893
+UGGAACGGUUCGAUGUAGGAACUACGAACAAACCGUUCCAUAUCCAGGAGAUUAGCCAAGUUACACAAGUAACUUU
+((((((((((...(((((...)))))....))))))))))......((.......))(((((((....))))))). (-23.00)
+>seq894
+AGGCUGGAUUCGGCCGUAGGUACGGCGUCGUCCAGCCUAGGUCGGGCGGAAUGGUACAUGUGGCGACAACGCCACAU
+(((((((((...(((((....)))))...))))))))).......((......))..((((((((....)))))))) (-36.60)
+>seq895
+UCCGCUUCUUACGGGGGGCACCCCCUACGUCUAAGAAGCGGAAACCAUGUGGGCGGAAUCUCGUCGGCCAUUGACGAGG
+((((((((((((((((((...))))).)))..))))))))))..((....)).......(((((((.....))))))). (-35.30)
+>seq896
+AGAUGGCUCUCUAUGGUCUGCCCUUGGCAGACCUACGGAGAGCCAUCUUUUAUACACUAACAACGAUAUUUGUCCAAUAUU
+((((((((((((..((((((((...))))))))...))))))))))))...........((((......))))........ (-35.70)
+>seq897
+GGGGAGGCCUCUUCGAACUGCGCAGUUCGAUCAAGGCCUCCCCAUCAAAUUGUGCGUACCCUAACGUGUUUUAUUAUCGCAAAACACGC
+((((((((((..(((((((....)))))))...)))))))))).....................((((((((........)))))))). (-39.10)
+>seq898
+CAUCUCAGCUUACAGUCAGGACUGUGACGCUGAGAUGCGACACGUGGUGUGACGCUUAAUGCCCCGCGACAUUAG
+((((((((((((((((....))))))).))))))))).....(((((.(((........))).)))))....... (-28.50)
+>seq899
+AGGUGCGCCGAUUGUGAAACUCGUAGUUUCAGUAAUUCGGCGCACCUGUACUGACCGAGGUAAUGAGCUCACGCAUCCAUCUAUGCGUGG
+(((((((((((((((((((((...))))))).))).))))))))))).((((......)))).......(((((((......))))))). (-39.50)
+>seq900
+UGAGCUUGGCGCGGGAGUAUGGGACAUACUCCCAAGACGCCAAGCUCAUGCUACUUAAGCAAUACUACAGCGCGGCUCCCGCGCC
+(((((((((((((((((((((...)))))))))..).)))))))))))((((.....))))........((((((...)))))). (-46.70)
+>seq901
+GUGGCGGUUCUAGCUUAGGAAACCGCCACUGACCGUCCAGGGCAAAAGCCGUCACUAAUGACCAUUUAGUGAU
+(((((((((((......)).)))))))))...........(((....)))((((((((.......)))))))) (-28.40)
+>seq902
+UGCUUGAUUGCUAGUAAGAACUAGAGGGACAUCAAGCAGCUUGAACUCCAAGAGCAUAACUGGCUAAGAGGCUAGCCAC
+((((((((..(((((....)))))......))))))))((((.........)))).....((((((......)))))). (-22.70)
+>seq903
+ACCCAUCGAGCAGUUGCGCGGCAGAGGGUGCUCGAUGGGUUUAAGAACGUUGGUCUAAUAAACUUCUUUAUC
+((((((((((((.((.(......).)).))))))))))))..(((((.(((.........)))))))).... (-26.30)
+>seq904
+UUGAUAUCCAUCCACUGAUGUCAGACGCUGGAUAUCAACAAUACAUCAUCUCAUUAAGAUACACGUCGCGUUGUGUAA
+((((((((((....(((....)))....)))))))))).....................((((((......)))))). (-18.90)
+>seq905
+AACUCCUACAUCUUGGAUGUACCAGGAGUUCUCUAUGUGAGAUGGAUCGGCGCCGUUAAGCACGGCGCC
+.(((((((((((...)))))...))))))((((.....))))......((((((((.....)))))))) (-29.20)
+>seq906
+AGGUGGAUCGUGCAUUGACGCGAGUCGACGCGCACGAUCCACCUGCGAGUUGAGCUACAGGAUCCCCGUUUACGCUUAAACGGGA
+(((((((((((((.(((((....)))))...)))))))))))))((.......)).........((((((((....)))))))). (-41.50)
+>seq907
+UAGUCUGCAUUGGCCCGCGGGCCAAUGUGUGCGACUAACUGAUCAAUUCUCGGCUUGUCAAAGACUAUAUUUC
+(((((((((((((((....)))))))))....(((...((((.......))))...)))..))))))...... (-24.50)
+>seq908
+AAGCUAUAAGCGCCCUGAUGUGGAUCAGGGUAGUUCCUUAUAGCUUGGGCAGGUCGCAGCUGAAAGCGGGUUCCCGCUUA
+((((((((((.((((((((....)))))))).....))))))))))(((.((.((((........)))).)))))..... (-34.30)
+>seq909
+ACUCUUCUGUCAUCAUCCGGCCCCGGAUGCUAACAGAAGAGUCCUAUCCAUUAUAUAGGGGCUGCCUUGGCAGC
+((((((((((...((((((....))))))...))))))))))(((((.......))))).(((((....))))) (-32.30)
+>seq910
+CUAGCCCUUAGGCACACCGUGUGCCUUAUAUGGGCUAGACAAUUUACUUGUCCAGCCUAUGGCGGUACCACCAU
+(((((((..(((((((...))))))).....)))))))...........((((.(((...))))).))...... (-27.30)
+>seq911
+UUAACUAUCUUUUCUUGUGAAACGUUGCAUAGUUAACGUUUUAACAACCUGUUGACUCACCAGUCA
+..............(((((((((((((......))))))))).)))).....(((((....))))) (-12.20)
+>seq912
+GUAGCGGGGACCAAGCGCUUUCGCGCUUGGCGUCCCCGCUACGGCACAUGUUGCGCUGUCACUGUUUGAGUGC
+((((((((((((((((((....))))))))..))))))))))(((.((...)).)))..((((.....)))). (-40.60)
+>seq913
+AAAAUUAGGCGUGGAGUGCAAACUGGCUUUCGCCUAAUUUUACUACCGAGAGUAGGAGAAGAAGUGCUGAACACC
+(((((((((((.(((((........)))))))))))))))).((((.....))))........(((.....))). (-20.30)
+>seq914
+CAACGUACCUGACCGGGUGCCGGUAUAGUUACGUUGUGGUAGCUAACGUUAAGUAUUAGCUUGCCUUAAGCUAAG
+(((((((.((((((((...))))).))).))))))).((((((((((.....))..)))).)))).......... (-25.00)
+>seq915
+UCGGCACUUAGGCGCGUUCUAGUUCUAGAACGCCCCAUGCUAAGUGCCGACUAGCCCGCCUUCCGGGGUAUGUUGUAAGACUUGCUUACAACA
+((((((((((((.((((((((....)))))))).))....)))))))))).((.((((.....)))).))(((((((((.....))))))))) (-44.60)
+>seq916
+AACAGUCAGUUUGGACGCAAAAUCGUUACUGUUUGCACGGGCAGUCACCUGUCAUAACGAUUUCUUCGUUC
+............(((((..(((((((((.....((.(((((......))))))))))))))))...))))) (-16.60)
+>seq917
+AUACUCCCGAAGAGCCCGAUGCUAUUGCAUCGGGCUGCCUUCGGGAGUAUGGGGUGAACCCAUGGCCAGCCCUCGUUCUUUAAAGAACGAGG
+((((((((((((((((((((((....))))))))))..))))))))))))(((.....))).........(((((((((....))))))))) (-58.00)
+>seq918
+GACGUCUGUGCCGGUAGUGGAUACACUACAUGUUCGCACAGACGUCUAUCAGAUCGAUCUUGUCGUACGGUACGGAUAGUACCGUAC
+(((((((((((((((((((....)))))).))...)))))))))))..................(((((((((.....))))))))) (-42.00)
+>seq919
+GCCACCGACCCGCAACGCGCAACCGGUGGCCGUCGCGUGUCGACAGAGCGCACAGAAGCGCGG
+(((((((....((.....))...))))))).((((.....))))...((((......)))).. (-24.00)
+>seq920
+UAUCCAAUGCCUCCGUCGACGACGGAGUAUCCAUUGGAUACUAACUCGCUUUUAGUUGGCCUGAGCAUAGCCUCAA
+(((((((((.(((((((...)))))))....)))))))))((((((.......))))))..((((......)))). (-25.70)
+>seq921
+UACGAUAUGAGAGAAUUCUCGCCACUUAUCGUAUUAACCGGUUUUGGUGUUCCGCCGUCACGUAACGGCGGAC
+((((((((((((....))))).....)))))))...((((....))))..((((((((......)))))))). (-25.80)
+>seq922
+AGCCGUACGUCGCACGGGCGCCGUGCGAGCGCGUACGGCUGUAGGAAUUGCCACAUGGACAUCGAGGCUCGAUC
+(((((((((((((((((...)))))))...))))))))))((.((.....))))......(((((...))))). (-32.10)
+>seq923
+UACACAAAUCAUAGGAGUACACUCCUAUUGACUUUGUGUACAGGGAUCGCCACUCCCAAGUUUUGAUAAGUACGGAUCAAAACU
+(((((((((((((((((....)))))).))).))))))))..((((.......)))).(((((((((........))))))))) (-29.70)
+>seq924
+ACUAAAGCCGCACAUUUUCAAAUGACGUCGGCUUUAGUGGUUAGCGCGUACGUCUAACAUAGAUUUAACCUAUGUA
+(((((((((((.((((....))))..).))))))))))...(((((....)).)))((((((.......)))))). (-21.00)
+>seq925
+AUGCGCCGAACCUUCUUAAGUUUCUUAAGAACGGUGCGGCGCAUGCGGUAAACCCGCCCCACUAUAACCGAUUCACGUUCGGUUG
+((((((((.(((((((((((...)))))))).))).))))))))((((.....)))).......(((((((.......))))))) (-38.50)
+>seq926
+CGCACCUCACAUCGUCGUCACACGACCCCAAUGAGGUGCGGGUCCAGGUGAGCUGGAUGAAAAUUGGAAAUUU
+(((((((((....(((((...))))).....))))))))).((((((.....))))))............... (-29.00)
+>seq927
+CUCCUGCAUGUGACGCCACCAUCGUAGGAGAGCGAUCAACUCGUCCAACGAGGAUCCUGAUGAGGAUCCUG
+((((((((((((....)).))).))))))).((((.....))))......((((((((....)))))))). (-27.80)
+>seq928
+GCUAUGGCCAUCAUGGCGCCUUGCGCCAUGCAAUUGGCCAUAGCCUGCUACAUGCUAGGUGGCUUGGACCAGCUUUGGUCCAAC
+((((((((((.((((((((...))))))))....))))))))))..(((((.......)))))((((((((....)))))))). (-47.50)
+>seq929
+UGCCAGCCGGCGGCCUACUUUAAAGUACGAACGCCGGCUGGCACUAAAGCUCGUUUGGACUGGAUUGACUAAAAUUAGUCAAUC
+((((((((((((..(((((....)))).)..))))))))))))(((((.....)))))....(((((((((....))))))))) (-41.30)
+>seq930
+AAUAGUUAGUGUGUUUCCCCUGCGGGAAACCACUACUAACUAUUCGGGUUGAACACUGCUGUUUGUUAGGGCUCCCUAACU
+(((((((((((((((((((....)))))).))).))))))))))......(((((....)))))((((((....)))))). (-29.30)
+>seq931
+GCCCACUUAUAUGCUACCCGUGGUCGCAUUAUAAGUGGGCUAGGUCGAGUACCACUCCUUUACGCAACAACGUAAAA
+((((((((((((((.(((...))).))).)))))))))))......((((...)))).((((((......)))))). (-29.70)
+>seq932
+ACCGAUAAUUCGAGUAUGGGCAUACUGAGCUUAUCGGUGUUGGUCCUCACAUGAUUCUCGGAUAAGAGAU
+.((((....(((.((..(((((((((((.....)))))))..))))..)).)))...))))......... (-19.90)
+>seq933
+UGCGCGAUGGGAUAAGGUCUACCUUUCUGCCAUCGCGCAUACACCGGGUGUGUUUGGUAGUCGGUGAACUAA
+((((((((((.(.((((....))))..).))))))))))..((((((.((.......)).))))))...... (-31.30)
+>seq934
+CCUUCCAGCUUUGGAUGAAUCGUAUAGCUGGAAGGAACCCUGUACGGGUUUGCGUGUCGACUGCCUCAGUCGACG
+((((((((((...((....))....))))))))))(((((.....))))).....((((((((...)))))))). (-35.40)
+>seq935
+GCGAACACCCGCAUCUACAGUUGUAGACUAUGGUGUUCGCGACCGCAGGCCGUUGAGUUGAAUUUUUGUAAAUUCAA
+(((((((((....(((((....)))))....))))))))).................((((((((....)))))))) (-25.70)
+>seq936
+UGUCUCCCGAUCCUCCUCCCGAGGAGGAAUAAGAGACAUAUAUCAAGUAGGCCACGACAACCAACGUUCGUUGU
+((((((....(((((((....)))))))....))))))...............((((((((....))).))))) (-22.30)
+>seq937
+CCACCAAGAACUCGCGGACGCGCGAGCGCGUCCCAGAGUUCUUGGUGGUGAGGGCACUCCUAAGACCCGGGCCUUCUCGGU
+(((((((((((((..(((((((....)))))))..))))))))))))).((((((...((........))))))))..... (-46.10)
+>seq938
+GGAACAUACCUGCAGACAUUGCCAUGUCUUCUGACGUAUGUUCCGAGGUGCCCAACGCGUCACGGGCUGCCCCGU
+(((((((((..(.((((((....)))))).)....)))))))))((.(((.....))).))(((((....))))) (-28.50)
+>seq939
+GUGAGAUCAACAUGCCAACCUUUGGCAGCAAGUUGAUCUCACCCCUACCGGAUAAUCUUGCGUCCAGUAGGACUUGGACGC
+(((((((((((.((((((...))))))....))))))))))).((....))........((((((((......)))))))) (-34.00)
+>seq940
+GGAGAAAGUGGCUGUAGCCUAGCUUUCUCCGUCAUAGGUCAUCGCUAAUAGUCAGGCCCCACUGC
+((((((((((((....)))..)))))))))......((((...(((...)))..))))....... (-20.80)
+>seq941
+AGUCCAAUUUGGGUCAAGCUCCUAAUGGAGCUCGCCCUCCAAAUUGGACUGGCCCGCUCUGGUCACCCCGUCACGCACUGGAGUGCGUG
+(((((((((((((.(.((((((....)))))).)...)))))))))))))((((......)))).......(((((((....))))))) (-42.70)
+>seq942
+CCCGCUCCGCUACACGGCGUGUAAAUGUAGCGGGCGCAGCGCAUGCGAAUAUAUUGACGCCUAGUCAAUAA
+((((((.((.(((((...)))))..)).))))))((((.....))))....(((((((.....))))))). (-25.40)
+>seq943
+AGCCGACAAUAAAACCUUUAAUAGGCGGCUCGGUAACUAACGAAGCAUAAUGUGUUCAGCAUUAC
+.((((.........(((.....)))))))(((........)))....((((((.....)))))). (-11.40)
+>seq944
+UCACAUUGCAUUAAAGGACUUUUAGUCCUUUCCGACUGCAAUGUGAUGCAUAGUUAAUAUAACGGCUCCUACGAGGGAGCC
+((((((((((((((((((((...))))))))..)).)))))))))).................(((((((....))))))) (-33.10)
+>seq945
+UGUCACGUACAUCAGGGUGAUGUUAGUGUGACAUUGACGAGUUCACUUUACUAUGGAGCACUAUAGU
+(((((((.((((((...))))))...)))))))................(((((((....))))))) (-17.80)
+>seq946
+GUCGACGUUGUUAAGUCUCGACCGAGACUUUAUUACGUCGACUUCCGGGCGGGGAGUCUGUCGCCUGCCGGUUGGCAGGCGA
+((((((((.((.(((((((....))))))).)).))))))))...(((((.....)))))(((((((((....))))))))) (-46.30)
+>seq947
+CUCUUGGCAAGCACAGGUGUGCUUGGUGCCAAGAGGUGAACCUCUCCGCGGCGAUCGUAGGUGUAAAACCUACGAU
+((((((((((((((....)))))...)))))))))(((........)))....(((((((((.....))))))))) (-35.40)
+>seq948
+AUCGCCCGCCGUUGCUUACUUUGGUAAGAGUGAGACGGCGGGCGAUGGCGCACGCCGAUCAGCACGACCCACCUGCAGGUCGUA
+((((((((((((..((((((((....))))))))))))))))))))(((....))).......((((((........)))))). (-45.40)
+>seq949
+UCGGAUGAUGGGCCGUUAUACAGGGUCUGUAUAAUUGACCCCAUCAUCCGACUAAGAACUUUCAUUCUGUCAACAUGCGAUCCAUGUUGG
+((((((((((((..(((((((((...)))))))))....))))))))))))...((((......))))..(((((((.....))))))). (-36.70)
+>seq950
+CGGCCAUUUACCAUAGCCUGCUAUGGUCCGCGGCCGGCGCAGGCCAUGGGUGAAAUGUGUCGGCACACAUG
+(((((((((.((((.((((((..(((((...)))))..)))))).))))...))))).))))......... (-29.90)
+>seq951
+CAUGGGCGAGGCGUUAGUUCGUAUCCGAACUCGCCCGCCUCGCCCAUGAGGCACUUGAUGUCGUGUUUGAGUAGCGAACUCG
+(((((((((((((..((((((....))))))....)))))))))))))((((((........))))))((((.....)))). (-41.40)
+>seq952
+CGCCGCCUUUCACAUCAGUUCAACUGAUGUCCUGAAAGGCGGCGGUGCUCAGGUAGUCAAAUCCAGGUAAAGCGCAAUUACCUGGG
+(((((((((((((((((((...))))))))...))))))))))).(((....))).......((((((((.......)))))))). (-41.50)
+>seq953
+CUGUCUAGUCCUUACCCGUAAGGACCUCAGACAGGGAUCCUCGAGACAGUCAGCUUUCAGGUUGUUUUACCUGAAAA
+((((((.(((((((....)))))))...))))))....................((((((((......)))))))). (-25.80)
+>seq954
+AUAAGACCCGUGAGCGCACGCUAAAGUCCGGGUCUUAUGAGUUCAAUACUGAGCUUAUGGCCCGUGCCCCAUUGGGCACGGGCA
+((((((((((..(((....)))......))))))))))(((((((....)))))))...((((((((((....)))))))))). (-45.50)
+>seq955
+UCCAAGUUUGGAUCUCCAAAUAGUUGGAGUUGGUACUCACUCUGAGCGACCUUAGCUUACUAAGGUCG
+(((((((((((....))))))..))))).......((((...))))(((((((((....))))))))) (-23.90)
+>seq956
+AGUAGUAGUUACAGUCCGUAGCAACGGAUGGUCGUAACUACUACUUCUAUAGAUUAUUGGGGCCACUCCAUUCCUCCGGAGUU
+((((((((((((.((((((....))))))....))))))))))))((((........))))...(((((........))))). (-28.50)
+>seq957
+UUAUGCUGCAGACCUAUUCUAAUAGGGAGCGCAGCAUAAGCGACUUUAUGUUGCAGCAUUAGUGUAACCACACUAC
+(((((((((...(((((....)))))....)))))))))(((((.....))))).....((((((....)))))). (-28.40)
+>seq958
+CUCCCGUUAUUACAUAACCAAGGGAGGGCGACAUCCGACGUACCGGUCUACACCGU
+((((((((((...)))))...)))))((.(....(((......)))....).)).. (-14.20)
+>seq959
+AAGGAGGCUAACCUAGUGUGCACUAGGUGCACGCCUCCUUUAUCCGUGUGAAUUUCUUGAUUUCUCUACGAGAAAUC
+((((((((..(((((((....)))))))....))))))))..................((((((((...)))))))) (-28.90)
+>seq960
+CGAAAGUACUACCUGUUCAGGUGCCCUACUUUCGCCAGUGUCCAACACUUUUUGCCGAAGGGGAUCUUCG
+((((((((.(((((....)))))...))))))))..(((((...)))))......(((((.....))))) (-18.90)
+>seq961
+UAACCGAUGUUGACACCCUGUCCUCACAUCGGUUACCCCGCUCAGGGCUCUAAGCGCCCCUCGGGGCGCUU
+((((((((((.((((...))))...)))))))))).(((.....)))....((((((((....)))))))) (-35.60)
+>seq962
+CGUGCAAUGGACAGGAAUUCCUGUGACUAUUGCACGUUCUGCAAGACACAAACAGAAUUUAAGGGAGCUUAAAUC
+(((((((((((((((....)))))..)))))))))).((((...........))))(((((((....))))))). (-25.80)
+>seq963
+GGCGUUCAAGUGAGAUUGUAUCUCACGGGGAACGCCGCCGGUCCUCGUCGAUUGGUCUUCAACCU
+(((((((..(((((((...)))))))...)))))))(((((((......)))))))......... (-29.00)
+>seq964
+UACCAACGUGUCAAUGCCAACCCUUGGCAUUAAUUCACGUUGGUAUAAGCGCACGGCAAGUUCUAAAAGAUGUAGACGAGCACAUCUU
+((((((((((..((((((((...))))))))....))))))))))...((.....)).........(((((((........))))))) (-30.40)
+>seq965
+CAGGAUAUCGGCUAUAAGAGGUUAUAGCCGAAGGGAUCCUGCGCUUUGACAGUUUCCGCUAACAAAUCGAAAUUUGUUA
+.......((((((((((....))))))))))..(((..(((........)))..)))..((((((((....)))))))) (-23.90)
+>seq966
+AUACUGCCCCAUCACAUCUUGCCAUGCAAGAUGGCUUCUGGGGCAGUAUUGAAUGCACUUUGGGAAAUAGGCGGGGACCUUUAACCGUCCCCGCG
+(((((((((((...((((((((...)))))))).....))))))))))).....................((((((((........)))))))). (-46.80)
+>seq967
+GUGAGGUAAGACAGAGCAUCUGUCUUCUUCGCUCACACAGAAAAUAUCGUCCCCUGCACGGGAGUGGUGG
+((((((.((((((((...))))))))))))))............(((((((((......)))).))))). (-24.80)
+>seq968
+GCCUAUUAUUAGCGUGAGCUAAAUGAUAAUAGGCUGCCAAAAUCUGUCCACGGACAAGAGUGACUUGUCU
+(((((((((((((....)))....)))))))))).................(((((((.....))))))) (-21.60)
+>seq969
+ACUCCAGAUUAUGCAUGCCAAUGCAUGUCGAAUGGAGUACAAACUAGAUUGAAAAACGUGCACAGACACGC
+((((((...(((((((....))))))).....))))))..................((((......)))). (-19.20)
+>seq970
+AGCGCUCUAAUCAAAAUUGACCGUAGCGCUGUUCGAACGGAUCAGUGUGACUUCCUCUAAAGGAAA
+.(((.((...........)).))).((((((.((.....)).))))))...(((((....))))). (-14.80)
+>seq971
+AAACACUUCCAAGUAGUUACUGGCGAAGUGUUUCGGAGUCAACCUUGCUUGCAUUUAGUGAUGG
+((((((((((.(((....))).).))))))))).........(((((((.......))))).)) (-13.20)
+>seq972
+CAAAAGGUGAGGCAUUCAUGUUUAACCUUUUGCUCCCCUGAGGGUUUGGGCCUCAUGGCGCGAGCGCGCCAUGG
+.(((((((.(((((....))))).)))))))(((((((...)))...))))..((((((((....)))))))). (-29.90)
+>seq973
+GGCCUUGAAGGUGCGAUCAUUCGAUCGCAACGAAGUUCAAGGCCAAGAUAAAUAAUCUGAUAAGCCAGUGAACCCGACACUGGCUU
+(((((((((..(((((((....)))))))......))))))))).((((.....))))...(((((((((.......))))))))) (-39.50)
+>seq974
+GACGCGGCGGAACAGACGACAUCGGAUGUCGUUGCCAUCCGCCGCGUCGCGAUAGAUCAUGGUGAGUGUUGCGAGAGGAAACCGGCCUCUCGCC
+(((((((((((...((((((((...))))))))....)))))))))))((((((..(((...))).))))))((((((.......))))))... (-49.10)
+>seq975
+CGAGGUCGCUUCCGGGCGCCCGGAGACAACCUCGGCCACUGGUUGACUGCGGGACUCACAUAGUCCU
+((((((.(.((((((....)))))).).))))))(((...))).......((((((.....)))))) (-26.00)
+>seq976
+GAUCCGCCGUGUUCUUACAUUUGGUGGAUCUUACUUCUACAGGCAGAAUGCUGUACUCAUCCUACACAUGAGUACG
+((((((((((((....))))..))))))))...........((((...))))((((((((.......)))))))). (-26.00)
+>seq977
+GGUUGAGCAAGUUGGCUUGGAUCUUCAACCGGCAUAUCUGAUAAAGGCCACUGCCACGGAAUCCCGUGGCAGA
+(((((((((((....))))....)))))))(((.............))).(((((((((....))))))))). (-30.40)
+>seq978
+CUUCGUAUGGUGAAGUGGUAAUCCACUUCACAACACAUACGAAGCUUUCAGGAAAUAGAGUACUCUGGCGUAGAGUU
+((((((((((((((((((....)))))))))....))))))))).................((((((...)))))). (-28.50)
+>seq979
+CUGUUGCACGCUACAGUGUAGCGUCAAGUAACAGAGUUGGGUCGCAUCUGACAGCAUGAUAAUGGAUCAUGU
+((((((((((((((...)))))))...))))))).(((((((...))))))).(((((((.....))))))) (-26.10)
+>seq980
+UGGUAAUCAAUGAUCCGUCACGCGGUGACGGGCACCAUUGAUUACCAUAUUCACAUAGAUACUAAGCCUCACCUAGGUGU
+((((((((((((.((((((((...))))))))...))))))))))))..................((((.....)))).. (-29.50)
+>seq981
+AUGCAAGGGCGUCUCGUCAAACGAGACGGGUCCCUUGCAUAGUUAUAGAGUAUAAGAAGAACCUCAGGCCGAGU
+(((((((((((((((((...))))))))...)))))))))......................(((.....))). (-26.80)
+>seq982
+ACGAGCAUUUACCUAAGCUAGGUAAAUGGGACUCGUGCAACUCAACGUAUGAAGCAAAAGCGGAGAUGGCCGCUUUU
+(((((((((((((((...))))))))))...)))))((...(((.....))).))((((((((......)))))))) (-26.00)
+>seq983
+ACACACACAAGCGCGCAGUCGACUGCGCGGUAGUGUGUGUGGCGCAAGUCGACAGUCGUCAGGUGACC
+((((((((.(.(((((((....))))))).).))))))))(((((..(.(((...))).)..))).)) (-32.90)
+>seq984
+CUUACAGCGUACCCCAUCGUCGAUGUCUGUGUACGCUGUAAGCACGCUGGUCGAUUUCUUGCCACGGCGUGUUUUCGCCGUG
+(((((((((((((.((((...))))...).))))))))))))...((.((.......)).))(((((((......))))))) (-33.40)
+>seq985
+GAGUGCCAACUUAGGAAGGCCUAAAGCCGGUGGCACUCCCUAACUUAUACCCGCCAUAUAGGCGCCAUCUGCCUA
+((((((((.((((((....)))))....).))))))))....................((((((.....)))))) (-22.20)
+>seq986
+CAGACCUAUAUCUUUAGUUGUAUACAACUAUGGCGAUAUAGGUCUGACGUGCACGUCAGUCUCGUAGCUUCCACGUGAAGCUAG
+((((((((((((..((((((....))))))....))))))))))))(((.(.((....))).)))((((((.....)))))).. (-32.40)
+>seq987
+ACAAGGGGACUUUCGGAAGUGUUGCCCUUGUAAAGCUAGCCUUGCCGUUAGCCCCUAGUUAACUAGGGA
+((((((((((..........))).)))))))...((((((......))))))((((((....)))))). (-26.60)
+>seq988
+GUGAGUCCGCAUAGACUUUAGUCUAUUGCCGACUCACGUCCAUCGAUUGACUCGACUAAACCGCUUAUAGGUU
+(((((((.((((((((....))))).))).))))))).....((((.....))))...((((.......)))) (-25.20)
+>seq989
+AGUUAUUGUCCAGGCCUCCAUACCUAGGGUAUGGAAGCUCUGGACAAUAACUUCACAUUUGGUUGCGCCACACGGUUACUGACGAGUAACCG
+(((((((((((((((.((((((((...)))))))).)).))))))))))))).......((((...))))..((((((((....)))))))) (-47.30)
+>seq990
+CCCGUCCCAACAAUGAUGAUGCAUCAUCAUUCCUCCCGGACGGGGUGGUGUCCAACAGUAACAGUCGAUCACUGAUUAUCGAU
+(((((((....((((((((....))))))))......))))))).((.(((...))).))...((((((........)))))) (-24.80)
+>seq991
+AAAGAUCUUAUGAGCAAAGUUGAAUUCAUAAGAUCUUUUUGAAUGGAGUUCCUCCGAAUAUUCUUCAGUAAUAGAAUAA
+((((((((((((((((....))..))))))))))))))......((((...))))...((((((........)))))). (-21.00)
+>seq992
+UCUAACCCGUUUAUACGUGAGGCCCUCACGUUUACCAACGGGUUAGAGAUCCUAGAGGGUCCAUUUCAUUAGACCCUGAA
+(((((((((((((.(((((((...))))))).))..)))))))))))........((((((.(......).))))))... (-33.90)
+>seq993
+AGAUCCUUCUUGUUCUCUUGAGAUCGGAGAAGGAUCUACUUGAGCUAAGGCAGAGAAAGACAAGCGGGUCUUG
+(((((((((((..(((....)))...))))))))))).(((..((....)).))).(((((......))))). (-23.00)
+>seq994
+CCAAGGGACGUACAGUAAAUUUCUUUACUGUAGUCUCCCCUUGGUUGCCGACCGGGUAUUCUAUGUUGAGGGAGGUUUCAACAUC
+(((((((((.(((((((((....)))))))))))...))))))).((((.....))))....(((((((((....))))))))). (-31.30)
+>seq995
+GGCGUUCUCUUGAUAGCUAACGACUUAGCACGACACAAGAGAACGCCCUGGAGAUCCCCGGUUUAAAAGCUCCAUCAGCUUC
+((((((((((((...(((((....)))))......))))))))))))((((......)))).....(((((.....))))). (-30.10)
+>seq996
+CCGUCCGGAGUUUGAGGGCGCCCUCAAUCUGUCCGGACGGCACUCUUGUAGAGGAGAUCUUGGGGCGCAAGAC
+(((((((((..((((((....))))))....)))))))))..(((((....))))).(((((.....))))). (-34.10)
+>seq997
+AUUCGCACGAGACUCGGCCGCAAUCGGCCGAGUCCUGACGUGCGAAUUAGCGCCUGCCGGUGGUGGUCUAGUACGUACUAACUAGACA
+(((((((((.((((((((((....))))))))))....)))))))))((.((((....)))).))(((((((........))))))). (-46.10)
+>seq998
+AGAGGGUUAGGCAUAAAAAUGGUCACAUUUUCUCGUUCCUAACCCUCUGCAACCUGUUUGUCACUUCUUCAGGAGAA
+(((((((((((.((.((((((....))))))...)).)))))))))))....((((.............)))).... (-25.90)
+>seq999
+AAUGAGAAUUGUGCCGGGUAUAUACCCCGGUAACAAUUCUCAUUCGUUUGUAUAACGUGUGUCGCUCUGAGUGAUUUAUCAGAU
+((((((((((((((((((.......)))))).))))))))))))((((.....))))........(((((........))))). (-31.20)

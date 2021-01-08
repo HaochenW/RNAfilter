@@ -47,7 +47,7 @@ class Stack(object):
     
 
 
-# 找到每个RNAfold结构/子结构有几个分开的子结构，给出起始与终止位置；
+# 找到每个RNAfold结构/子结构有几个分开的子结构（茎环结构），给出起始与终止位置；
 # 输入：structure - RNAfold结构
 # 输出：start,end：每个子结构的开始与终止位置；        
 def find_start_end(structure):
@@ -62,6 +62,9 @@ def find_start_end(structure):
                 start.append(i)  #找到开始位置
             if structure[i] == '(':
                 structure_stack.push(structure[i])
+            elif structure[i] == ')' and len(structure_stack.stack) == 1: #避免两个子结构紧邻的情况造成的异常
+                structure_stack.pop()
+                record_flag = 1
             elif structure[i] == ')':
                 structure_stack.pop()
             
@@ -93,19 +96,24 @@ flag_record = np.zeros((len(info)))
 for index, row in info.iterrows():
     structure = row.structure.split(' ')[0]
     start,end = find_start_end(structure)
-    if len(start) != 3:
+#    if len(start) != 3: #60bp长度，不添加终止信号
+    if len(start) != 4:  #76bp长度，添加终止信号
         continue
     if end[0] == start[1] - 1:  #不同结构中间有间隔
         continue
     elif end[1] == start[2] - 1: #不同结构中间有间隔
         continue
+    elif end[2] == start[3] - 1: # for 76bp
+        continue
+    elif start[2] - end[1] < 8:
+        continue
     for i in range(len(start)):
         sub_structure = structure[start[i]:end[i]+1] # 由于python机制，需要+1
-        sub_structure = peel(sub_structure)
-        if i == 0 or i == 1:  ##RAR结构判定
+        sub_structure = peel(sub_structure)  #去除最外层匹配
+        if i == 0 or i == 1:  ##RAR结构判定 、 SL1结构判定
             if '(' in sub_structure:
                 sub_start,sub_end = find_start_end(sub_structure)
-                if len(sub_start) != 1:
+                if len(sub_start) != 1:  #中间只能有一个环结构
                     continue
                 sub_sub_structure = sub_structure[sub_start[0]:sub_end[0]+1]
                 sub_sub_structure = peel(sub_sub_structure)
@@ -113,13 +121,12 @@ for index, row in info.iterrows():
                     continue
             else:
                 continue
-        if i == 2:
+#        if i == 2:   #SL2结构，60bp模式
+        if i == 2 or i == 3:   #SL2结构、后续终止信号部分结构，76bp模式
             if '(' in sub_structure:
                 continue
         flag_record[index] = 1
-    if index == 15:
-        break
-    
+
 
 
 with open('filter_seq.fa','w') as f:

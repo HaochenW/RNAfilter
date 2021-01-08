@@ -76,14 +76,14 @@ class RNA_sequence:
         
         seq7 = base_pair(seq1[::-1])  #初始茎互补
         
-        random_len5 = random.randint(6,10)  #中间区域
+        random_len5 = random.randint(2,3)  #中间区域
         seq8 = random_generate(random_len5)
         
         RAR_seq = seq1 + seq2 + seq3 + seq4 + seq5 + seq6 + seq7 + seq8
         return RAR_seq
     
     def SL1_part(self):
-        random_len6 = random.randint(2,3)
+        random_len6 = random.randint(2,2)
         seq9 = random_generate(random_len6)  #SL1 茎
         
         seq10 = random_generate(1) 
@@ -100,31 +100,53 @@ class RNA_sequence:
     
     
     def SL2_part(self):
-        random_len7 = random.randint(6,10)
+        random_len7 = random.randint(3,5)  #中间区域
         seq15 = random_generate(random_len7)
+        
+        seq15_1 =  base_unpair(seq15[::-1])
         
         random_len8 = random.randint(3,8)  # SL2 茎
         seq16 = random_generate(random_len8)
         
-        random_len9 = random.randint(4,8)
+        random_len9 = random.randint(4,8)  # SL2 环
         seq17 = random_generate(random_len9)
         
         seq18 = base_pair(seq16[::-1]) # SL2 茎 互补
         
         seq19 = random_generate(1)
         
-        SL2_seq = seq15 + seq16 + seq17 + seq18 + seq19
+        SL2_seq = seq15 + seq15_1 + seq16 + seq17 + seq18 + seq19
         return SL2_seq
 
+    def terminator(self):
+        random_len10 = random.randint(6,7)
+        seq20 = random_generate(random_len10)  #终止序列的茎
+        
+        random_len11 = random.randint(3,5)
+        seq21 = random_generate(random_len11)  #终止序列环
+        
+        seq22 = base_pair(seq20[::-1])
+        
+        Term_seq = seq20 + seq21 + seq22
+        return Term_seq
+        
+        
+        
+        
+        
+        
+        
 if __name__ == '__main__':
     seq_class = RNA_sequence()
-    seq_num = 100
+    seq_num = 1000
     with open('raw_sequence.fa','w') as f:
         for i in range(seq_num):
             RAR_seq = seq_class.RAR_part()
             SL1_seq = seq_class.SL1_part()
             SL2_seq = seq_class.SL2_part()
-            sequence = RAR_seq + SL1_seq + SL2_seq
+            Term_seq = seq_class.terminator()
+#            sequence = RAR_seq + SL1_seq + SL2_seq  #60bp
+            sequence = RAR_seq + SL1_seq + SL2_seq + Term_seq #76bp
             f.write('>seq' + str(i) + '\n')
             f.write(sequence + '\n')
         
